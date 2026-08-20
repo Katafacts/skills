@@ -12,7 +12,7 @@ Family: Kaizen events · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-A TAM coverage map answers two separate completeness questions honestly, not one blended impression of 'good market visibility.' First: of your whole total addressable market, how much is even tracked as a named target account? Second: within the accounts you do track, how completely does each one's buying-group roles have a real, named contact — not just a company logo on a slide? Both are computed from what you actually enter. Every tracked account with zero real contacts is named directly as a dark account, and every buying-group role that's systemically missing across your tracked accounts is flagged the same way. This matters because B2B contact data decays fast — a contact found and never revisited stops being real coverage within months, not years — so this is meant to be a living, re-measured map, not a one-time snapshot.
+A TAM coverage map answers two separate completeness questions honestly, not one blended impression. First, list coverage: of your whole total addressable market, how much is even tracked as a named target account? Second, Market visibility: within the accounts you do track, how completely does each one's buying-group roles have a real, named contact — not just a company logo on a slide? Both are computed from what you actually enter, never asserted. Market visibility is specifically the second number — the contacts you actually have against the contacts you need, not a vague sense of 'good coverage.' Every tracked account with zero real contacts is named directly as a dark account, and every buying-group role that's systemically missing across your tracked accounts is flagged the same way. This matters because B2B contact data decays fast — a contact found and never revisited stops being real coverage within months, not years — so this is meant to be a living, re-measured map, not a one-time snapshot.
 
 ## When to use it
 
@@ -69,7 +69,7 @@ Analysis — AI helps:
 
 Drudgery — automated:
 
-- Computing list coverage and contact coverage percentages
+- Computing list coverage and Market visibility percentages
 - Flagging dark accounts and tallying role gaps
 - Exporting to xlsx in the house format
 
