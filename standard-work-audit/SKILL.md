@@ -36,7 +36,7 @@ Not when:
 
 The example below audits the tier-3 work instruction for triaging renewal-risk tickets, fifty-one days after it was written — including whether the step it originally flagged with no key point still has that gap.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/standard-work-audit
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/standard-work-audit
 
 ## Common mistakes
 
@@ -73,4 +73,4 @@ Standard work audit is licensed [CC BY 4.0](https://creativecommons.org/licenses
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/standard-work-audit.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/standard-work-audit.

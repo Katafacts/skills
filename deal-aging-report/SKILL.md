@@ -41,7 +41,7 @@ Not when:
 
 The example below is an outbound mid-market pipeline's deal aging: real stage-entry dates per deal, stage averages with the arithmetic shown, one deal correctly flagged as stalled at more than 2x its stage's average, and a countermeasure that traces directly to that specific deal rather than a generic 'work the pipeline harder' push.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/deal-aging-report
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/deal-aging-report
 
 ## Common mistakes
 
@@ -83,4 +83,4 @@ Deal aging / WIP report is licensed [CC BY 4.0](https://creativecommons.org/lice
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/deal-aging-report.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/deal-aging-report.

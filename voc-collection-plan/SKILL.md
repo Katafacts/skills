@@ -40,7 +40,7 @@ Not when:
 
 The example below plans standing collection for four goals using the exact instruments built elsewhere in this catalogue — customer interviews, support ticket tagging, and a gemba protocol — and honestly leaves the fourth goal (why enterprise deals stall) with no activity yet, naming the win-loss interview guide as the natural next step rather than forcing a weak activity onto it.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/voc-collection-plan
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/voc-collection-plan
 
 ## Common mistakes
 
@@ -79,4 +79,4 @@ VOC collection plan is licensed [CC BY 4.0](https://creativecommons.org/licenses
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/voc-collection-plan.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/voc-collection-plan.

@@ -43,7 +43,7 @@ Not when:
 
 The example below is a full worked A3: a TAGS box and trend chart showing a real, quantified gap; a Pareto breakdown — including a second-level stratification of the dominant category — that earns the root cause chain rather than assuming it; a causal chain that ends in something actionable; countermeasures that each name the cause they address; and a confirmation plan set before the fix went in.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/a3
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/a3
 
 ## Common mistakes
 
@@ -96,4 +96,4 @@ A3 problem solving is licensed [CC BY 4.0](https://creativecommons.org/licenses/
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/a3.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/a3.

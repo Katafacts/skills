@@ -37,7 +37,7 @@ Not when:
 
 The example below is a go-see walk that checks the renewal-risk queue's visual board and ILUO matrix against what's actually happening on the floor — three of four steps have a real key point, and the fourth is honestly left flagged rather than padded.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/go-see-protocol
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/go-see-protocol
 
 ## Common mistakes
 
@@ -75,4 +75,4 @@ Go-see protocol is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/go-see-protocol.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/go-see-protocol.

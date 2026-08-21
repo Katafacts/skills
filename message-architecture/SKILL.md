@@ -39,7 +39,7 @@ Not when:
 
 The example below generalizes the value hypothesis already built and proven for the Northline Freight opportunity into Beacon Analytics' standing message — the same 48-hour visibility target and $310K reference figure, organized as the message every deal should use, with the one unproven pillar honestly held back rather than shipped as a claim.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/message-architecture
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/message-architecture
 
 ## Common mistakes
 
@@ -83,4 +83,4 @@ Message architecture is licensed [CC BY 4.0](https://creativecommons.org/license
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/message-architecture.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/message-architecture.

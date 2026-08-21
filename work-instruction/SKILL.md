@@ -38,7 +38,7 @@ Not when:
 
 The example below instructs the exact triage task the kaizen event charter's routing rule and the sustainment audit both reference — three of four steps have a real key point and reason, and the fourth is honestly left flagged rather than padded with a made-up one.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/work-instruction
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/work-instruction
 
 ## Common mistakes
 
@@ -80,4 +80,4 @@ Work instruction is licensed [CC BY 4.0](https://creativecommons.org/licenses/by
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/work-instruction.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/work-instruction.

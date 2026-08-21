@@ -36,7 +36,7 @@ Not when:
 
 The example below is Beacon Analytics' own three-tier pipeline cascade — the same company as the deal A3 and revenue Hoshin worked examples elsewhere in this catalogue. The AE pod huddle catches exactly the stalled-deal and win-rate-risk pattern the deal A3 diagnoses, and the VP Sales huddle tracks progress against exactly the win-rate target the revenue Hoshin commits to. Two of three tiers have a named owner; the middle tier is honestly left unassigned rather than padded with a placeholder name.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/pipeline-management-board
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/pipeline-management-board
 
 ## Common mistakes
 
@@ -78,4 +78,4 @@ Pipeline management board is licensed [CC BY 4.0](https://creativecommons.org/li
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/pipeline-management-board.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/pipeline-management-board.

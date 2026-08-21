@@ -41,7 +41,7 @@ Not when:
 
 The example below is a full worked funnel analysis: real per-stage timing across a six-stage outbound pipeline, a lead time and flow-efficiency figure with the arithmetic shown, the stage that caps throughput and the stage where deals stall worst, waste findings that quantify conversion loss and stalled-deal WIP directly from the stage data, and countermeasures that each name the specific stage-level finding they close.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/sales-funnel-map
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/sales-funnel-map
 
 ## Common mistakes
 
@@ -90,4 +90,4 @@ Sales funnel value stream map is licensed [CC BY 4.0](https://creativecommons.or
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/sales-funnel-map.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/sales-funnel-map.

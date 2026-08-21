@@ -40,7 +40,7 @@ Not when:
 
 The example below is Beacon Analytics' own commercial operations board — quote first-pass yield is a genuine three-month sustained miss (a first countermeasure closed on time but a second, unrelated failure mode kept it going), while commercial bookings had a single red month that recovered the next one and correctly doesn't get flagged the same way.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/visibility-board
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/visibility-board
 
 ## Common mistakes
 
@@ -84,4 +84,4 @@ Visibility board is licensed [CC BY 4.0](https://creativecommons.org/licenses/by
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/visibility-board.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/visibility-board.

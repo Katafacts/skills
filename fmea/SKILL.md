@@ -38,7 +38,7 @@ Not when:
 
 The example below analyzes a newly-designed changeover procedure before it goes live — four failure modes scored on severity, occurrence, and detection, with the single highest-risk-priority-number item named as the vital-few risk to fix first, not just added to a long list.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/fmea
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/fmea
 
 ## Common mistakes
 
@@ -82,4 +82,4 @@ FMEA is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attr
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/fmea.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/fmea.

@@ -36,7 +36,7 @@ Not when:
 
 The example below is an outpatient clinic's five-stage intake funnel. One idea — a phone-hold-time complaint from a patient survey — has sat unscreened for 45 days, more than twice its stage's own average, a real "suggestion graveyard" case caught before it mattered more. Three of six ideas still have no named champion, honestly shown rather than padded out.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/kaizen-funnel
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/kaizen-funnel
 
 ## Common mistakes
 
@@ -79,4 +79,4 @@ Kaizen funnel is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/kaizen-funnel.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/kaizen-funnel.

@@ -40,7 +40,7 @@ Not when:
 
 The example below tracks a regional safety-protocol rollout — only 8 of the region's 12 sites are actually tracked yet, one tracked site has no contact at all, and Union safety rep is honestly named as the systemically under-covered role rather than smoothed over.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/stakeholder-coverage-map
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/stakeholder-coverage-map
 
 ## Common mistakes
 
@@ -82,4 +82,4 @@ Stakeholder coverage map is licensed [CC BY 4.0](https://creativecommons.org/lic
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/stakeholder-coverage-map.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/stakeholder-coverage-map.

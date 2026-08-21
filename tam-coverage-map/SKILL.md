@@ -40,7 +40,7 @@ Not when:
 
 The example below is Beacon Analytics' own mid-market logistics segment — only 10 of 40 addressable accounts are actually tracked, one tracked account has no contact at all, and Procurement is honestly named as the most systemically under-covered buying-group role rather than smoothed over.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/tam-coverage-map
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/tam-coverage-map
 
 ## Common mistakes
 
@@ -79,4 +79,4 @@ TAM coverage map is licensed [CC BY 4.0](https://creativecommons.org/licenses/by
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/tam-coverage-map.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/tam-coverage-map.

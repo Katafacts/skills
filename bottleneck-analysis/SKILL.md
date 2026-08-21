@@ -41,7 +41,7 @@ Not when:
 
 The example below is the same six-stage outbound funnel as the full sales funnel value stream map, because the constraint findings this tool surfaces are exactly the ones that map computes as part of its fuller analysis. What's different is the path: this page only asked for stage names, process time, and wait time.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/bottleneck-analysis
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/bottleneck-analysis
 
 ## Common mistakes
 
@@ -79,4 +79,4 @@ Bottleneck analysis is licensed [CC BY 4.0](https://creativecommons.org/licenses
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/bottleneck-analysis.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/bottleneck-analysis.

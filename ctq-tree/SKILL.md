@@ -40,7 +40,7 @@ Not when:
 
 The example below translates two evidence-backed needs from the VOC evidence log's onboarding-friction and pricing-confusion themes into concrete drivers and targets, and honestly leaves a third need with no drivers yet — because the evidence for it doesn't exist yet either, which the coverage check names directly instead of hiding.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/ctq-tree
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/ctq-tree
 
 ## Common mistakes
 
@@ -82,4 +82,4 @@ CTQ tree is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/ctq-tree.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/ctq-tree.

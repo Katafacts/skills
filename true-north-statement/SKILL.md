@@ -38,7 +38,7 @@ Not when:
 
 The example below expands Northwind Fabrication's already-published FY2027 Hoshin plan's own trueNorth field into four real pillars, checks each against that plan's already-committed annual objectives and strategies, and finds one pillar with nothing tracing to it at all — every current strategy serves customers already calling, none reach the ones who aren't yet.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/true-north-statement
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/true-north-statement
 
 ## Common mistakes
 
@@ -76,4 +76,4 @@ True north statement is licensed [CC BY 4.0](https://creativecommons.org/license
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/true-north-statement.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/true-north-statement.

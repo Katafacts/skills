@@ -37,7 +37,7 @@ Not when:
 
 The example below scores Beacon Analytics' RevOps capabilities against the FY2027 revenue Hoshin plan, true north statement, and marketing operating system charter's own already-published findings, and finds two real gaps: pipeline & account intelligence sits at Ad hoc against a Managed target, grounded directly in the TAM coverage map's real 25% list coverage and 42.5% Market visibility figures, and governance cadence sits at Repeatable against the same target -- the same underlying gap showing up twice, not two coincidences.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/marketing-maturity-assessment
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/marketing-maturity-assessment
 
 ## Common mistakes
 
@@ -76,4 +76,4 @@ Marketing maturity assessment is licensed [CC BY 4.0](https://creativecommons.or
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/marketing-maturity-assessment.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/marketing-maturity-assessment.

@@ -38,7 +38,7 @@ Not when:
 
 The example below continues the Beacon Analytics storyline directly from its own message architecture — the cost-of-inaction pillar's reference figure holds up in discovery calls, and the spreadsheet-trust pilot the architecture's own next steps called for surfaces a real, specific objection worth revising the pitch for, while the third pillar stays honestly untested.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/message-testing-log
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/message-testing-log
 
 ## Common mistakes
 
@@ -80,4 +80,4 @@ Message testing log is licensed [CC BY 4.0](https://creativecommons.org/licenses
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/message-testing-log.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/message-testing-log.

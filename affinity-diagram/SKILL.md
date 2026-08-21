@@ -40,7 +40,7 @@ Not when:
 
 The example below is a workshop-style synthesis of nine at-risk-account notes into four themes: two tied for the largest cluster (pricing confusion and missing integrations), a third notable theme (slow support), and one single-note theme correctly left out of the vital-few list rather than forced into significance.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/affinity-diagram
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/affinity-diagram
 
 ## Common mistakes
 
@@ -82,4 +82,4 @@ Affinity diagram is licensed [CC BY 4.0](https://creativecommons.org/licenses/by
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/affinity-diagram.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/affinity-diagram.

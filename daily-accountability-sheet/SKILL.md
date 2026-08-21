@@ -36,7 +36,7 @@ Not when:
 
 The example below is the renewal-risk queue's daily sheet, one day after the queue lead's own leader standard work routine. It honestly shows all three real states at once — one commitment done, one overdue, one not yet due — the range a real sheet actually has, not a uniformly tidy list.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/daily-accountability-sheet
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/daily-accountability-sheet
 
 ## Common mistakes
 
@@ -74,4 +74,4 @@ Daily accountability sheet is licensed [CC BY 4.0](https://creativecommons.org/l
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/daily-accountability-sheet.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/daily-accountability-sheet.

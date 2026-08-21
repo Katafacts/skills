@@ -36,7 +36,7 @@ Not when:
 
 The example below is the renewal-risk support process's own escalation matrix. Three of four severities have a named first responder — Critical and High route to specific people, Low routes to the standing rotation — and Medium is honestly left unassigned rather than padded with a placeholder name.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/escalation-matrix
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/escalation-matrix
 
 ## Common mistakes
 
@@ -74,4 +74,4 @@ Escalation matrix is licensed [CC BY 4.0](https://creativecommons.org/licenses/b
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/escalation-matrix.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/escalation-matrix.

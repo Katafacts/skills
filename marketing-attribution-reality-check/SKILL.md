@@ -38,7 +38,7 @@ Not when:
 
 The example below continues the Beacon Analytics storyline and is directly grounded in the gap the marketing metric definition sheet already named without resolving it — the CRM's first-touch default for channel attribution — pressure-testing that exact default against two other honest models rather than inventing a new scenario.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/marketing-attribution-reality-check
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/marketing-attribution-reality-check
 
 ## Common mistakes
 
@@ -76,4 +76,4 @@ Marketing attribution reality check is licensed [CC BY 4.0](https://creativecomm
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/marketing-attribution-reality-check.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/marketing-attribution-reality-check.

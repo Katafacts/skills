@@ -38,7 +38,7 @@ Not when:
 
 The example below tracks the same renewal-risk support process running through this catalogue's kaizen charter, sustainment audit, work instruction, and ILUO matrix examples — one driver metric even references the ILUO matrix's own coverage number directly. The third goal is honestly left with a driver metric but no target yet.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/kpi-tree
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/kpi-tree
 
 ## Common mistakes
 
@@ -76,4 +76,4 @@ KPI tree is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/kpi-tree.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/kpi-tree.

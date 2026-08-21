@@ -38,7 +38,7 @@ Not when:
 
 The example below tests two hypotheses already circulating about Line 2's changeover performance — including the exact sequencing-rule claim the attribution reality check found unverified and the evidence register logged as unproven — with a third hypothesis honestly left untested, continuing the evidence register's own flagged gap.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/learning-log
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/learning-log
 
 ## Common mistakes
 
@@ -80,4 +80,4 @@ Learning log is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/learning-log.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/learning-log.

@@ -36,7 +36,7 @@ Not when:
 
 The example below is the renewal-risk queue's own board, pulling together the KPI tree, escalation matrix, and ILUO matrix into what the team actually looks at daily. One zone is honestly left without an owner rather than padded with a placeholder name.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/visual-board-design-guide
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/visual-board-design-guide
 
 ## Common mistakes
 
@@ -78,4 +78,4 @@ Visual board design guide is licensed [CC BY 4.0](https://creativecommons.org/li
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/visual-board-design-guide.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/visual-board-design-guide.

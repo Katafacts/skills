@@ -37,7 +37,7 @@ Not when:
 
 The example below continues the Beacon Analytics storyline — SQL and cost per SQL are both checked and confirmed against the marketing KPI tree's own assumptions, and channel attribution honestly names the CRM's first-touch default as unvalidated rather than letting it pass as a real model.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/marketing-metric-definition-sheet
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/marketing-metric-definition-sheet
 
 ## Common mistakes
 
@@ -79,4 +79,4 @@ Marketing metric definition sheet is licensed [CC BY 4.0](https://creativecommon
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/marketing-metric-definition-sheet.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/marketing-metric-definition-sheet.

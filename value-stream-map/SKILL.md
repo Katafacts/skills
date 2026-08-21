@@ -42,7 +42,7 @@ Not when:
 
 The example below is a full current-state analysis: step-by-step timing data, a lead time and flow efficiency figure with the arithmetic shown, the step that caps throughput and the step where wait time is worst, waste findings that are honest about which are measured and which are still qualitative, and countermeasures that each name the finding they address.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/value-stream-map
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/value-stream-map
 
 ## Common mistakes
 
@@ -91,4 +91,4 @@ Value stream mapping — current-state analysis is licensed [CC BY 4.0](https://
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/value-stream-map.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/value-stream-map.

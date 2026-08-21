@@ -40,7 +40,7 @@ Not when:
 
 The example below organizes the exact same evidence the message architecture and value hypothesis worked examples already established for Beacon Analytics — the same three needs, the same 48-hour and $310K figures — as an Osterwalder canvas instead of a tree, and is honest that the weakest column (spreadsheet trust) still has no real gain creator behind it.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/value-proposition-canvas
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/value-proposition-canvas
 
 ## Common mistakes
 
@@ -78,4 +78,4 @@ Value proposition canvas is licensed [CC BY 4.0](https://creativecommons.org/lic
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/value-proposition-canvas.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/value-proposition-canvas.

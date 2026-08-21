@@ -37,7 +37,7 @@ Not when:
 
 The example below scores Northwind Fabrication's real shop-floor capabilities against the FY2027 Hoshin plan and true north statement's own already-published findings, and finds one real gap: market awareness / outbound reach sits at Ad hoc against a Defined target -- the direct operational consequence of the true north statement's own finding that this exact direction has zero committed initiatives.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/lean-maturity-scorecard
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/lean-maturity-scorecard
 
 ## Common mistakes
 
@@ -75,4 +75,4 @@ Lean maturity scorecard is licensed [CC BY 4.0](https://creativecommons.org/lice
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/lean-maturity-scorecard.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/lean-maturity-scorecard.

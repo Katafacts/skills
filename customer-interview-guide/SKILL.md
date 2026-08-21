@@ -39,7 +39,7 @@ Not when:
 
 The example below is a general onboarding-discovery guide: four topics building from background through to open frustrations, real follow-up probes within each topic, and interview-technique reminders grounded in the coaching stance this whole product tries to model — ask before answering, let silence sit.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/customer-interview-guide
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/customer-interview-guide
 
 ## Common mistakes
 
@@ -77,4 +77,4 @@ Customer interview guide is licensed [CC BY 4.0](https://creativecommons.org/lic
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/customer-interview-guide.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/customer-interview-guide.

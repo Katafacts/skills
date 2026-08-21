@@ -41,7 +41,7 @@ Not when:
 
 The example below is the same six-stage outbound funnel as the full sales funnel value stream map — because the flow-efficiency number this calculator produces is exactly the same number that map computes as part of its fuller analysis, not a different calculation. What's different is the path to get here: this page only asked for stage names, process time, and wait time.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/funnel-pce-calculator
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/funnel-pce-calculator
 
 ## Common mistakes
 
@@ -79,4 +79,4 @@ Funnel PCE calculator is licensed [CC BY 4.0](https://creativecommons.org/licens
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/funnel-pce-calculator.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/funnel-pce-calculator.

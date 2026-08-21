@@ -42,7 +42,7 @@ Not when:
 
 The example below charters governance against a real, already-published finding — the true north statement's pillar with zero committed initiatives, evidenced by the TAM coverage map's own 25% list coverage / 42.5% Market visibility figures. Three of six readiness items are honestly still open, since launching the rhythm is the point of the charter, not confirming one that already runs.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/marketing-operating-system-charter
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/marketing-operating-system-charter
 
 ## Common mistakes
 
@@ -85,4 +85,4 @@ Marketing operating system charter is licensed [CC BY 4.0](https://creativecommo
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/marketing-operating-system-charter.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/marketing-operating-system-charter.

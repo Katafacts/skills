@@ -42,7 +42,7 @@ Not when:
 
 The example below builds Northline Freight's business case directly on top of this catalogue's own value hypothesis for the same deal — rather than presenting the pilot's headline $310K figure as guaranteed value, it applies a named, conservative 25% recovery assumption and states that assumption explicitly. A third driver honestly stays at low confidence: it borrows the exact 'business case never quantified' failure pattern Beacon Analytics' own deal A3 found costing its own pipeline, applied speculatively to Northline's future renewals.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/business-case-builder
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/business-case-builder
 
 ## Common mistakes
 
@@ -85,4 +85,4 @@ Business case builder is licensed [CC BY 4.0](https://creativecommons.org/licens
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/business-case-builder.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/business-case-builder.

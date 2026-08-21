@@ -39,7 +39,7 @@ Not when:
 
 The example below rolls out a new andon escalation rule across a fabrication cell's three shifts — one milestone is already honestly overdue, one has no owner named yet, and the plan is genuinely cross-functional rather than something the improvement team alone could execute.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/implementation-plan
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/implementation-plan
 
 ## Common mistakes
 
@@ -78,4 +78,4 @@ Implementation plan is licensed [CC BY 4.0](https://creativecommons.org/licenses
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/implementation-plan.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/implementation-plan.

@@ -39,7 +39,7 @@ Not when:
 
 The example below scores three candidate CI-software vendors against four weighted criteria — and deliberately shows an option that wins the single most heavily weighted criterion outright but still doesn't clear the priority threshold overall, because the composite score is what actually decides, not any one axis.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/decision-matrix
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/decision-matrix
 
 ## Common mistakes
 
@@ -81,4 +81,4 @@ Weighted decision matrix is licensed [CC BY 4.0](https://creativecommons.org/lic
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/decision-matrix.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/decision-matrix.

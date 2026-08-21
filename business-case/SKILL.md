@@ -42,7 +42,7 @@ Not when:
 
 The example below justifies an automated inspection station for a solder-defect problem — two of three value drivers are grounded in real quality-log and time-study data, and the third, a faster product-launch estimate, is honestly left at low confidence rather than padded to make the total look stronger.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/business-case
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/business-case
 
 ## Common mistakes
 
@@ -84,4 +84,4 @@ Business case is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/business-case.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/business-case.

@@ -43,7 +43,7 @@ Not when:
 
 The example below is a full worked deal A3: a TAGS box and trend showing a real win-rate gap against its own historical standard; a Pareto over loss reasons weighted by lost pipeline value, not deal count — including a second-level stratification of the dominant loss category; a causal chain that ends in a specific, fixable gap in the qualification process rather than "reps need to try harder"; and countermeasures that each name the process gap they close.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/deal-a3
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/deal-a3
 
 ## Common mistakes
 
@@ -96,4 +96,4 @@ Deal A3 — win-rate root cause analysis is licensed [CC BY 4.0](https://creativ
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/deal-a3.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/deal-a3.

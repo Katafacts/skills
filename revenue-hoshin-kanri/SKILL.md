@@ -42,7 +42,7 @@ Not when:
 
 The example below is a full worked revenue X-Matrix: long-term objectives (net revenue retention, an outbound growth channel) and annual objectives with real targets — including two that trace directly to the deal A3 and funnel value stream map worked examples elsewhere in this catalogue — a catchball record showing the negotiation behind those targets, strategies with named owners, metrics with targets, and a correlation grid that's honest about which connections are strong and which are weak.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/revenue-hoshin-kanri
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/revenue-hoshin-kanri
 
 ## Common mistakes
 
@@ -90,4 +90,4 @@ Revenue Hoshin Kanri — X-Matrix is licensed [CC BY 4.0](https://creativecommon
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/revenue-hoshin-kanri.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/revenue-hoshin-kanri.

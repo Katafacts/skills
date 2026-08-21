@@ -38,7 +38,7 @@ Not when:
 
 The example below trains the same renewal-risk support process the work instruction documents, with the same team. The one skill nobody's past in-training on lines up exactly with the step the work instruction itself flagged as still missing a key point — the same real gap, visible from two different artifacts.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/iluo-training-matrix
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/iluo-training-matrix
 
 ## Common mistakes
 
@@ -76,4 +76,4 @@ ILUO training matrix is licensed [CC BY 4.0](https://creativecommons.org/license
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/iluo-training-matrix.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/iluo-training-matrix.

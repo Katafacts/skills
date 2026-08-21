@@ -36,7 +36,7 @@ Not when:
 
 The example below is a warehouse fulfillment operation's own three-tier cascade — a pick/pack huddle twice a shift, an ops huddle once a day, and site leadership three times a week. Two of three tiers have a named owner; the middle tier is honestly left unassigned rather than padded with a placeholder name.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/tiered-huddle-board
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/tiered-huddle-board
 
 ## Common mistakes
 
@@ -75,4 +75,4 @@ Tiered huddle board is licensed [CC BY 4.0](https://creativecommons.org/licenses
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/tiered-huddle-board.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/tiered-huddle-board.

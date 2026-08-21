@@ -40,7 +40,7 @@ Not when:
 
 The example below clusters nine win/loss and discovery-call entries into four themes: a positive trigger signal (already-outgrown spreadsheet workarounds), a strong predictor of a clean close (an exec sponsor engaged early) paired with its inverse failure pattern (a stalled single-threaded champion), and two smaller but real anti-ICP signals — a company-size floor and an unplanned enterprise security-review gap.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/icp-evidence-log
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/icp-evidence-log
 
 ## Common mistakes
 
@@ -81,4 +81,4 @@ ICP evidence log is licensed [CC BY 4.0](https://creativecommons.org/licenses/by
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/icp-evidence-log.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/icp-evidence-log.

@@ -38,7 +38,7 @@ Not when:
 
 The example below continues the Line 2 storyline running through this catalogue's A3, scoping canvas, FMEA, and metric definition sheet examples — it's directly grounded in the A3's own two countermeasures, rolled out on the same date, and honestly names a real confound (a seasonal order-volume dip) rather than assuming the sequencing rule alone gets the credit its own follow-up plan already takes for granted.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/attribution-reality-check
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/attribution-reality-check
 
 ## Common mistakes
 
@@ -75,4 +75,4 @@ Attribution reality check is licensed [CC BY 4.0](https://creativecommons.org/li
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/attribution-reality-check.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/attribution-reality-check.

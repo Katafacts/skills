@@ -39,7 +39,7 @@ Not when:
 
 The example below is deliberately built from real deal evidence rather than assumption, splitting genuine firm disqualifiers from softer red flags that call for a specific countermeasure — and it shows the same single-threaded-champion failure pattern appearing on both sides of the sale, once as a pre-sale red flag and again as a post-sale churn pattern.
 
-Full worked example, on-screen and as a downloadable .xlsx: https://katafacts.com/katas/anti-icp
+Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/anti-icp
 
 ## Common mistakes
 
@@ -81,4 +81,4 @@ Anti-ICP is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
 
 ## Using this skill
 
-Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://katafacts.com/katas/anti-icp.
+Apply this method as part of whatever broader task, instructions, or deliverable you're already working on -- it's a method to use, not a standalone conversation to start. There is no generation tool for this catalogue yet, so draft the artifact's actual content yourself, following the fields above, the same way a person filling this out by hand would. The canonical guide page and a downloadable worked example (.xlsx) are at https://www.katafacts.com/katas/anti-icp.
