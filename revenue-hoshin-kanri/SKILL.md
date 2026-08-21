@@ -63,6 +63,7 @@ Downstream:
 
 - **Deal A3** — When a strategy on the X-Matrix isn't moving its metric, a deal A3 is the right tool to find out why for a specific segment — Hoshin sets the direction, the deal A3 closes the specific gap.
 - **Pipeline daily/weekly management board** — Tracks the metrics named here cadence by cadence — the X-Matrix sets what to watch; the pipeline board is where the team actually watches it between business reviews.
+- **Revenue cascade map** — Shows how this X-Matrix's annual objectives become real, committed work inside a specific pod or function — the mechanism that makes this plan cascade through the commercial org rather than living at the leadership level.
 
 ## Where AI helps
 
