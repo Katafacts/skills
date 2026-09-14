@@ -25,7 +25,7 @@ Use it when:
 Not when:
 
 - The task is genuinely simple enough that every step is self-explanatory — forcing key points onto a trivial task adds noise, not clarity.
-- You're still figuring out the process itself — map it first (a swimlane or a SIPOC), then write the instruction once it's settled.
+- You're still figuring out the process itself — map it first (a Makigami or a SIPOC), then write the instruction once it's settled.
 - The 'key point' would just restate the step — a real key point adds a technique or judgement call the step alone doesn't convey.
 
 ## How to fill it in

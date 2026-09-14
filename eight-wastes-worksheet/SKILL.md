@@ -51,7 +51,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Downstream:
 
-- **Swimlane process map** — Once waste is identified by category, a swimlane map shows exactly where in the process — and whose lane — each one actually lives.
+- **Makigami process map** — Once waste is identified by category, a Makigami follows one real case step by step and shows exactly where — and in whose lane — each waste lives, with the waits and handoffs timed.
 - **Value stream mapping** — A waste walk's findings are often the raw material a value stream map's current-state analysis draws on to compute where the flow is actually choked.
 - **Kaizen event charter** — A concentrated cluster of high-impact waste in one category is exactly the kind of finding that justifies chartering a real kaizen event, not just a next-steps list.
 
