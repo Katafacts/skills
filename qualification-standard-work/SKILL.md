@@ -12,7 +12,7 @@ Family: Standard work · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-Qualification standard work is the same three-column job instruction as the canonical version — major steps, key points (a specific technique, not a generic prompt), and the reason each one matters — pointed at deciding whether a lead genuinely fits the ideal customer profile (ICP) before it consumes a discovery call's worth of time. The lean connection is master-plan §4.2's framing of ICP as "specify value — lean's step one; standard work for qualification": without a repeatable technique, a rep either advances everyone (burning downstream time on deals that were never going to close) or advances inconsistently (losing real fits to a bad day's judgement call) — the same failure any work instruction exists to prevent.
+Qualification standard work is the same three-column job instruction as the canonical version — major steps, key points (a specific technique, not a generic prompt), and the reason each one matters — pointed at deciding whether a lead genuinely fits the ideal customer profile (ICP) before it consumes a discovery call's worth of time. The lean connection is ICP as "specify value — lean's step one," with qualification as its standard work: without a repeatable technique, a rep either advances everyone (burning downstream time on deals that were never going to close) or advances inconsistently (losing real fits to a bad day's judgement call) — the same failure any work instruction exists to prevent.
 
 ## When to use it
 

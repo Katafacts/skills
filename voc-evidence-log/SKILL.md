@@ -45,7 +45,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 ## Common mistakes
 
 - **Summarizing or paraphrasing away the customer's actual words before logging the entry.** — The point of an evidence log is that every theme traces back to something a real customer actually said — a summarized entry can't be checked against the source anymore, which is exactly what makes evidence more trustworthy than an impression.
-- **Treating every theme with any entries as worth acting on.** — Same vital-few discipline as every other artifact in this catalogue (master-plan §1.3) — the top few themes with real weight beat a flat list of everything anyone ever said once.
+- **Treating every theme with any entries as worth acting on.** — Same vital-few discipline as every other artifact in this catalogue — the top few themes with real weight beat a flat list of everything anyone ever said once.
 - **Splitting near-duplicate themes ("onboarding is slow" and "setup takes too long") instead of merging them.** — Inconsistent theme labels understate how big a real cluster actually is — two 3-entry themes that are really the same issue look like two minor patterns instead of one major one.
 
 ## What it connects to

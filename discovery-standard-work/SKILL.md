@@ -12,7 +12,7 @@ Family: Standard work · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-Discovery call standard work is the same three-column job instruction as the canonical version — major steps, key points (a specific technique, not a generic prompt), and the reason each one matters — pointed at a sales discovery call instead of a shop-floor task. The lean connection is master-plan §4.2's Value Selling thesis: a discovery call is where the voice-of-customer evidence an eventual deal A3 or value hypothesis depends on actually gets gathered, and it fails the same way an untrained gemba walk does — without a repeatable technique, a rep skips the exact question that would have surfaced the real problem.
+Discovery call standard work is the same three-column job instruction as the canonical version — major steps, key points (a specific technique, not a generic prompt), and the reason each one matters — pointed at a sales discovery call instead of a shop-floor task. The lean connection: a discovery call is where the voice-of-customer evidence an eventual deal A3 or value hypothesis depends on actually gets gathered, and it fails the same way an untrained gemba walk does — without a repeatable technique, a rep skips the exact question that would have surfaced the real problem.
 
 ## When to use it
 

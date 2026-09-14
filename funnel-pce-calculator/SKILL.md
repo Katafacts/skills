@@ -32,9 +32,12 @@ Not when:
 
 - **scope** — Just the one-line description at the top — what pipeline segment this is. There's no separate scope field here; keep it as tight as you would for a full funnel map (one deal source or segment, not the whole blended pipeline).
 - **steps** — List each stage in order with its process time and the wait time after it before the next stage starts. This is the only real intake this calculator asks for — paste rows straight from a CRM export if you have them.
+- **demand** — Optional — add the deals needed per week or month if you also want each stage checked against the pace the business needs.
+- **map** — Drawn from your stages, so the share of time spent waiting is visible at a glance next to the number.
 - **metrics** — Flow efficiency, lead time, and the stage capping throughput are computed for you the moment you submit — this is the whole point of the calculator, not a step you fill in.
 - **wasteFindings** — Not part of this calculator's output — it only computes flow efficiency and the constraint. Use the sales funnel value stream map for the full eight-wastes breakdown.
 - **pareto** — Not part of this calculator's output. The full sales funnel value stream map ranks every stage by wait-time contribution; this tool only surfaces the single largest one.
+- **futureState** — Optional — once you have the number, sketch the faster funnel in the same editor and see the flow efficiency it would reach.
 - **countermeasures** — Not part of this calculator's output — there's no observation-notes field feeding a countermeasure narrative here. Once you know the number's worth acting on, the sales funnel value stream map is where you'd work through what to do about it.
 
 ## What good looks like

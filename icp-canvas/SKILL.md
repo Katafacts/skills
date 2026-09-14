@@ -12,7 +12,7 @@ Family: Problem definition · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-An ICP canvas is a definition of the ideal customer profile (ICP) — the same one-page, multi-section discipline as a scoping canvas, a definition built once and revisited, not a project plan — pointed at defining who the ideal customer actually is instead of scoping an initiative. The lean connection master-plan §4.2 names for ICP is "specify value — lean's step one": an ICP canvas is where that first step gets written down concretely, in fields a rep or marketer can actually qualify or target against, rather than staying an unstated shared assumption that turns out to differ person to person.
+An ICP canvas is a definition of the ideal customer profile (ICP) — the same one-page, multi-section discipline as a scoping canvas, a definition built once and revisited, not a project plan — pointed at defining who the ideal customer actually is instead of scoping an initiative. The lean connection for ICP is "specify value — lean's step one": an ICP canvas is where that first step gets written down concretely, in fields a rep or marketer can actually qualify or target against, rather than staying an unstated shared assumption that turns out to differ person to person.
 
 ## When to use it
 

@@ -12,7 +12,7 @@ Family: Hoshin Kanri · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-A revenue Hoshin Kanri is the same X-Matrix — long-term objectives, this year's annual objectives, the strategies that move them, the metrics that prove it, catchball negotiating all of it — pointed at revenue direction instead of a factory floor. The lean connection matters here specifically because Hoshin closes the loop the other two commercial artifacts open: a deal A3 finds a specific root cause, a funnel value stream map finds a specific bottleneck, and a revenue Hoshin is where those findings actually become this year's committed strategies with owners and targets, not just conclusions in a slide nobody revisits. Master-plan §7.2's operating-system thesis — direction, then the gap, then the fix, with results feeding the next planning cycle — applies to a revenue org exactly as it applies to a shop floor.
+A revenue Hoshin Kanri is the same X-Matrix — long-term objectives, this year's annual objectives, the strategies that move them, the metrics that prove it, catchball negotiating all of it — pointed at revenue direction instead of a factory floor. The lean connection matters here specifically because Hoshin closes the loop the other two commercial artifacts open: a deal A3 finds a specific root cause, a funnel value stream map finds a specific bottleneck, and a revenue Hoshin is where those findings actually become this year's committed strategies with owners and targets, not just conclusions in a slide nobody revisits. The operating loop behind every kata here — direction, then the gap, then the fix, with results feeding the next planning cycle — applies to a revenue org exactly as it applies to a shop floor.
 
 ## When to use it
 

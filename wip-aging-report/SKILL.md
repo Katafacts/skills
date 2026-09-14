@@ -45,7 +45,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 ## Common mistakes
 
-- **Treating every item with a nonzero age as worth flagging.** — Same vital-few discipline as every other artifact in this catalogue (master-plan §1.3) — one item genuinely stalled relative to its peers beats a list of every item that isn't brand new.
+- **Treating every item with a nonzero age as worth flagging.** — Same vital-few discipline as every other artifact in this catalogue — one item genuinely stalled relative to its peers beats a list of every item that isn't brand new.
 - **Comparing an item's age against the overall average instead of its own stage's average.** — A stage that's naturally slower than others (a review step vs. a quick triage step, say) will always look 'stalled' against the overall average even when every item in it is moving normally — the comparison has to be within the stage, not across the whole queue.
 - **Running this on a stage with only one or two items and treating the result as meaningful.** — There's no real 'average' to compare against with that little data — a single item can't be 2x its own average, which is exactly why this tool never flags a single-item stage.
 

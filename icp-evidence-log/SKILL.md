@@ -12,7 +12,7 @@ Family: Voice of the customer · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-An ICP evidence log is the same clustering discipline as the VOC evidence log — a theme drafted per entry, freely reassignable, with the tally recomputing live — pointed at win/loss call notes, discovery-call excerpts, and competitor mentions instead of product-feedback quotes. The lean connection master-plan §4.2 names for ICP is voice of the customer applied to "specify value — lean's step one": an ICP canvas built from assumption instead of real deal evidence is exactly the impression-not-data mistake this catalogue's own discipline exists to catch everywhere else.
+An ICP evidence log is the same clustering discipline as the VOC evidence log — a theme drafted per entry, freely reassignable, with the tally recomputing live — pointed at win/loss call notes, discovery-call excerpts, and competitor mentions instead of product-feedback quotes. The lean connection for ICP is voice of the customer applied to "specify value — lean's step one": an ICP canvas built from assumption instead of real deal evidence is exactly the impression-not-data mistake this catalogue's own discipline exists to catch everywhere else.
 
 ## When to use it
 

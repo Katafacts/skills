@@ -12,7 +12,7 @@ Family: Value stream mapping · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-Every value stream has two distinct constraint questions, and they don't always have the same answer: which stage caps throughput (the one with the largest process time — the capacity constraint, in the theory-of-constraints sense), and which stage chokes flow worst (the one with the largest wait time — where deals sit stalled longest). A bottleneck analysis answers both directly from your stage data, the same computation the sales funnel value stream map runs as part of its fuller picture, pulled out on its own for when the question is specifically 'which stage do I fix first,' not a full documented map.
+Every value stream has two distinct constraint questions, and they don't always have the same answer: which stage needs the most active work per deal (the capacity constraint — process time, stretched by any downtime you record, and checked against takt if you give demand), and which stage chokes flow worst (the one with the largest wait time — where deals sit stalled longest). A bottleneck analysis answers both directly from your stage data, the same computation the sales funnel value stream map runs as part of its fuller picture, pulled out on its own for when the question is specifically 'which stage do I fix first,' not a full documented map.
 
 ## When to use it
 
@@ -32,9 +32,12 @@ Not when:
 
 - **scope** — Just the one-line description at the top. Keep it to one comparable pipeline segment, same discipline as every other VSM-family artifact — a blended segment produces a bottleneck finding that describes neither.
 - **steps** — List each stage in order with its process time and the wait time after it. This is the only real intake — paste rows straight from a CRM export if you have them.
-- **metrics** — The capacity constraint (largest process time) and the largest wait contributor are identified for you the moment you submit — that's this tool's whole output.
+- **demand** — Optional, but it sharpens the answer: with the deals needed per week or month, the tool says whether the constraint stage is actually too slow for demand, not just the slowest.
+- **map** — Drawn from your stages, with bursts on the capacity constraint and the longest stall so the two answers are visible side by side.
+- **metrics** — The capacity constraint (the stage needing the most active work per deal once downtime is counted) and the largest wait contributor are identified for you the moment you submit — that's this tool's whole output, with the arithmetic shown.
 - **wasteFindings** — Not part of this tool's output. The full sales funnel value stream map runs the complete eight-wastes breakdown; this one only names the two constraint stages.
 - **pareto** — Not part of this tool's output as a ranked list — you get the single largest wait contributor directly, not a ranking of every stage. Use the full sales funnel value stream map if you want every stage ranked.
+- **futureState** — Optional — once the constraint is named, sketch the funnel with it relieved in the same editor and check whether the next constraint appears.
 - **countermeasures** — Not part of this tool's output — there's no observation-notes field feeding a countermeasure narrative here. Once the constraint stage is named, the sales funnel value stream map or a deal A3 is where you'd work through what to do about it.
 
 ## What good looks like
@@ -55,7 +58,7 @@ Downstream:
 
 - **Sales funnel value stream map** — Once the constraint stage is named, this is where you'd build the fuller picture — waste findings, a full Pareto ranking, and countermeasures tied to the finding.
 - **Funnel PCE calculator** — If the question shifts from 'which stage' to 'how bad is it overall,' this is the more direct next step.
-- **Deal A3** — Once a specific constraint stage is named, a deal A3 is where you'd run root cause analysis on why that stage specifically is capping throughput or choking flow.
+- **Deal A3 — win-rate root cause analysis** — Once a specific constraint stage is named, a deal A3 is where you'd run root cause analysis on why that stage specifically is capping throughput or choking flow.
 
 ## Where AI helps
 

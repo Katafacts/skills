@@ -12,7 +12,7 @@ Family: Daily management · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-A pipeline management board is the same tiered huddle cascade as the canonical version — what each level reviews, who runs it, and the concrete condition that sends something up to the level above — pointed at a sales pipeline instead of a shop floor. The lean connection is exactly master-plan §4.2's Sales Funnel Management thesis: a stalled deal is WIP, a recurring loss reason is a defect pattern, and the whole reason a tier system exists is the same reason it exists on a floor — the rep huddle catches a single stalled deal today, RevOps catches a pattern across pods this week, and VP Sales tracks whether the strategies from this year's revenue plan are actually moving the number. Who specifically runs each huddle is never guessed — every tier starts unassigned until you name a real person.
+A pipeline management board is the same tiered huddle cascade as the canonical version — what each level reviews, who runs it, and the concrete condition that sends something up to the level above — pointed at a sales pipeline instead of a shop floor. The lean connection is direct: a stalled deal is WIP, a recurring loss reason is a defect pattern, and the whole reason a tier system exists is the same reason it exists on a floor — the rep huddle catches a single stalled deal today, RevOps catches a pattern across pods this week, and VP Sales tracks whether the strategies from this year's revenue plan are actually moving the number. Who specifically runs each huddle is never guessed — every tier starts unassigned until you name a real person.
 
 ## When to use it
 

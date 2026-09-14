@@ -45,7 +45,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 ## Common mistakes
 
 - **Averaging each stage's conversion rate instead of computing the rolled (compounding) yield.** — Losses compound multiplicatively, not additively — four stages each at 95% conversion roll to about 81%, not 95%. Averaging overstates the real end-to-end yield every time there's more than one stage.
-- **Treating every stage below 100% as equally worth fixing.** — Same vital-few discipline as every other artifact in this catalogue (master-plan §1.3) — one weakest stage named with conviction beats a list of every stage with some loss.
+- **Treating every stage below 100% as equally worth fixing.** — Same vital-few discipline as every other artifact in this catalogue — one weakest stage named with conviction beats a list of every stage with some loss.
 - **Counting units at the start and end of the process only, skipping intermediate stages.** — That gives an overall pass rate but destroys the one thing this tool is for: naming which specific stage is where the loss actually happens.
 
 ## What it connects to
