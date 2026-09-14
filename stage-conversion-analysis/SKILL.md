@@ -25,7 +25,7 @@ Use it when:
 Not when:
 
 - You only have an overall win rate with no stage-level breakdown — that's a start, but it can't tell you which stage to fix.
-- You want time-based findings — lead time, flow efficiency, which stage is capping throughput — that's the sales funnel value stream map, the funnel PCE calculator, or the bottleneck analysis.
+- You want time-based findings — lead time, flow efficiency, which stage is capping throughput — that's the sales funnel value stream map, the funnel flow efficiency calculator, or the bottleneck analysis.
 - The pipeline segment blends deal types with genuinely different natural conversion patterns — scope down to one comparable segment first, same discipline as every other VSM-family artifact.
 
 ## How to fill it in

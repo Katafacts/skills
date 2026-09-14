@@ -12,7 +12,7 @@ Family: Value stream mapping · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-Every value stream has two distinct constraint questions, and they don't always have the same answer: which stage needs the most active work per deal (the capacity constraint — process time, stretched by any downtime you record, and checked against takt if you give demand), and which stage chokes flow worst (the one with the largest wait time — where deals sit stalled longest). A bottleneck analysis answers both directly from your stage data, the same computation the sales funnel value stream map runs as part of its fuller picture, pulled out on its own for when the question is specifically 'which stage do I fix first,' not a full documented map.
+Every value stream has two distinct constraint questions, and they don't always have the same answer: which stage has the least capacity (the capacity constraint — active work per deal, stretched by any downtime you record, shared across the people working that stage in parallel, and checked against takt if you give demand), and which stage chokes flow worst (the one with the largest wait time — where deals sit stalled longest). A bottleneck analysis answers both directly from your stage data, the same computation the sales funnel value stream map runs as part of its fuller picture, pulled out on its own for when the question is specifically 'which stage do I fix first,' not a full documented map.
 
 ## When to use it
 
@@ -24,17 +24,17 @@ Use it when:
 
 Not when:
 
-- You want the overall flow-efficiency percentage, not a specific stage — that's the funnel PCE calculator.
+- You want the overall flow-efficiency percentage, not a specific stage — that's the funnel flow efficiency calculator.
 - You want waste findings, a Pareto ranking of every stage, or countermeasures — this deliberately only surfaces the two constraint findings, not the fuller picture the sales funnel value stream map builds.
 - Every stage in your pipeline has roughly the same process and wait time — there's no single bottleneck to name, and forcing one would misdirect the fix.
 
 ## How to fill it in
 
-- **scope** — Just the one-line description at the top. Keep it to one comparable pipeline segment, same discipline as every other VSM-family artifact — a blended segment produces a bottleneck finding that describes neither.
-- **steps** — List each stage in order with its process time and the wait time after it. This is the only real intake — paste rows straight from a CRM export if you have them.
+- **scope** — Just the one-line description at the top. Keep it to one comparable pipeline segment, same discipline as every other value-stream kata — a blended segment produces a bottleneck finding that describes neither.
+- **steps** — List each stage in order with its process time and the wait time after it. This is the only real intake — paste rows straight from a customer relationship management (CRM) export if you have them.
 - **demand** — Optional, but it sharpens the answer: with the deals needed per week or month, the tool says whether the constraint stage is actually too slow for demand, not just the slowest.
 - **map** — Drawn from your stages, with bursts on the capacity constraint and the longest stall so the two answers are visible side by side.
-- **metrics** — The capacity constraint (the stage needing the most active work per deal once downtime is counted) and the largest wait contributor are identified for you the moment you submit — that's this tool's whole output, with the arithmetic shown.
+- **metrics** — The capacity constraint (the stage with the least capacity once downtime and the people working it in parallel are counted) and the largest wait contributor are identified for you the moment you submit — that's this tool's whole output, with the arithmetic shown.
 - **wasteFindings** — Not part of this tool's output. The full sales funnel value stream map runs the complete eight-wastes breakdown; this one only names the two constraint stages.
 - **pareto** — Not part of this tool's output as a ranked list — you get the single largest wait contributor directly, not a ranking of every stage. Use the full sales funnel value stream map if you want every stage ranked.
 - **futureState** — Optional — once the constraint is named, sketch the funnel with it relieved in the same editor and check whether the next constraint appears.
@@ -49,7 +49,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 ## Common mistakes
 
 - **Treating the capacity constraint and the largest wait contributor as the same stage without checking.** — They frequently aren't the same stage — one caps how much work can move through per unit time, the other is where already-started work sits stalled longest. Fixing the wrong one for the problem you actually have wastes the attention this tool is meant to focus.
-- **Naming a bottleneck from a pipeline segment that blends genuinely different deal types.** — Same scope discipline as every other VSM-family artifact — a blended segment's 'bottleneck' is an artifact of the blend, not a real constraint in either underlying segment.
+- **Naming a bottleneck from a pipeline segment that blends genuinely different deal types.** — Same scope discipline as every other value-stream kata — a blended segment's 'bottleneck' is an artifact of the blend, not a real constraint in either underlying segment.
 - **Acting on the bottleneck finding without re-running the analysis after the fix.** — Removing one constraint reliably surfaces the next one — a bottleneck analysis is a snapshot, not a one-time diagnosis, the same theory-of-constraints principle that applies on a shop floor.
 
 ## What it connects to
@@ -57,7 +57,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Downstream:
 
 - **Sales funnel value stream map** — Once the constraint stage is named, this is where you'd build the fuller picture — waste findings, a full Pareto ranking, and countermeasures tied to the finding.
-- **Funnel PCE calculator** — If the question shifts from 'which stage' to 'how bad is it overall,' this is the more direct next step.
+- **Funnel flow efficiency calculator** — If the question shifts from 'which stage' to 'how bad is it overall,' this is the more direct next step.
 - **Deal A3 — win-rate root cause analysis** — Once a specific constraint stage is named, a deal A3 is where you'd run root cause analysis on why that stage specifically is capping throughput or choking flow.
 
 ## Where AI helps
