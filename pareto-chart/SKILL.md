@@ -8,7 +8,7 @@ description: "Count a problem, split it into categories on purpose, and rank the
 
 Count a problem, split it into categories on purpose, and rank them largest first with a running cumulative percentage, so you can see whether a few categories carry most of it. Then split the top bar again before acting. The ranking, the vital few and the warnings (too little data, a big Other bar, no clear vital few) are computed, not typed in.
 
-Family: Problem solving / RCA · Format: .xlsx · Domain: core
+Family: Problem solving / root cause analysis · Format: .xlsx · Domain: core
 
 ## What it is
 

@@ -8,7 +8,7 @@ description: "The weighted decision matrix discipline pointed at prospect accoun
 
 The weighted decision matrix discipline pointed at prospect accounts: score each one against firmographic fit, technographic fit, trigger strength, and buying-committee access, and let a computed composite score and tier — not a gut feel — say which account actually deserves the next call.
 
-Family: Problem solving / RCA · Format: .xlsx · Domain: commercial
+Family: Problem solving / root cause analysis · Format: .xlsx · Domain: commercial
 
 ## What it is
 
@@ -51,8 +51,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **ICP canvas** (`icp-canvas`) — The ICP canvas defines the criteria this scorecard weighs — firmographics, technographics, triggers, and buying-committee roles — as a one-time definitional exercise; this scorecard applies them repeatedly to real accounts.
-- **TAM coverage map** (`tam-coverage-map`) — The TAM coverage map surfaces which accounts are even tracked and how much contact access exists at each; a fit-criteria scorecard is how you decide which of those tracked accounts to invest further outreach in next.
+- **Ideal customer profile (ICP) canvas** (`icp-canvas`) — The ICP canvas defines the criteria this scorecard weighs — firmographics, technographics, triggers, and buying-committee roles — as a one-time definitional exercise; this scorecard applies them repeatedly to real accounts.
+- **Total addressable market (TAM) coverage map** (`tam-coverage-map`) — The TAM coverage map surfaces which accounts are even tracked and how much contact access exists at each; a fit-criteria scorecard is how you decide which of those tracked accounts to invest further outreach in next.
 
 Downstream:
 

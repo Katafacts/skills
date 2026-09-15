@@ -54,7 +54,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **VOC evidence log** (`voc-evidence-log`) — A real opportunity statement is often grounded in something the evidence log already surfaced — this charter's worked example charters an event against exactly that kind of finding.
+- **Voice of the customer (VOC) evidence log** (`voc-evidence-log`) — A real opportunity statement is often grounded in something the evidence log already surfaced — this charter's worked example charters an event against exactly that kind of finding.
 
 Downstream:
 

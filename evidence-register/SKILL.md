@@ -8,7 +8,7 @@ description: "Whether a claim already circulating is actually backed by real evi
 
 Whether a claim already circulating is actually backed by real evidence — measured data, direct observation, a documented case — or is still just being asserted, with every claim category that has zero evidence logged flagged plainly, not smoothed over.
 
-Family: Problem solving / RCA · Format: .xlsx · Domain: core
+Family: Problem solving / root cause analysis · Format: .xlsx · Domain: core
 
 ## What it is
 
@@ -50,7 +50,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **FMEA** (`fmea`) — A documented, scored FMEA is real evidence for a risk-ranking claim — a stronger source than an unverified assertion, and this register is where that distinction actually gets recorded.
+- **Failure mode and effects analysis (FMEA)** (`fmea`) — A documented, scored FMEA is real evidence for a risk-ranking claim — a stronger source than an unverified assertion, and this register is where that distinction actually gets recorded.
 - **Attribution reality check** (`attribution-reality-check`) — When an attribution reality check finds a claim's credit swings sharply across models, that's exactly the signal this register should record as unverified rather than letting the claim stand as settled.
 
 ## Where AI helps

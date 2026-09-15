@@ -48,7 +48,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **KPI tree** (`kpi-tree`) — A board's metric zone is often a direct summary of an existing KPI tree, not a fresh set of numbers.
+- **Key performance indicator (KPI) tree** (`kpi-tree`) — A board's metric zone is often a direct summary of an existing KPI tree, not a fresh set of numbers.
 
 Downstream:
 

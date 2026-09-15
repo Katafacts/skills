@@ -57,7 +57,7 @@ Upstream:
 
 Downstream:
 
-- **Escalation matrix** (`escalation-matrix`) — A sustained miss that a quick countermeasure can't resolve is exactly the kind of thing an escalation matrix's trigger condition should be checking for.
+- **Escalation matrix** (`escalation-matrix`) — A repeat miss that a quick countermeasure can't resolve is exactly the kind of thing an escalation matrix's trigger condition should be checking for.
 
 ## Where AI helps
 

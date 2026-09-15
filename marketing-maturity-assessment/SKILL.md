@@ -51,7 +51,7 @@ Upstream:
 
 - **Marketing true north statement** (`marketing-true-north-statement`) — A pillar with zero committed initiatives tracing to it is exactly where a related capability area is likely to score honestly low -- the scorecard shows the operational consequence of a gap the true north statement already found.
 - **Marketing operating system charter** (`marketing-operating-system-charter`) — An open governance readiness item is real evidence for why a related capability's own current level is still low -- there's no standing rhythm to grow a capability the governance to run one doesn't exist yet either.
-- **TAM coverage map** (`tam-coverage-map`) — A capability area about market/account intelligence with a low current score is exactly where the coverage map's own list-coverage and Market visibility percentages belong -- real evidence for the score, not an invented number.
+- **Total addressable market (TAM) coverage map** (`tam-coverage-map`) — A capability area about market/account intelligence with a low current score is exactly where the coverage map's own list-coverage and Market visibility percentages belong -- real evidence for the score, not an invented number.
 
 ## Where AI helps
 

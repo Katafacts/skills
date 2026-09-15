@@ -8,7 +8,7 @@ description: "Score a handful of options against criteria that matter differentl
 
 Score a handful of options against criteria that matter differently, with your own weights and scores summed into a single composite score and priority/consider/deprioritize tier — never asserted, always computed from what you enter.
 
-Family: Problem solving / RCA · Format: .xlsx · Domain: core
+Family: Problem solving / root cause analysis · Format: .xlsx · Domain: core
 
 ## What it is
 
@@ -52,7 +52,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Countermeasure matrix** (not in the catalogue yet) — When a countermeasure matrix's fast impact/effort filter narrows a long list down to a genuine handful of finalists, a weighted decision matrix is where those finalists get compared in depth on the criteria that actually matter.
-- **FMEA** (`fmea`) — When an FMEA's recommended actions produce more than one real candidate fix for the same risk, a weighted decision matrix is where you choose between them on more than just risk priority number alone.
+- **Failure mode and effects analysis (FMEA)** (`fmea`) — When an FMEA's recommended actions produce more than one real candidate fix for the same risk, a weighted decision matrix is where you choose between them on more than just risk priority number alone.
 
 Downstream:
 

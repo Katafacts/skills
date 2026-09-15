@@ -54,7 +54,7 @@ Upstream:
 
 Downstream:
 
-- **ILUO training matrix** (`iluo-training-matrix`) — Once a work instruction exists, the ILUO matrix tracks who's actually been trained on it.
+- **Training matrix with I, L, U, O skill levels (ILUO)** (`iluo-training-matrix`) — Once a work instruction exists, the ILUO matrix tracks who's actually been trained on it.
 
 ## Where AI helps
 

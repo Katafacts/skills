@@ -57,7 +57,7 @@ Upstream:
 
 Downstream:
 
-- **KPI tree** (`kpi-tree`) — Once a unit actually commits to a local objective here, a KPI tree is often what that unit builds next to track the driver metrics that move it week to week — the cascade map records the hand-off, the KPI tree is what happens after.
+- **Key performance indicator (KPI) tree** (`kpi-tree`) — Once a unit actually commits to a local objective here, a KPI tree is often what that unit builds next to track the driver metrics that move it week to week — the cascade map records the hand-off, the KPI tree is what happens after.
 - **A3 problem solving** (`a3`) — When a committed local objective isn't moving, an A3 is the right tool to find out why — the cascade map shows who owns it, the A3 closes the specific gap.
 
 ## Where AI helps

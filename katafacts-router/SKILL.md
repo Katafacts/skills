@@ -32,7 +32,7 @@ What the catalogue search returns for some common problems (best match first):
 
 - "Our invoices take weeks to get paid": `makigami`, `improvement-kata-storyboard`, `value-stream-map`
 - "Too many handoffs between teams": `makigami`, `shift-handover`, `kaizen-charter`
-- "Defects keep coming back": `pareto-chart`, `a3`, `first-pass-yield-tracker`
+- "Defects keep coming back": `pareto-chart`, `a3`, `eight-wastes-worksheet`
 - "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-aging-report`, `bottleneck-analysis`
 - "A change is about to go live and might fail": `fmea`, `sustainment-audit`, `metric-definition-sheet`
 - "Customers keep complaining": `voc-evidence-log`, `affinity-diagram`, `customer-interview-guide`
@@ -50,24 +50,24 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 
 ### Understand the customer
 
-- `voc-evidence-log` -- VOC evidence log (Voice of the customer)
+- `voc-evidence-log` -- Voice of the customer (VOC) evidence log (Voice of the customer)
 - `affinity-diagram` -- Affinity diagram (Voice of the customer)
-- `ctq-tree` -- CTQ tree (Voice of the customer)
+- `ctq-tree` -- Critical-to-quality (CTQ) tree (Voice of the customer)
 - `customer-interview-guide` -- Customer interview guide (Voice of the customer)
 - `gemba-interview-protocol` -- Gemba interview protocol (Voice of the customer)
 - `win-loss-interview-guide` -- Win-loss interview guide (Voice of the customer)
-- `voc-collection-plan` -- VOC collection plan (Voice of the customer)
+- `voc-collection-plan` -- Voice of the customer (VOC) collection plan (Voice of the customer)
 - `value-hypothesis` -- Value hypothesis (Voice of the customer)
 - `message-architecture` -- Message architecture (Voice of the customer)
-- `icp-evidence-log` -- ICP evidence log (Voice of the customer)
+- `icp-evidence-log` -- Ideal customer profile (ICP) evidence log (Voice of the customer)
 
 ### See the work
 
 - `value-stream-map` -- Value stream map — current and future state (Value stream mapping)
-- `wip-aging-report` -- WIP aging report (Flow and pull)
+- `wip-aging-report` -- Work-in-progress (WIP) aging report (Flow and pull)
 - `scoping-canvas` -- Scoping canvas (Problem definition)
-- `icp-canvas` -- ICP canvas (Problem definition)
-- `anti-icp` -- Anti-ICP (Problem definition)
+- `icp-canvas` -- Ideal customer profile (ICP) canvas (Problem definition)
+- `anti-icp` -- Anti-ideal customer profile (anti-ICP) (Problem definition)
 - `value-proposition-canvas` -- Value proposition map (Problem definition)
 - `sales-funnel-map` -- Sales funnel value stream map (Value stream mapping)
 - `makigami` -- Makigami process map (Value stream mapping)
@@ -87,14 +87,14 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 
 ### Solve problems
 
-- `a3` -- A3 problem solving (Problem solving / RCA)
-- `deal-a3` -- Deal A3 — win-rate root cause analysis (Problem solving / RCA)
-- `fmea` -- FMEA (Problem solving / RCA)
-- `pareto-chart` -- Pareto chart (Problem solving / RCA)
-- `decision-matrix` -- Weighted decision matrix (Problem solving / RCA)
-- `fit-criteria-scorecard` -- Fit-criteria scorecard (Problem solving / RCA)
-- `evidence-register` -- Evidence register (Problem solving / RCA)
-- `proof-point-inventory` -- Proof point inventory (Problem solving / RCA)
+- `a3` -- A3 problem solving (Problem solving / root cause analysis)
+- `deal-a3` -- Deal A3 — win-rate root cause analysis (Problem solving / root cause analysis)
+- `fmea` -- Failure mode and effects analysis (FMEA) (Problem solving / root cause analysis)
+- `pareto-chart` -- Pareto chart (Problem solving / root cause analysis)
+- `decision-matrix` -- Weighted decision matrix (Problem solving / root cause analysis)
+- `fit-criteria-scorecard` -- Fit-criteria scorecard (Problem solving / root cause analysis)
+- `evidence-register` -- Evidence register (Problem solving / root cause analysis)
+- `proof-point-inventory` -- Proof point inventory (Problem solving / root cause analysis)
 
 ### Run the day
 
@@ -104,9 +104,9 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `qualification-standard-work` -- Qualification standard work (Standard work)
 - `pipeline-management-board` -- Pipeline management board (Daily management)
 - `work-instruction` -- Work instruction (Standard work)
-- `iluo-training-matrix` -- ILUO training matrix (Standard work)
-- `kpi-tree` -- KPI tree (Daily management)
-- `marketing-kpi-tree` -- Marketing KPI tree (Daily management)
+- `iluo-training-matrix` -- Training matrix with I, L, U, O skill levels (ILUO) (Standard work)
+- `kpi-tree` -- Key performance indicator (KPI) tree (Daily management)
+- `marketing-kpi-tree` -- Marketing key performance indicator (KPI) tree (Daily management)
 - `leader-standard-work` -- Leader standard work (Daily management)
 - `daily-accountability-sheet` -- Daily accountability sheet (Daily management)
 - `escalation-matrix` -- Escalation matrix (Daily management)
@@ -127,7 +127,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `implementation-plan` -- Implementation plan (Kaizen events)
 - `mutual-action-plan` -- Mutual action plan (Kaizen events)
 - `stakeholder-coverage-map` -- Stakeholder coverage map (Kaizen events)
-- `tam-coverage-map` -- TAM coverage map (Kaizen events)
+- `tam-coverage-map` -- Total addressable market (TAM) coverage map (Kaizen events)
 - `learning-log` -- Learning log (Experimentation)
 - `message-testing-log` -- Message testing log (Experimentation)
 - `improvement-kata-storyboard` -- Improvement Kata storyboard (Improvement kata)
@@ -152,7 +152,6 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - ICP: ideal customer profile
 - ILUO: a four-step skill scale, from I (learning) through L and U to O (can train others)
 - KPI: key performance indicator
-- RCA: root cause analysis
 - TAM: total addressable market
 - VOC: voice of the customer
 - WIP: work in progress

@@ -8,7 +8,7 @@ description: "The same A3 discipline applied to a losing pattern in the pipeline
 
 The same A3 discipline applied to a losing pattern in the pipeline instead of a shop-floor problem: a Pareto over loss reasons, a root cause chain that survives scrutiny, and countermeasures a sales leader can actually act on.
 
-Family: Problem solving / RCA · Format: .xlsx · Domain: commercial
+Family: Problem solving / root cause analysis · Format: .xlsx · Domain: commercial
 
 ## What it is
 
@@ -57,7 +57,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **ICP canvas** (`icp-canvas`) — A deal A3's root cause often traces back to who's being pursued in the first place, not just how the deal was run once it started — a pattern of losses in a specific segment is sometimes an ICP signal, not a process gap.
+- **Ideal customer profile (ICP) canvas** (`icp-canvas`) — A deal A3's root cause often traces back to who's being pursued in the first place, not just how the deal was run once it started — a pattern of losses in a specific segment is sometimes an ICP signal, not a process gap.
 - **Discovery call standard work** (`discovery-standard-work`) — Feeds the deal A3's Pareto directly when the loss pattern concentrates at or after discovery — a standardized discovery process is what makes "which step failed" answerable from data instead of memory.
 - **5-Whys** (not in the catalogue yet) — The root cause section runs a 5-Whys inline, starting from the Pareto's vital-few category — same as canonical A3.
 

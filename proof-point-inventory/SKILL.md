@@ -8,7 +8,7 @@ description: "The evidence register discipline pointed at your standing message 
 
 The evidence register discipline pointed at your standing message pillars: which claims are actually backed by real, checkable proof, and which pillars — or which specific claims — still have none, flagged plainly rather than assumed proven forever.
 
-Family: Problem solving / RCA · Format: .xlsx · Domain: commercial
+Family: Problem solving / root cause analysis · Format: .xlsx · Domain: commercial
 
 ## What it is
 

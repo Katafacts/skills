@@ -55,7 +55,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Marketing true north statement** (`marketing-true-north-statement`) — This charter's worked example exists specifically because the true north statement found a pillar with zero committed initiatives — the charter is the governance response to that gap.
-- **TAM coverage map** (`tam-coverage-map`) — Provides the actual evidence (Market visibility %, list coverage %) grounding why a standing review cadence is needed, rather than a vague sense that coverage could be better.
+- **Total addressable market (TAM) coverage map** (`tam-coverage-map`) — Provides the actual evidence (Market visibility %, list coverage %) grounding why a standing review cadence is needed, rather than a vague sense that coverage could be better.
 
 Downstream:
 

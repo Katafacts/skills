@@ -8,7 +8,7 @@ description: "Structured problem solving on one page: background, a Pareto-drive
 
 Structured problem solving on one page: background, a Pareto-driven root cause chain, and a tested countermeasure tracked against a target, actual, gap and standard (TAGS) scorecard.
 
-Family: Problem solving / RCA · Format: .xlsx · Domain: core
+Family: Problem solving / root cause analysis · Format: .xlsx · Domain: core
 
 ## What it is
 

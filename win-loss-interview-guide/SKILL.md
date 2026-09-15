@@ -55,7 +55,7 @@ Upstream:
 
 Downstream:
 
-- **VOC evidence log** (`voc-evidence-log`) — Win-loss quotes are exactly the kind of raw material the evidence log tallies — log them as entries, source type 'win-loss.'
+- **Voice of the customer (VOC) evidence log** (`voc-evidence-log`) — Win-loss quotes are exactly the kind of raw material the evidence log tallies — log them as entries, source type 'win-loss.'
 
 ## Where AI helps
 

@@ -49,7 +49,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Marketing KPI tree** (`marketing-kpi-tree`) — A driver metric named there — like channel attribution, left without one — is exactly what this sheet formally names as a gap, even when it can't resolve it.
+- **Marketing key performance indicator (KPI) tree** (`marketing-kpi-tree`) — A driver metric named there — like channel attribution, left without one — is exactly what this sheet formally names as a gap, even when it can't resolve it.
 - **Marketing go-see protocol** (`marketing-go-see-protocol`) — A go-see walk verifies a metric is holding at the source system; this sheet is what defines what 'holding' actually means for that metric in the first place.
 
 Downstream:

@@ -49,7 +49,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Downstream:
 
-- **KPI tree** (`kpi-tree`) — A driver metric in a KPI tree is only as trustworthy as this sheet's own definition behind it — the tree tracks the number, this sheet is what makes the number mean one specific thing.
+- **Key performance indicator (KPI) tree** (`kpi-tree`) — A driver metric in a KPI tree is only as trustworthy as this sheet's own definition behind it — the tree tracks the number, this sheet is what makes the number mean one specific thing.
 
 ## Where AI helps
 

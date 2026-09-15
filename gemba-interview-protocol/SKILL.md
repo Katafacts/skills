@@ -51,8 +51,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Downstream:
 
-- **VOC evidence log** (`voc-evidence-log`) — Gemba observations are exactly the kind of raw material the evidence log tallies — log them as entries, source type 'gemba.'
-- **WIP aging report** (`wip-aging-report`) — A workaround observed in a gemba session is often the human explanation behind a stalled-item pattern the WIP aging report would otherwise only see as a number.
+- **Voice of the customer (VOC) evidence log** (`voc-evidence-log`) — Gemba observations are exactly the kind of raw material the evidence log tallies — log them as entries, source type 'gemba.'
+- **Work-in-progress (WIP) aging report** (`wip-aging-report`) — A workaround observed in a gemba session is often the human explanation behind a stalled-item pattern the WIP aging report would otherwise only see as a number.
 
 ## Where AI helps
 
