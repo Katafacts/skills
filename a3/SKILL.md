@@ -58,7 +58,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Pareto chart** (not in the catalogue yet) — Feeds the A3's root cause section directly — it's what earns the right to chase one category instead of guessing. A standalone Pareto worksheet is useful when the category breakdown needs more room or more data than the A3 page allows.
+- **Pareto chart** (`pareto-chart`) — Feeds the A3's root cause section directly — it's what earns the right to chase one category instead of guessing. A standalone Pareto worksheet is useful when the category breakdown needs more room or more data than the A3 page allows.
 - **5-Whys** (not in the catalogue yet) — The root cause analysis section runs a 5-Whys inline, starting from the Pareto's vital-few category. A standalone 5-Whys worksheet earns its keep when the causal chain needs more room than the A3 page allows.
 - **Fishbone diagram** (not in the catalogue yet) — Use one first when there are several plausible cause categories to sort through before the Pareto data is clean enough to rank confidently.
 

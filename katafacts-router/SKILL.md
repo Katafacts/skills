@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 77 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 78 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -32,7 +32,7 @@ What the catalogue search returns for some common problems (best match first):
 
 - "Our invoices take weeks to get paid": `makigami`, `improvement-kata-storyboard`, `value-stream-map`
 - "Too many handoffs between teams": `makigami`, `shift-handover`, `kaizen-charter`
-- "Defects keep coming back": `a3`, `first-pass-yield-tracker`, `eight-wastes-worksheet`
+- "Defects keep coming back": `pareto-chart`, `a3`, `first-pass-yield-tracker`
 - "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-aging-report`, `bottleneck-analysis`
 - "A change is about to go live and might fail": `fmea`, `sustainment-audit`, `metric-definition-sheet`
 - "Customers keep complaining": `voc-evidence-log`, `affinity-diagram`, `customer-interview-guide`
@@ -90,6 +90,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `a3` -- A3 problem solving (Problem solving / RCA)
 - `deal-a3` -- Deal A3 — win-rate root cause analysis (Problem solving / RCA)
 - `fmea` -- FMEA (Problem solving / RCA)
+- `pareto-chart` -- Pareto chart (Problem solving / RCA)
 - `decision-matrix` -- Weighted decision matrix (Problem solving / RCA)
 - `fit-criteria-scorecard` -- Fit-criteria scorecard (Problem solving / RCA)
 - `evidence-register` -- Evidence register (Problem solving / RCA)
