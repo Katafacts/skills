@@ -12,7 +12,7 @@ Family: Hoshin Kanri · Format: .xlsx · Domain: core
 
 ## What it is
 
-Hoshin Kanri ("direction management") is how an organisation turns a long-term direction into this year's work, without the connection between the two getting lost. The X-Matrix is its signature artifact: one page linking long-term breakthrough objectives, this year's annual objectives, the improvement strategies that will move them, and the metrics that prove it — with a correlation grid at each intersection showing exactly how strong each connection actually is. Catchball is the negotiation that gets you there: objectives don't arrive fully formed from the top, they're proposed, pushed back on, and refined at every level before they're locked in.
+Hoshin Kanri ("direction management", often called policy deployment) is how an organisation turns a long-term direction into this year's work, without the connection between the two getting lost. The method itself is the cycle, not a particular form: set a few breakthrough objectives, agree them level by level through catchball, deploy them into owned strategies and metrics, then review progress every month and adjust. Catchball is the negotiation at the heart of it: objectives don't arrive fully formed from the top, they're proposed, pushed back on, and refined at every level before they're locked in — and the same back-and-forth carries on in the monthly reviews, where each level reports what's on and off track and what it's doing about the gaps. This tool records the plan as an X-Matrix, a widely used Western format for hoshin planning: one page linking long-term breakthrough objectives, this year's annual objectives, the improvement strategies that will move them, and the metrics that prove it — with a correlation grid at each intersection showing how strong each connection actually is. Plenty of organisations run hoshin kanri well with simpler tables or a set of linked A3s instead. Sources: Yoji Akao (ed.), Hoshin Kanri: Policy Deployment (1991); Thomas L. Jackson, Hoshin Kanri for the Lean Enterprise (2006), which popularised the X-Matrix.
 
 ## When to use it
 
@@ -51,6 +51,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 - **Catchball is skipped and the matrix goes straight from an executive offsite to a finished document.** — The people asked to deliver the strategies never got a chance to push back on feasibility. The plan looks complete and isn't tested.
 - **A strategy has no owner, or a metric has no target.** — This is exactly what the specificity check exists to catch — an unowned strategy or untargeted metric is a line on a page, not a commitment.
 - **One person builds the whole X-Matrix alone to save time.** — Hoshin's value comes from the organisation aligning around the plan, not from the document itself. A matrix nobody else was involved in building has no more authority than an opinion.
+- **The plan is filed after it's agreed and only looked at again at year end.** — Hoshin kanri is a monthly plan-do-check-act cycle, not an annual document. Each month, owners review their metrics against target, explain any gap, and agree what they'll change — so a strategy that isn't working gets caught in weeks, not after the year is lost.
 
 ## What it connects to
 
