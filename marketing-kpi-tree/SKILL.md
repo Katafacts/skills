@@ -50,12 +50,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Visibility board** — A real finding in the visibility board's own countermeasure register — like a sync job that didn't fully hold — is exactly what should turn into a named driver metric here, not a generic goal invented separately.
+- **Visibility board** (`visibility-board`) — A real finding in the visibility board's own countermeasure register — like a sync job that didn't fully hold — is exactly what should turn into a named driver metric here, not a generic goal invented separately.
 
 Downstream:
 
-- **Marketing go-see protocol** — Once a driver metric is named here, a go-see walk is how you verify it's actually holding at the source systems, not just on the dashboard.
-- **Marketing metric definition sheet** — A driver metric named here — like channel attribution, left without one — is exactly what a metric definition sheet formally names as a gap, even when it can't resolve it.
+- **Marketing go-see protocol** (`marketing-go-see-protocol`) — Once a driver metric is named here, a go-see walk is how you verify it's actually holding at the source systems, not just on the dashboard.
+- **Marketing metric definition sheet** (`marketing-metric-definition-sheet`) — A driver metric named here — like channel attribution, left without one — is exactly what a metric definition sheet formally names as a gap, even when it can't resolve it.
 
 ## Where AI helps
 

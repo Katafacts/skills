@@ -51,12 +51,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **ICP canvas** — The ICP canvas defines who to pursue; this defines who not to, or who to pursue only with a specific countermeasure — a deliberately separate list, not this canvas's mirror image.
-- **ICP evidence log** — The same real win/loss evidence that sharpens the ICP canvas is exactly what a disqualifier or red flag here should trace back to — not a rep's unstated impression of what goes wrong.
+- **ICP canvas** (`icp-canvas`) — The ICP canvas defines who to pursue; this defines who not to, or who to pursue only with a specific countermeasure — a deliberately separate list, not this canvas's mirror image.
+- **ICP evidence log** (`icp-evidence-log`) — The same real win/loss evidence that sharpens the ICP canvas is exactly what a disqualifier or red flag here should trace back to — not a rep's unstated impression of what goes wrong.
 
 Downstream:
 
-- **Qualification standard work** — The disqualifier check in qualification standard work is only as good as this list — a stale or missing anti-ICP means that step has nothing real to run against.
+- **Qualification standard work** (`qualification-standard-work`) — The disqualifier check in qualification standard work is only as good as this list — a stale or missing anti-ICP means that step has nothing real to run against.
 
 ## Where AI helps
 

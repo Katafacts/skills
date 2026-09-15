@@ -48,7 +48,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Leader standard work** — Checking the accountability sheet is often literally a leader standard work step — the routine is what makes the sheet get used.
+- **Leader standard work** (`leader-standard-work`) — Checking the accountability sheet is often literally a leader standard work step — the routine is what makes the sheet get used.
 
 ## Where AI helps
 

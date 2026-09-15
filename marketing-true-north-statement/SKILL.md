@@ -50,8 +50,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Revenue Hoshin Kanri — X-Matrix** — The revenue plan's own trueNorth field is exactly the sentence this statement expands into pillars, and its annual objectives/strategies are the real, committed work each pillar is checked against.
-- **TAM coverage map** — A pillar about market reach with no committed initiative behind it is exactly where the coverage map's own list-coverage and Market visibility percentages belong — real evidence for the gap, not an invented number.
+- **Revenue Hoshin Kanri — X-Matrix** (`revenue-hoshin-kanri`) — The revenue plan's own trueNorth field is exactly the sentence this statement expands into pillars, and its annual objectives/strategies are the real, committed work each pillar is checked against.
+- **TAM coverage map** (`tam-coverage-map`) — A pillar about market reach with no committed initiative behind it is exactly where the coverage map's own list-coverage and Market visibility percentages belong — real evidence for the gap, not an invented number.
 
 ## Where AI helps
 

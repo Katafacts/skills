@@ -52,8 +52,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Downstream:
 
-- **Discovery call standard work** — A newly-identified contact on this map is exactly what turns into a real discovery call.
-- **Value hypothesis** — A fully-covered buying group is what a value hypothesis needs before it's built on real evidence instead of a guess about who cares and why.
+- **Discovery call standard work** (`discovery-standard-work`) — A newly-identified contact on this map is exactly what turns into a real discovery call.
+- **Value hypothesis** (`value-hypothesis`) — A fully-covered buying group is what a value hypothesis needs before it's built on real evidence instead of a guess about who cares and why.
 
 ## Where AI helps
 

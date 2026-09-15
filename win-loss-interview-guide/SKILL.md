@@ -51,11 +51,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Deal A3** — A deal that's already been through root-cause analysis on a stalled or lost pattern is exactly the kind of deal worth a deeper win-loss follow-up.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — A deal that's already been through root-cause analysis on a stalled or lost pattern is exactly the kind of deal worth a deeper win-loss follow-up.
 
 Downstream:
 
-- **VOC evidence log** — Win-loss quotes are exactly the kind of raw material the evidence log tallies — log them as entries, source type 'win-loss.'
+- **VOC evidence log** (`voc-evidence-log`) — Win-loss quotes are exactly the kind of raw material the evidence log tallies — log them as entries, source type 'win-loss.'
 
 ## Where AI helps
 

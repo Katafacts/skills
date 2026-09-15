@@ -50,12 +50,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **ICP canvas** — This standard work only works if the firmographic ranges and trigger signals it checks against are the real, current ICP definition — not a rep's mental model of it.
-- **Anti-ICP** — The disqualifier check is only as good as the anti-ICP list it's checking against — a stale or missing anti-ICP means this step has nothing real to run.
+- **ICP canvas** (`icp-canvas`) — This standard work only works if the firmographic ranges and trigger signals it checks against are the real, current ICP definition — not a rep's mental model of it.
+- **Anti-ICP** (`anti-icp`) — The disqualifier check is only as good as the anti-ICP list it's checking against — a stale or missing anti-ICP means this step has nothing real to run.
 
 Downstream:
 
-- **Discovery call standard work** — A lead that passes qualification is exactly what advances into a discovery call — qualification decides who gets there, discovery decides what happens once they do.
+- **Discovery call standard work** (`discovery-standard-work`) — A lead that passes qualification is exactly what advances into a discovery call — qualification decides who gets there, discovery decides what happens once they do.
 
 ## Where AI helps
 

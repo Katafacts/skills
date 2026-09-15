@@ -58,13 +58,13 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Qualification standard work** — Defines what actually earns sales-qualified status — the funnel map's start boundary is only meaningful if that definition is consistently applied before deals enter the mapped segment.
-- **Deal aging / work-in-progress report** — Counts the stalled deals at each stage boundary that feed this map's work-in-progress counts. Generating leads faster than the funnel's constraint can absorb them shows up there as inventory, not pipeline health.
+- **Qualification standard work** (`qualification-standard-work`) — Defines what actually earns sales-qualified status — the funnel map's start boundary is only meaningful if that definition is consistently applied before deals enter the mapped segment.
+- **Deal aging / work-in-progress report** (`deal-aging-report`) — Counts the stalled deals at each stage boundary that feed this map's work-in-progress counts. Generating leads faster than the funnel's constraint can absorb them shows up there as inventory, not pipeline health.
 
 Downstream:
 
-- **Deal A3 — win-rate root cause analysis** — The funnel map's capacity constraint or largest wait contributor is exactly the kind of bounded, data-backed problem a deal A3 exists to close in depth.
-- **Pipeline management board** — Once a stage-level finding is named, it belongs on the team's regular pipeline review as a tracked leading indicator, not just re-measured once at quarter-end.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — The funnel map's capacity constraint or largest wait contributor is exactly the kind of bounded, data-backed problem a deal A3 exists to close in depth.
+- **Pipeline management board** (`pipeline-management-board`) — Once a stage-level finding is named, it belongs on the team's regular pipeline review as a tracked leading indicator, not just re-measured once at quarter-end.
 
 ## Where AI helps
 

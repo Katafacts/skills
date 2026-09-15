@@ -50,7 +50,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Hoshin Kanri — X-Matrix** — The X-Matrix's own trueNorth field is exactly the sentence this statement expands into pillars, and its annual objectives/strategies are the real, committed work each pillar is checked against.
+- **Hoshin Kanri — X-Matrix** (`hoshin-kanri`) — The X-Matrix's own trueNorth field is exactly the sentence this statement expands into pillars, and its annual objectives/strategies are the real, committed work each pillar is checked against.
 
 ## Where AI helps
 

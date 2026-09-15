@@ -47,7 +47,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Message architecture** — The architecture's own pillars and proof points are exactly what this audit checks against reality — including whether an unproven pillar has quietly crept into claims anyway.
+- **Message architecture** (`message-architecture`) — The architecture's own pillars and proof points are exactly what this audit checks against reality — including whether an unproven pillar has quietly crept into claims anyway.
 
 ## Where AI helps
 

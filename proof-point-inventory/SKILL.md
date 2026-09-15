@@ -50,7 +50,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Message architecture** — The architecture's own pillars are exactly the categories this inventory checks for real proof — including whether the pillar it deliberately left unproven has earned any proof points yet.
+- **Message architecture** (`message-architecture`) — The architecture's own pillars are exactly the categories this inventory checks for real proof — including whether the pillar it deliberately left unproven has earned any proof points yet.
 
 ## Where AI helps
 

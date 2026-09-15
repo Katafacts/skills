@@ -56,8 +56,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Downstream:
 
-- **Sales funnel value stream map** — Once the flow-efficiency number is low enough to warrant real attention, this is where you find which specific stage to act on and what to do about it.
-- **Bottleneck analysis** — If the question is specifically 'which stage is capping throughput' rather than 'what's my overall efficiency,' this is the more direct next step.
+- **Sales funnel value stream map** (`sales-funnel-map`) — Once the flow-efficiency number is low enough to warrant real attention, this is where you find which specific stage to act on and what to do about it.
+- **Bottleneck analysis** (`bottleneck-analysis`) — If the question is specifically 'which stage is capping throughput' rather than 'what's my overall efficiency,' this is the more direct next step.
 
 ## Where AI helps
 

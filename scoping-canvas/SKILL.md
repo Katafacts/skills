@@ -54,12 +54,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **A3 problem solving** — A recurring problem an A3 surfaces sometimes needs work bigger than one countermeasure can carry — that's exactly when it graduates into a scoped initiative of its own.
+- **A3 problem solving** (`a3`) — A recurring problem an A3 surfaces sometimes needs work bigger than one countermeasure can carry — that's exactly when it graduates into a scoped initiative of its own.
 
 Downstream:
 
-- **Kaizen event charter** — Once an initiative is scoped and worth a dedicated event, the charter is where it gets resourced, dated, and given a roster — heavier commitment than a canvas alone implies.
-- **Business case** — An initiative whose value needs to be argued for, not just scoped, is where a business case's investment/value-driver discipline takes over.
+- **Kaizen event charter** (`kaizen-charter`) — Once an initiative is scoped and worth a dedicated event, the charter is where it gets resourced, dated, and given a roster — heavier commitment than a canvas alone implies.
+- **Business case** (`business-case`) — An initiative whose value needs to be argued for, not just scoped, is where a business case's investment/value-driver discipline takes over.
 
 ## Where AI helps
 

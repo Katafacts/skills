@@ -53,11 +53,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Kanban sizing calculator** — A WIP limit sized too high is exactly what produces a queue with room for items to quietly stall — this report is where that shows up after the fact.
+- **Kanban sizing calculator** (not in the catalogue yet) — A WIP limit sized too high is exactly what produces a queue with room for items to quietly stall — this report is where that shows up after the fact.
 
 Downstream:
 
-- **A3 problem solving** — Once a stalled item is named, an A3 is where you'd run root cause analysis in depth if the blocker isn't already obvious from the observation notes.
+- **A3 problem solving** (`a3`) — Once a stalled item is named, an A3 is where you'd run root cause analysis in depth if the blocker isn't already obvious from the observation notes.
 
 ## Where AI helps
 

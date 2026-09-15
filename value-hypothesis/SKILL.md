@@ -52,12 +52,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Discovery call standard work** — A need surfaced with real technique in discovery — the compelling event, the cost of inaction — is exactly the kind of evidence this tree exists to translate into a quantified proof point.
+- **Discovery call standard work** (`discovery-standard-work`) — A need surfaced with real technique in discovery — the compelling event, the cost of inaction — is exactly the kind of evidence this tree exists to translate into a quantified proof point.
 
 Downstream:
 
-- **Deal A3 — win-rate root cause analysis** — When a value hypothesis's proof point turns out to be wrong or unpersuasive after the deal is lost, that gap is exactly what an eventual deal A3's root cause analysis would trace back to.
-- **Message architecture** — Once a proof point actually works in a real deal, this is where it gets promoted into the standing message every deal and channel should use — not invented fresh a second time.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — When a value hypothesis's proof point turns out to be wrong or unpersuasive after the deal is lost, that gap is exactly what an eventual deal A3's root cause analysis would trace back to.
+- **Message architecture** (`message-architecture`) — Once a proof point actually works in a real deal, this is where it gets promoted into the standing message every deal and channel should use — not invented fresh a second time.
 
 ## Where AI helps
 

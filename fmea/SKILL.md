@@ -50,12 +50,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **A3 problem solving** — A failure an A3's root cause analysis already traced to a specific cause is exactly the kind of item an FMEA formalizes and ranks alongside other risks in the same process.
-- **Scoping canvas** — A newly-scoped process or procedure change is what an FMEA should analyze before it rolls out, not after something's already gone wrong with it.
+- **A3 problem solving** (`a3`) — A failure an A3's root cause analysis already traced to a specific cause is exactly the kind of item an FMEA formalizes and ranks alongside other risks in the same process.
+- **Scoping canvas** (`scoping-canvas`) — A newly-scoped process or procedure change is what an FMEA should analyze before it rolls out, not after something's already gone wrong with it.
 
 Downstream:
 
-- **Countermeasure matrix** — When an FMEA surfaces more recommended actions than can be tackled at once, a countermeasure matrix is where they'd get ranked by impact and effort before committing.
+- **Countermeasure matrix** (not in the catalogue yet) — When an FMEA surfaces more recommended actions than can be tackled at once, a countermeasure matrix is where they'd get ranked by impact and effort before committing.
 
 ## Where AI helps
 

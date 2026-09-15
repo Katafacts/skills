@@ -52,11 +52,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **VOC evidence log** — The curated notes an affinity-diagramming session works from typically come from an ongoing evidence log — pull the relevant subset in rather than starting from nothing.
+- **VOC evidence log** (`voc-evidence-log`) — The curated notes an affinity-diagramming session works from typically come from an ongoing evidence log — pull the relevant subset in rather than starting from nothing.
 
 Downstream:
 
-- **CTQ tree** — Once a theme is named with real weight behind it, a CTQ tree is where you'd translate it into a specific, measurable requirement.
+- **CTQ tree** (`ctq-tree`) — Once a theme is named with real weight behind it, a CTQ tree is where you'd translate it into a specific, measurable requirement.
 
 ## Where AI helps
 

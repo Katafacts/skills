@@ -54,11 +54,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **A3 problem solving** — A countermeasure identified in an A3 that needs real resourcing is exactly what turns into a business case — the A3 finds the fix, this justifies committing to it.
+- **A3 problem solving** (`a3`) — A countermeasure identified in an A3 that needs real resourcing is exactly what turns into a business case — the A3 finds the fix, this justifies committing to it.
 
 Downstream:
 
-- **Kaizen event charter** — Once a business case earns the investment, a kaizen event charter is where the actual work gets planned and resourced day to day.
+- **Kaizen event charter** (`kaizen-charter`) — Once a business case earns the investment, a kaizen event charter is where the actual work gets planned and resourced day to day.
 
 ## Where AI helps
 

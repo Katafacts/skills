@@ -52,13 +52,13 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **ICP evidence log** — A theme with real weight behind it is exactly what should update this canvas's definition — the canvas should trace back to evidence like this, not a sales leader's unstated assumptions.
+- **ICP evidence log** (`icp-evidence-log`) — A theme with real weight behind it is exactly what should update this canvas's definition — the canvas should trace back to evidence like this, not a sales leader's unstated assumptions.
 
 Downstream:
 
-- **Qualification standard work** — This canvas's firmographic ranges and trigger signals are exactly what a qualification standard work checks a lead against — the canvas defines the target, the standard work operationalizes checking against it.
-- **TAM coverage map** — Once the ICP is defined here, a TAM coverage map is where you'd measure how much of the addressable market matching it is actually on the radar as a named target.
-- **Anti-ICP** — This canvas defines who to pursue; an anti-ICP is the separate list of who not to, or who to pursue only with a specific countermeasure — deliberately not a mirrored version of this canvas with the polarity flipped.
+- **Qualification standard work** (`qualification-standard-work`) — This canvas's firmographic ranges and trigger signals are exactly what a qualification standard work checks a lead against — the canvas defines the target, the standard work operationalizes checking against it.
+- **TAM coverage map** (`tam-coverage-map`) — Once the ICP is defined here, a TAM coverage map is where you'd measure how much of the addressable market matching it is actually on the radar as a named target.
+- **Anti-ICP** (`anti-icp`) — This canvas defines who to pursue; an anti-ICP is the separate list of who not to, or who to pursue only with a specific countermeasure — deliberately not a mirrored version of this canvas with the polarity flipped.
 
 ## Where AI helps
 

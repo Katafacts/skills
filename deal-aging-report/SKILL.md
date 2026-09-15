@@ -53,11 +53,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Sales funnel value stream map** — The same stage-level thinking, applied to completed deals instead of currently-open ones — useful together when a stage is both slow on average and producing stalled outliers.
+- **Sales funnel value stream map** (`sales-funnel-map`) — The same stage-level thinking, applied to completed deals instead of currently-open ones — useful together when a stage is both slow on average and producing stalled outliers.
 
 Downstream:
 
-- **Deal A3** — Once a stalled deal is named, a deal A3 is where you'd run root cause analysis on why that specific deal is stuck, if it isn't already obvious from the observation notes.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — Once a stalled deal is named, a deal A3 is where you'd run root cause analysis on why that specific deal is stuck, if it isn't already obvious from the observation notes.
 
 ## Where AI helps
 

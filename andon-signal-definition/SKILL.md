@@ -46,11 +46,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Escalation matrix** — Shares the same shape directly — a signal is a severity made visible.
+- **Escalation matrix** (`escalation-matrix`) — Shares the same shape directly — a signal is a severity made visible.
 
 Downstream:
 
-- **Visual board design guide** — Signal definitions are a natural board zone once they exist.
+- **Visual board design guide** (`visual-board-design-guide`) — Signal definitions are a natural board zone once they exist.
 
 ## Where AI helps
 

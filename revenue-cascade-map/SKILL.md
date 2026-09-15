@@ -53,12 +53,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Revenue Hoshin Kanri — X-Matrix** — The parent plan this cascades from — a cascade map has nothing to track without a real revenue X-Matrix's annual objectives behind it.
+- **Revenue Hoshin Kanri — X-Matrix** (`revenue-hoshin-kanri`) — The parent plan this cascades from — a cascade map has nothing to track without a real revenue X-Matrix's annual objectives behind it.
 
 Downstream:
 
-- **Marketing KPI tree** — Once a function actually commits to a local objective here, a KPI tree is often what that function builds next to track the driver metrics that move it week to week — the cascade map records the hand-off, the KPI tree is what happens after.
-- **Deal A3** — When a committed local objective isn't moving, a deal A3 is the right tool to find out why for a specific segment — the cascade map shows who owns it, the deal A3 closes the specific gap.
+- **Marketing KPI tree** (`marketing-kpi-tree`) — Once a function actually commits to a local objective here, a KPI tree is often what that function builds next to track the driver metrics that move it week to week — the cascade map records the hand-off, the KPI tree is what happens after.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — When a committed local objective isn't moving, a deal A3 is the right tool to find out why for a specific segment — the cascade map shows who owns it, the deal A3 closes the specific gap.
 
 ## Where AI helps
 

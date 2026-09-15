@@ -55,15 +55,15 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Value stream map — current and future state** — Zoom into one process box whose waits or quality are poor — open a Makigami from that step, and send its work time and first-pass yield back to the value stream map when you're done.
-- **Go-see protocol** — How to follow the real case in person, rather than mapping from memory.
-- **Eight wastes (DOWNTIME) worksheet** — A waste walk on the same process often shows which part is worth mapping step by step.
+- **Value stream map — current and future state** (`value-stream-map`) — Zoom into one process box whose waits or quality are poor — open a Makigami from that step, and send its work time and first-pass yield back to the value stream map when you're done.
+- **Go-see protocol** (`go-see-protocol`) — How to follow the real case in person, rather than mapping from memory.
+- **Eight wastes (DOWNTIME) worksheet** (`eight-wastes-worksheet`) — A waste walk on the same process often shows which part is worth mapping step by step.
 
 Downstream:
 
-- **A3 problem solving** — A problem cluster that doesn't have an obvious fix is a bounded, evidenced problem an A3 can take to root cause.
-- **Kaizen event charter** — Ideas that need another department (B) usually need a chartered kaizen event with those people in the room.
-- **Implementation plan** — Where the larger project-sized actions from the 100-day plan get tracked through to done.
+- **A3 problem solving** (`a3`) — A problem cluster that doesn't have an obvious fix is a bounded, evidenced problem an A3 can take to root cause.
+- **Kaizen event charter** (`kaizen-charter`) — Ideas that need another department (B) usually need a chartered kaizen event with those people in the room.
+- **Implementation plan** (`implementation-plan`) — Where the larger project-sized actions from the 100-day plan get tracked through to done.
 
 ## Where AI helps
 

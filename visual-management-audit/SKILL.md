@@ -47,7 +47,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Visual board design guide** — The board's own zone specifications and update owners are exactly what this audit checks against reality.
+- **Visual board design guide** (`visual-board-design-guide`) — The board's own zone specifications and update owners are exactly what this audit checks against reality.
 
 ## Where AI helps
 

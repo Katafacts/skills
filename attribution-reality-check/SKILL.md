@@ -50,7 +50,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Metric definition sheet** — A metric definition sheet is where an unresolved crediting question first gets named as a real gap; this reality check is where that gap actually gets pressure-tested against alternative models.
+- **Metric definition sheet** (`metric-definition-sheet`) — A metric definition sheet is where an unresolved crediting question first gets named as a real gap; this reality check is where that gap actually gets pressure-tested against alternative models.
 
 ## Where AI helps
 

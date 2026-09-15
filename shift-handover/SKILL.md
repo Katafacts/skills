@@ -48,7 +48,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Escalation matrix** — A flagged item's urgency often traces directly to the escalation matrix's own severity definitions and triggers, as in the worked example.
+- **Escalation matrix** (`escalation-matrix`) — A flagged item's urgency often traces directly to the escalation matrix's own severity definitions and triggers, as in the worked example.
 
 ## Where AI helps
 

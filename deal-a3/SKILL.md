@@ -57,15 +57,15 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Ideal Customer Profile / qualification standard work** — A deal A3's root cause often traces back to who's being pursued in the first place, not just how the deal was run once it started — a pattern of losses in a specific segment is sometimes an ICP signal, not a process gap.
-- **Discovery standard work** — Feeds the deal A3's Pareto directly when the loss pattern concentrates at or after discovery — a standardized discovery process is what makes "which step failed" answerable from data instead of memory.
-- **5-Whys** — The root cause section runs a 5-Whys inline, starting from the Pareto's vital-few category — same as canonical A3.
+- **ICP canvas** (`icp-canvas`) — A deal A3's root cause often traces back to who's being pursued in the first place, not just how the deal was run once it started — a pattern of losses in a specific segment is sometimes an ICP signal, not a process gap.
+- **Discovery call standard work** (`discovery-standard-work`) — Feeds the deal A3's Pareto directly when the loss pattern concentrates at or after discovery — a standardized discovery process is what makes "which step failed" answerable from data instead of memory.
+- **5-Whys** (not in the catalogue yet) — The root cause section runs a 5-Whys inline, starting from the Pareto's vital-few category — same as canonical A3.
 
 Downstream:
 
-- **Mutual action plan** — When a deal A3's countermeasure is process-level (a new stage gate, a new qualification question), the mutual action plan is where that discipline gets applied deal-by-deal going forward.
-- **Pipeline daily/weekly management board** — The confirmation plan's leading indicator (stage conversion, a logged qualification field) belongs on the team's regular pipeline review, not just checked once at the end of the confirmation window.
-- **Sales funnel value stream map** — A deal A3 explains one loss pattern in depth; a funnel value stream map shows where WIP and conversion loss concentrate across the whole pipeline, which is often where the next deal A3's topic comes from.
+- **Mutual action plan** (`mutual-action-plan`) — When a deal A3's countermeasure is process-level (a new stage gate, a new qualification question), the mutual action plan is where that discipline gets applied deal-by-deal going forward.
+- **Pipeline management board** (`pipeline-management-board`) — The confirmation plan's leading indicator (stage conversion, a logged qualification field) belongs on the team's regular pipeline review, not just checked once at the end of the confirmation window.
+- **Sales funnel value stream map** (`sales-funnel-map`) — A deal A3 explains one loss pattern in depth; a funnel value stream map shows where WIP and conversion loss concentrate across the whole pipeline, which is often where the next deal A3's topic comes from.
 
 ## Where AI helps
 

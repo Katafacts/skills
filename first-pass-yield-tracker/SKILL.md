@@ -52,11 +52,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Defect log** — The per-stage entered/advanced counts this tracker needs are exactly what a defect log already records — this tool turns that log into a stage-by-stage yield finding.
+- **Defect log** (not in the catalogue yet) — The per-stage entered/advanced counts this tracker needs are exactly what a defect log already records — this tool turns that log into a stage-by-stage yield finding.
 
 Downstream:
 
-- **A3 problem solving** — Once the weakest stage is named, an A3 is where you'd run root cause analysis in depth if the fix isn't already obvious from the observation notes.
+- **A3 problem solving** (`a3`) — Once the weakest stage is named, an A3 is where you'd run root cause analysis in depth if the fix isn't already obvious from the observation notes.
 
 ## Where AI helps
 

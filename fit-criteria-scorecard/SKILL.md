@@ -51,12 +51,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **ICP canvas** — The ICP canvas defines the criteria this scorecard weighs — firmographics, technographics, triggers, and buying-committee roles — as a one-time definitional exercise; this scorecard applies them repeatedly to real accounts.
-- **TAM coverage map** — The TAM coverage map surfaces which accounts are even tracked and how much contact access exists at each; a fit-criteria scorecard is how you decide which of those tracked accounts to invest further outreach in next.
+- **ICP canvas** (`icp-canvas`) — The ICP canvas defines the criteria this scorecard weighs — firmographics, technographics, triggers, and buying-committee roles — as a one-time definitional exercise; this scorecard applies them repeatedly to real accounts.
+- **TAM coverage map** (`tam-coverage-map`) — The TAM coverage map surfaces which accounts are even tracked and how much contact access exists at each; a fit-criteria scorecard is how you decide which of those tracked accounts to invest further outreach in next.
 
 Downstream:
 
-- **Value hypothesis** — Once a fit-criteria scorecard names an account worth pursuing, a value hypothesis is where the real discovery work on that specific account begins.
+- **Value hypothesis** (`value-hypothesis`) — Once a fit-criteria scorecard names an account worth pursuing, a value hypothesis is where the real discovery work on that specific account begins.
 
 ## Where AI helps
 

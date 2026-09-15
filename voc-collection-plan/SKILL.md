@@ -52,8 +52,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Downstream:
 
-- **Customer interview guide** — An activity that names 'customer interviews' as its method is exactly what the interview guide exists to support — build the actual guide once the plan names the need for it.
-- **VOC evidence log** — Every activity's 'evidence flow' field describes exactly how its output should land in the evidence log — the plan and the log are meant to work together continuously, not as separate one-off exercises.
+- **Customer interview guide** (`customer-interview-guide`) — An activity that names 'customer interviews' as its method is exactly what the interview guide exists to support — build the actual guide once the plan names the need for it.
+- **VOC evidence log** (`voc-evidence-log`) — Every activity's 'evidence flow' field describes exactly how its output should land in the evidence log — the plan and the log are meant to work together continuously, not as separate one-off exercises.
 
 ## Where AI helps
 

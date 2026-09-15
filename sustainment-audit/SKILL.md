@@ -50,7 +50,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Kaizen event charter** — The charter's objective and commitments are exactly what this audit checks — audit against the real charter, not a vague memory of the event.
+- **Kaizen event charter** (`kaizen-charter`) — The charter's objective and commitments are exactly what this audit checks — audit against the real charter, not a vague memory of the event.
 
 ## Where AI helps
 

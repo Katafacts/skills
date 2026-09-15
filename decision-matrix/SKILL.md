@@ -51,12 +51,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Countermeasure matrix** — When a countermeasure matrix's fast impact/effort filter narrows a long list down to a genuine handful of finalists, a weighted decision matrix is where those finalists get compared in depth on the criteria that actually matter.
-- **FMEA** — When an FMEA's recommended actions produce more than one real candidate fix for the same risk, a weighted decision matrix is where you choose between them on more than just risk priority number alone.
+- **Countermeasure matrix** (not in the catalogue yet) — When a countermeasure matrix's fast impact/effort filter narrows a long list down to a genuine handful of finalists, a weighted decision matrix is where those finalists get compared in depth on the criteria that actually matter.
+- **FMEA** (`fmea`) — When an FMEA's recommended actions produce more than one real candidate fix for the same risk, a weighted decision matrix is where you choose between them on more than just risk priority number alone.
 
 Downstream:
 
-- **Business case** — Once a weighted decision matrix names the option worth pursuing, a business case is where that choice gets justified with real investment and value numbers.
+- **Business case** (`business-case`) — Once a weighted decision matrix names the option worth pursuing, a business case is where that choice gets justified with real investment and value numbers.
 
 ## Where AI helps
 

@@ -52,8 +52,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Message architecture** — The same needs and proof points a message architecture organizes as a tree are what this canvas maps as jobs/pains/gains versus pain relievers/gain creators — two views of one set of evidence, not two separate sources of truth.
-- **Value hypothesis** — A deal-specific value hypothesis that's actually worked is real evidence for this canvas's customer-side entries — not invented from an assumed persona.
+- **Message architecture** (`message-architecture`) — The same needs and proof points a message architecture organizes as a tree are what this canvas maps as jobs/pains/gains versus pain relievers/gain creators — two views of one set of evidence, not two separate sources of truth.
+- **Value hypothesis** (`value-hypothesis`) — A deal-specific value hypothesis that's actually worked is real evidence for this canvas's customer-side entries — not invented from an assumed persona.
 
 ## Where AI helps
 

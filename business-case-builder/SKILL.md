@@ -54,12 +54,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Value hypothesis** — A proof point already quantified in a value hypothesis is exactly what turns into a value driver here, with its basis already half-written.
-- **Discovery call standard work** — The compelling event and cost-of-inaction evidence gathered in discovery is what a business case's cost-of-inaction section is built from.
+- **Value hypothesis** (`value-hypothesis`) — A proof point already quantified in a value hypothesis is exactly what turns into a value driver here, with its basis already half-written.
+- **Discovery call standard work** (`discovery-standard-work`) — The compelling event and cost-of-inaction evidence gathered in discovery is what a business case's cost-of-inaction section is built from.
 
 Downstream:
 
-- **Deal A3 — win-rate root cause analysis** — When a business case doesn't land and the deal stalls anyway, that's exactly what an eventual deal A3's root cause analysis would trace back to.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — When a business case doesn't land and the deal stalls anyway, that's exactly what an eventual deal A3's root cause analysis would trace back to.
 
 ## Where AI helps
 

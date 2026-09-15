@@ -52,9 +52,9 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Downstream:
 
-- **ICP canvas** — A theme with real weight behind it — a trigger, a buying-committee pattern — is exactly what should update the ICP canvas's definition, not sit unused in a log.
-- **Anti-ICP** — A loss-side theme (a size floor, a process gap) is a disqualifier candidate — the anti-ICP list should trace back to evidence like this, not a sales leader's unstated assumptions.
-- **Deal A3 — win-rate root cause analysis** — A theme that concentrates in lost pipeline value, not just deal count, is exactly the kind of finding a deal A3's Pareto would chase to root cause.
+- **ICP canvas** (`icp-canvas`) — A theme with real weight behind it — a trigger, a buying-committee pattern — is exactly what should update the ICP canvas's definition, not sit unused in a log.
+- **Anti-ICP** (`anti-icp`) — A loss-side theme (a size floor, a process gap) is a disqualifier candidate — the anti-ICP list should trace back to evidence like this, not a sales leader's unstated assumptions.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — A theme that concentrates in lost pipeline value, not just deal count, is exactly the kind of finding a deal A3's Pareto would chase to root cause.
 
 ## Where AI helps
 

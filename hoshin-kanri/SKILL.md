@@ -56,10 +56,10 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Downstream:
 
-- **A3 problem solving** — When a strategy on the X-Matrix isn't moving its metric, an A3 is the right tool to find out why and close the gap — Hoshin sets the direction, A3 closes the specific gaps along the way.
-- **Value stream mapping** — A strategy aimed at a process (not a single problem) often starts with a value stream map of the current state before committing to what the strategy actually is.
-- **Performance board** — This is the bowler chart: tracks the metrics named here over time, cadence by cadence, computed red or green from real numbers — the X-Matrix sets what to watch; a performance board is where you watch it. A ready-to-fill static template is also available in the resource library if you'd rather start from a blank workbook.
-- **Cascade map** — Shows how this X-Matrix's annual objectives become the long-term objectives of the level below it — the mechanism that makes Hoshin cascade through an organisation rather than living at one level.
+- **A3 problem solving** (`a3`) — When a strategy on the X-Matrix isn't moving its metric, an A3 is the right tool to find out why and close the gap — Hoshin sets the direction, A3 closes the specific gaps along the way.
+- **Value stream map — current and future state** (`value-stream-map`) — A strategy aimed at a process (not a single problem) often starts with a value stream map of the current state before committing to what the strategy actually is.
+- **Performance board** (`performance-board`) — This is the bowler chart: tracks the metrics named here over time, cadence by cadence, computed red or green from real numbers — the X-Matrix sets what to watch; a performance board is where you watch it. A ready-to-fill static template is also available in the resource library if you'd rather start from a blank workbook.
+- **Cascade map** (`cascade-map`) — Shows how this X-Matrix's annual objectives become the long-term objectives of the level below it — the mechanism that makes Hoshin cascade through an organisation rather than living at one level.
 
 ## Where AI helps
 

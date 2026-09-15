@@ -48,7 +48,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Leader standard work** — Walking the queue against the escalation matrix — not just gut feel — is a natural leader standard work step.
+- **Leader standard work** (`leader-standard-work`) — Walking the queue against the escalation matrix — not just gut feel — is a natural leader standard work step.
 
 ## Where AI helps
 

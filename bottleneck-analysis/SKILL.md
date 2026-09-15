@@ -56,9 +56,9 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Downstream:
 
-- **Sales funnel value stream map** — Once the constraint stage is named, this is where you'd build the fuller picture — waste findings, a full Pareto ranking, and countermeasures tied to the finding.
-- **Funnel flow efficiency calculator** — If the question shifts from 'which stage' to 'how bad is it overall,' this is the more direct next step.
-- **Deal A3 — win-rate root cause analysis** — Once a specific constraint stage is named, a deal A3 is where you'd run root cause analysis on why that stage specifically is capping throughput or choking flow.
+- **Sales funnel value stream map** (`sales-funnel-map`) — Once the constraint stage is named, this is where you'd build the fuller picture — waste findings, a full Pareto ranking, and countermeasures tied to the finding.
+- **Funnel flow efficiency calculator** (`funnel-pce-calculator`) — If the question shifts from 'which stage' to 'how bad is it overall,' this is the more direct next step.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — Once a specific constraint stage is named, a deal A3 is where you'd run root cause analysis on why that stage specifically is capping throughput or choking flow.
 
 ## Where AI helps
 

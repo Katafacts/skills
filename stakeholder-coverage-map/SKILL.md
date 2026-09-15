@@ -52,11 +52,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Kaizen event charter** — A kaizen event's roster names who's on the team; a stakeholder coverage map is the same discipline applied to a much larger population that can't be tracked from memory.
+- **Kaizen event charter** (`kaizen-charter`) — A kaizen event's roster names who's on the team; a stakeholder coverage map is the same discipline applied to a much larger population that can't be tracked from memory.
 
 Downstream:
 
-- **Implementation plan** — A newly-identified contact for a dark unit is exactly the kind of real, named dependency an implementation plan's milestones get built around.
+- **Implementation plan** (`implementation-plan`) — A newly-identified contact for a dark unit is exactly the kind of real, named dependency an implementation plan's milestones get built around.
 
 ## Where AI helps
 

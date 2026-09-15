@@ -60,14 +60,14 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Go-see protocol** — How to collect the step data on a real walk — watching the work as it happens rather than reconstructing it from memory.
-- **Eight wastes (DOWNTIME) worksheet** — A waste walk on the same process gives the five wastes step timings can't measure something concrete to point to.
+- **Go-see protocol** (`go-see-protocol`) — How to collect the step data on a real walk — watching the work as it happens rather than reconstructing it from memory.
+- **Eight wastes (DOWNTIME) worksheet** (`eight-wastes-worksheet`) — A waste walk on the same process gives the five wastes step timings can't measure something concrete to point to.
 
 Downstream:
 
-- **Makigami process map** — When one box hides a tangle of handoffs, approvals and rework, explore that step with a Makigami — its work time and first-pass yield flow back into this map's step.
-- **A3 problem solving** — The constraint, a step slower than takt, or the longest wait is exactly the kind of bounded, data-backed problem an A3 exists to close.
-- **Implementation plan** — Turns the future state's countermeasures into dated, owned milestones so the design actually gets built.
+- **Makigami process map** (`makigami`) — When one box hides a tangle of handoffs, approvals and rework, explore that step with a Makigami — its work time and first-pass yield flow back into this map's step.
+- **A3 problem solving** (`a3`) — The constraint, a step slower than takt, or the longest wait is exactly the kind of bounded, data-backed problem an A3 exists to close.
+- **Implementation plan** (`implementation-plan`) — Turns the future state's countermeasures into dated, owned milestones so the design actually gets built.
 
 ## Where AI helps
 

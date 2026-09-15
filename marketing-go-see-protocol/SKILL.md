@@ -48,8 +48,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Marketing KPI tree** — A driver metric named there (like sync-data completeness) is exactly what this walk exists to verify at the source, not just trust as fixed.
-- **Visibility board** — A go-see walk exists to verify the board's own numbers against reality, the same relationship the core go-see protocol has with a visual board.
+- **Marketing KPI tree** (`marketing-kpi-tree`) — A driver metric named there (like sync-data completeness) is exactly what this walk exists to verify at the source, not just trust as fixed.
+- **Visibility board** (`visibility-board`) — A go-see walk exists to verify the board's own numbers against reality, the same relationship the core go-see protocol has with a visual board.
 
 ## Where AI helps
 

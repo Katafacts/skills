@@ -48,11 +48,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Deal A3** — A stalled deal or a recurring loss pattern the pod huddle flags is frequently the trigger for a deal A3's own root-cause work, as in the worked example.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — A stalled deal or a recurring loss pattern the pod huddle flags is frequently the trigger for a deal A3's own root-cause work, as in the worked example.
 
 Downstream:
 
-- **Revenue Hoshin Kanri — X-Matrix** — What VP Sales actually sees week over week at the top tier is the real-world check on whether the annual Hoshin's strategies are moving its metrics, not just a forecast of it.
+- **Revenue Hoshin Kanri — X-Matrix** (`revenue-hoshin-kanri`) — What VP Sales actually sees week over week at the top tier is the real-world check on whether the annual Hoshin's strategies are moving its metrics, not just a forecast of it.
 
 ## Where AI helps
 

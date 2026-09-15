@@ -48,11 +48,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Tiered huddle board** — A huddle escalation is a real, common source for a new idea entering the funnel, as in the worked example.
+- **Tiered huddle board** (`tiered-huddle-board`) — A huddle escalation is a real, common source for a new idea entering the funnel, as in the worked example.
 
 Downstream:
 
-- **Kaizen event charter** — An idea reaching the Chartered/Scheduled stage here is exactly where a real event charter begins.
+- **Kaizen event charter** (`kaizen-charter`) — An idea reaching the Chartered/Scheduled stage here is exactly where a real event charter begins.
 
 ## Where AI helps
 

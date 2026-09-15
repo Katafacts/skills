@@ -48,8 +48,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Downstream:
 
-- **KPI tree** — A leader standard work routine is often literally 'check the KPI tree' as its first step — the routine is what makes the tree get looked at.
-- **ILUO training matrix** — Walking a queue against real training coverage, not just who's assigned, is a leader standard work step that uses the ILUO matrix directly.
+- **KPI tree** (`kpi-tree`) — A leader standard work routine is often literally 'check the KPI tree' as its first step — the routine is what makes the tree get looked at.
+- **ILUO training matrix** (`iluo-training-matrix`) — Walking a queue against real training coverage, not just who's assigned, is a leader standard work step that uses the ILUO matrix directly.
 
 ## Where AI helps
 

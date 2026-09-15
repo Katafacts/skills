@@ -52,11 +52,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **First-pass yield tracker** — A quality KPI tracked here often already has its own dedicated first-pass yield tracker feeding the real numbers this board's Actual row needs.
+- **First-pass yield tracker** (`first-pass-yield-tracker`) — A quality KPI tracked here often already has its own dedicated first-pass yield tracker feeding the real numbers this board's Actual row needs.
 
 Downstream:
 
-- **Escalation matrix** — A sustained miss that a quick countermeasure can't resolve is exactly the kind of thing an escalation matrix's trigger condition should be checking for.
+- **Escalation matrix** (`escalation-matrix`) — A sustained miss that a quick countermeasure can't resolve is exactly the kind of thing an escalation matrix's trigger condition should be checking for.
 
 ## Where AI helps
 

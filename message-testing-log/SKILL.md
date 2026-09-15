@@ -50,11 +50,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Message architecture** — The architecture's own pillars are exactly the hypotheses this log tests — including acting directly on the specific next step the architecture itself already named.
+- **Message architecture** (`message-architecture`) — The architecture's own pillars are exactly the hypotheses this log tests — including acting directly on the specific next step the architecture itself already named.
 
 Downstream:
 
-- **Proof point inventory** — A pillar this log confirms resonates broadly is exactly what the proof point inventory should be actively collecting more evidence for — a tested message and a growing body of proof are two different, complementary jobs.
+- **Proof point inventory** (`proof-point-inventory`) — A pillar this log confirms resonates broadly is exactly what the proof point inventory should be actively collecting more evidence for — a tested message and a growing body of proof are two different, complementary jobs.
 
 ## Where AI helps
 

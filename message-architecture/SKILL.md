@@ -51,13 +51,13 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Value hypothesis** — A pillar's proof point should trace back to a real value hypothesis that actually worked in a deal — this tree is where that proven pillar gets promoted into the standing message, not invented fresh.
+- **Value hypothesis** (`value-hypothesis`) — A pillar's proof point should trace back to a real value hypothesis that actually worked in a deal — this tree is where that proven pillar gets promoted into the standing message, not invented fresh.
 
 Downstream:
 
-- **Value proposition canvas** — The same needs and proof points organized here as a tree map directly onto a value proposition canvas's jobs/pains/gains — two complementary views of the same evidence, not two separate messages to keep in sync by hand.
-- **Consistency audit** — Once a pillar is proven and promoted here, a consistency audit is what checks weeks later whether reps and channels are actually still using it — and whether an unproven pillar has quietly crept into claims anyway.
-- **Proof point inventory** — This tree's own proven pillars are exactly the categories a proof point inventory tracks over time, as more deals add more real, checked evidence beyond the first one that proved each pillar.
+- **Value proposition canvas** (`value-proposition-canvas`) — The same needs and proof points organized here as a tree map directly onto a value proposition canvas's jobs/pains/gains — two complementary views of the same evidence, not two separate messages to keep in sync by hand.
+- **Consistency audit** (`consistency-audit`) — Once a pillar is proven and promoted here, a consistency audit is what checks weeks later whether reps and channels are actually still using it — and whether an unproven pillar has quietly crept into claims anyway.
+- **Proof point inventory** (`proof-point-inventory`) — This tree's own proven pillars are exactly the categories a proof point inventory tracks over time, as more deals add more real, checked evidence beyond the first one that proved each pillar.
 
 ## Where AI helps
 

@@ -51,9 +51,9 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Downstream:
 
-- **Makigami process map** — Once waste is identified by category, a Makigami follows one real case step by step and shows exactly where — and in whose lane — each waste lives, with the waits and handoffs timed.
-- **Value stream mapping** — A waste walk's findings are often the raw material a value stream map's current-state analysis draws on to compute where the flow is actually choked.
-- **Kaizen event charter** — A concentrated cluster of high-impact waste in one category is exactly the kind of finding that justifies chartering a real kaizen event, not just a next-steps list.
+- **Makigami process map** (`makigami`) — Once waste is identified by category, a Makigami follows one real case step by step and shows exactly where — and in whose lane — each waste lives, with the waits and handoffs timed.
+- **Value stream map — current and future state** (`value-stream-map`) — A waste walk's findings are often the raw material a value stream map's current-state analysis draws on to compute where the flow is actually choked.
+- **Kaizen event charter** (`kaizen-charter`) — A concentrated cluster of high-impact waste in one category is exactly the kind of finding that justifies chartering a real kaizen event, not just a next-steps list.
 
 ## Where AI helps
 

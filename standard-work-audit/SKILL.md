@@ -47,7 +47,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Work instruction** — The instruction's own steps and key points are exactly what this audit checks against reality.
+- **Work instruction** (`work-instruction`) — The instruction's own steps and key points are exactly what this audit checks against reality.
 
 ## Where AI helps
 

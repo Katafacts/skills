@@ -50,7 +50,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Work instruction** — A skill in this matrix is only trainable against a real work instruction — build that first if it doesn't exist yet.
+- **Work instruction** (`work-instruction`) — A skill in this matrix is only trainable against a real work instruction — build that first if it doesn't exist yet.
 
 ## Where AI helps
 

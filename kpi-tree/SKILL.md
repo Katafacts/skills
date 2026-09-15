@@ -50,7 +50,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **ILUO training matrix** — A driver metric can directly track something the ILUO matrix already measures, like coverage — the worked example does exactly this.
+- **ILUO training matrix** (`iluo-training-matrix`) — A driver metric can directly track something the ILUO matrix already measures, like coverage — the worked example does exactly this.
 
 ## Where AI helps
 

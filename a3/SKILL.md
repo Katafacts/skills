@@ -57,15 +57,15 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Pareto chart** — Feeds the A3's root cause section directly — it's what earns the right to chase one category instead of guessing. A standalone Pareto worksheet is useful when the category breakdown needs more room or more data than the A3 page allows.
-- **5-Whys** — The root cause analysis section runs a 5-Whys inline, starting from the Pareto's vital-few category. A standalone 5-Whys worksheet earns its keep when the causal chain needs more room than the A3 page allows.
-- **Fishbone diagram** — Use one first when there are several plausible cause categories to sort through before the Pareto data is clean enough to rank confidently.
+- **Pareto chart** (not in the catalogue yet) — Feeds the A3's root cause section directly — it's what earns the right to chase one category instead of guessing. A standalone Pareto worksheet is useful when the category breakdown needs more room or more data than the A3 page allows.
+- **5-Whys** (not in the catalogue yet) — The root cause analysis section runs a 5-Whys inline, starting from the Pareto's vital-few category. A standalone 5-Whys worksheet earns its keep when the causal chain needs more room than the A3 page allows.
+- **Fishbone diagram** (not in the catalogue yet) — Use one first when there are several plausible cause categories to sort through before the Pareto data is clean enough to rank confidently.
 
 Downstream:
 
-- **Countermeasure matrix** — When an A3 surfaces more candidate countermeasures than fit cleanly on one page, rank them by impact and effort there before committing.
-- **Run / control chart** — The TAGS trend chart is a lightweight run chart. Once a countermeasure is live, a full run or control chart tracks whether the new process is actually stable at the new level, not just briefly better.
-- **PDCA record** — An A3's effect-confirmation and follow-up sections are one turn of PDCA. Use a PDCA record to track further cycles if the first countermeasure doesn't fully close the gap.
+- **Countermeasure matrix** (not in the catalogue yet) — When an A3 surfaces more candidate countermeasures than fit cleanly on one page, rank them by impact and effort there before committing.
+- **Run / control chart** (not in the catalogue yet) — The TAGS trend chart is a lightweight run chart. Once a countermeasure is live, a full run or control chart tracks whether the new process is actually stable at the new level, not just briefly better.
+- **PDCA record** (not in the catalogue yet) — An A3's effect-confirmation and follow-up sections are one turn of PDCA. Use a PDCA record to track further cycles if the first countermeasure doesn't fully close the gap.
 
 ## Where AI helps
 

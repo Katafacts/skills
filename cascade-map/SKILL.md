@@ -53,12 +53,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Hoshin Kanri — X-Matrix** — The parent plan this cascades from — a cascade map has nothing to track without a real X-Matrix's annual objectives behind it.
+- **Hoshin Kanri — X-Matrix** (`hoshin-kanri`) — The parent plan this cascades from — a cascade map has nothing to track without a real X-Matrix's annual objectives behind it.
 
 Downstream:
 
-- **KPI tree** — Once a unit actually commits to a local objective here, a KPI tree is often what that unit builds next to track the driver metrics that move it week to week — the cascade map records the hand-off, the KPI tree is what happens after.
-- **A3 problem solving** — When a committed local objective isn't moving, an A3 is the right tool to find out why — the cascade map shows who owns it, the A3 closes the specific gap.
+- **KPI tree** (`kpi-tree`) — Once a unit actually commits to a local objective here, a KPI tree is often what that unit builds next to track the driver metrics that move it week to week — the cascade map records the hand-off, the KPI tree is what happens after.
+- **A3 problem solving** (`a3`) — When a committed local objective isn't moving, an A3 is the right tool to find out why — the cascade map shows who owns it, the A3 closes the specific gap.
 
 ## Where AI helps
 

@@ -49,8 +49,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Hoshin Kanri — X-Matrix** — A capability area's current level and evidence often trace directly to whether this year's Hoshin strategies touching it are underway, committed, or not yet started.
-- **True north statement** — A pillar with zero committed initiatives tracing to it is exactly where a related capability area is likely to score honestly low -- the scorecard shows the operational consequence of a gap the true north statement already found.
+- **Hoshin Kanri — X-Matrix** (`hoshin-kanri`) — A capability area's current level and evidence often trace directly to whether this year's Hoshin strategies touching it are underway, committed, or not yet started.
+- **True north statement** (`true-north-statement`) — A pillar with zero committed initiatives tracing to it is exactly where a related capability area is likely to score honestly low -- the scorecard shows the operational consequence of a gap the true north statement already found.
 
 ## Where AI helps
 

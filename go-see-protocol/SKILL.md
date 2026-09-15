@@ -48,8 +48,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Visual board design guide** — A go-see walk exists to verify the board's own claims against reality.
-- **ILUO training matrix** — Checking who's actually handling the work against who the matrix says is trained is a natural go-see step.
+- **Visual board design guide** (`visual-board-design-guide`) — A go-see walk exists to verify the board's own claims against reality.
+- **ILUO training matrix** (`iluo-training-matrix`) — Checking who's actually handling the work against who the matrix says is trained is a natural go-see step.
 
 ## Where AI helps
 

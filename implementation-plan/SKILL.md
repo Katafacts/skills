@@ -51,8 +51,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **A3 problem solving** — A countermeasure an A3 identifies is exactly the kind of commitment that needs a real, dated, cross-functional plan to actually happen.
-- **Kaizen event charter** — Once a kaizen event's plan is set, rolling out what it produced across a wider area is what this tool sequences.
+- **A3 problem solving** (`a3`) — A countermeasure an A3 identifies is exactly the kind of commitment that needs a real, dated, cross-functional plan to actually happen.
+- **Kaizen event charter** (`kaizen-charter`) — Once a kaizen event's plan is set, rolling out what it produced across a wider area is what this tool sequences.
 
 ## Where AI helps
 

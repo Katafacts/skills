@@ -51,12 +51,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Business case builder** — The case that earns a champion's real commitment is what this plan turns into a dated, checkable sequence.
-- **Value hypothesis** — A proof point already validated in a value hypothesis is exactly the kind of evidence a milestone's own risk can point back to.
+- **Business case builder** (`business-case-builder`) — The case that earns a champion's real commitment is what this plan turns into a dated, checkable sequence.
+- **Value hypothesis** (`value-hypothesis`) — A proof point already validated in a value hypothesis is exactly the kind of evidence a milestone's own risk can point back to.
 
 Downstream:
 
-- **Deal A3 — win-rate root cause analysis** — A plan that stalls, or turns out to have been one-sided all along, is exactly what an eventual deal A3's root cause analysis would trace back to.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — A plan that stalls, or turns out to have been one-sided all along, is exactly what an eventual deal A3's root cause analysis would trace back to.
 
 ## Where AI helps
 

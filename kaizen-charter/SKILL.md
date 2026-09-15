@@ -54,11 +54,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **VOC evidence log** — A real opportunity statement is often grounded in something the evidence log already surfaced — this charter's worked example charters an event against exactly that kind of finding.
+- **VOC evidence log** (`voc-evidence-log`) — A real opportunity statement is often grounded in something the evidence log already surfaced — this charter's worked example charters an event against exactly that kind of finding.
 
 Downstream:
 
-- **Sustainment audit** — Once the event closes, the sustainment audit checks whether this charter's commitments actually held.
+- **Sustainment audit** (`sustainment-audit`) — Once the event closes, the sustainment audit checks whether this charter's commitments actually held.
 
 ## Where AI helps
 

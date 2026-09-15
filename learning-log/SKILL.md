@@ -50,11 +50,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Evidence register** — A claim the evidence register logs as unverified is often exactly the hypothesis this log should go test properly, instead of leaving it to stand as an assumption.
+- **Evidence register** (`evidence-register`) — A claim the evidence register logs as unverified is often exactly the hypothesis this log should go test properly, instead of leaving it to stand as an assumption.
 
 Downstream:
 
-- **A3 problem solving** — A test that recommends 'kill' on a countermeasure hypothesis is a direct signal an A3's own effect-confirmation plan should act on, not quietly ignore.
+- **A3 problem solving** (`a3`) — A test that recommends 'kill' on a countermeasure hypothesis is a direct signal an A3's own effect-confirmation plan should act on, not quietly ignore.
 
 ## Where AI helps
 

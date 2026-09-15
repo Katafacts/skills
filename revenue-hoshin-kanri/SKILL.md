@@ -56,14 +56,14 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Deal A3** — A deal A3's root cause is exactly the kind of specific finding an annual objective should trace to — the worked example here sets its win-rate target directly from the deal A3's finding, not independently of it.
-- **Sales funnel value stream map** — A funnel map's capacity constraint or largest wait contributor is the other natural input to an annual objective — this worked example's proposal-wait target comes straight from the funnel map's finding.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — A deal A3's root cause is exactly the kind of specific finding an annual objective should trace to — the worked example here sets its win-rate target directly from the deal A3's finding, not independently of it.
+- **Sales funnel value stream map** (`sales-funnel-map`) — A funnel map's capacity constraint or largest wait contributor is the other natural input to an annual objective — this worked example's proposal-wait target comes straight from the funnel map's finding.
 
 Downstream:
 
-- **Deal A3** — When a strategy on the X-Matrix isn't moving its metric, a deal A3 is the right tool to find out why for a specific segment — Hoshin sets the direction, the deal A3 closes the specific gap.
-- **Pipeline daily/weekly management board** — Tracks the metrics named here cadence by cadence — the X-Matrix sets what to watch; the pipeline board is where the team actually watches it between business reviews.
-- **Revenue cascade map** — Shows how this X-Matrix's annual objectives become real, committed work inside a specific pod or function — the mechanism that makes this plan cascade through the commercial org rather than living at the leadership level.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — When a strategy on the X-Matrix isn't moving its metric, a deal A3 is the right tool to find out why for a specific segment — Hoshin sets the direction, the deal A3 closes the specific gap.
+- **Pipeline management board** (`pipeline-management-board`) — Tracks the metrics named here cadence by cadence — the X-Matrix sets what to watch; the pipeline board is where the team actually watches it between business reviews.
+- **Revenue cascade map** (`revenue-cascade-map`) — Shows how this X-Matrix's annual objectives become real, committed work inside a specific pod or function — the mechanism that makes this plan cascade through the commercial org rather than living at the leadership level.
 
 ## Where AI helps
 

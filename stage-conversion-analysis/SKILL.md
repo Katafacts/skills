@@ -52,11 +52,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Sales funnel value stream map** — The same stage-level thinking, applied with time data instead of counts — useful together when a stage is both losing deals and taking too long.
+- **Sales funnel value stream map** (`sales-funnel-map`) — The same stage-level thinking, applied with time data instead of counts — useful together when a stage is both losing deals and taking too long.
 
 Downstream:
 
-- **Deal A3** — Once the weakest stage is named, a deal A3 is where you'd run root cause analysis on why that specific stage is losing deals, if it isn't already obvious.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — Once the weakest stage is named, a deal A3 is where you'd run root cause analysis on why that specific stage is losing deals, if it isn't already obvious.
 
 ## Where AI helps
 

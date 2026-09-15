@@ -52,11 +52,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Gemba walk observation form** — Observations captured on a gemba walk are exactly the kind of raw material this log tallies — feed them in as entries rather than letting them sit in a separate notebook.
+- **Gemba walk observation form** (not in the catalogue yet) — Observations captured on a gemba walk are exactly the kind of raw material this log tallies — feed them in as entries rather than letting them sit in a separate notebook.
 
 Downstream:
 
-- **Ideal Customer Profile / qualification standard work** — A named theme pattern — which customers say what, and why — is direct input to who an ICP should target or exclude.
+- **ICP canvas** (`icp-canvas`) — A named theme pattern — which customers say what, and why — is direct input to who an ICP should target or exclude.
 
 ## Where AI helps
 

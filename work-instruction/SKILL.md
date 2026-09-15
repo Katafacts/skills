@@ -50,11 +50,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Kaizen event charter** — A new process or routing rule set up by a kaizen event often needs a work instruction to actually stick once the event team moves on.
+- **Kaizen event charter** (`kaizen-charter`) — A new process or routing rule set up by a kaizen event often needs a work instruction to actually stick once the event team moves on.
 
 Downstream:
 
-- **ILUO training matrix** — Once a work instruction exists, the ILUO matrix tracks who's actually been trained on it.
+- **ILUO training matrix** (`iluo-training-matrix`) — Once a work instruction exists, the ILUO matrix tracks who's actually been trained on it.
 
 ## Where AI helps
 

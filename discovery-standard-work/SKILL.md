@@ -50,11 +50,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Win-loss interview guide** — A pattern of losses traced back to a specific discovery gap (missed compelling event, unsurfaced decision process) is exactly what turns into a new key point here.
+- **Win-loss interview guide** (`win-loss-interview-guide`) — A pattern of losses traced back to a specific discovery gap (missed compelling event, unsurfaced decision process) is exactly what turns into a new key point here.
 
 Downstream:
 
-- **Deal A3 — win-rate root cause analysis** — When a discovery gap shows up as a recurring loss pattern rather than a one-off, that's the Pareto category a deal A3 chases to root cause.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — When a discovery gap shows up as a recurring loss pattern rather than a one-off, that's the Pareto category a deal A3 chases to root cause.
 
 ## Where AI helps
 

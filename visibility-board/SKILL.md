@@ -52,13 +52,13 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Sales funnel value stream map** — A flow-efficiency or conversion finding from the funnel VSM is exactly the kind of thing that turns into one of this board's own KPIs.
-- **KPI tree** — A KPI tree's driver decomposition is what earns a metric its place on this board in the first place — this tracks it over time, the tree explains why it matters.
+- **Sales funnel value stream map** (`sales-funnel-map`) — A flow-efficiency or conversion finding from the funnel VSM is exactly the kind of thing that turns into one of this board's own KPIs.
+- **KPI tree** (`kpi-tree`) — A KPI tree's driver decomposition is what earns a metric its place on this board in the first place — this tracks it over time, the tree explains why it matters.
 
 Downstream:
 
-- **Pipeline management board** — This board's monthly review names what's off track; the daily/weekly tiered huddle cadence is where an abnormality actually gets worked between reviews.
-- **Deal A3 — win-rate root cause analysis** — When a sustained-miss KPI's quick countermeasure doesn't hold, a deal A3 is where the root cause gets worked with the full discipline it deserves.
+- **Pipeline management board** (`pipeline-management-board`) — This board's monthly review names what's off track; the daily/weekly tiered huddle cadence is where an abnormality actually gets worked between reviews.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — When a sustained-miss KPI's quick countermeasure doesn't hold, a deal A3 is where the root cause gets worked with the full discipline it deserves.
 
 ## Where AI helps
 

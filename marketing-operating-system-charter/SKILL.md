@@ -54,12 +54,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Marketing true north statement** — This charter's worked example exists specifically because the true north statement found a pillar with zero committed initiatives — the charter is the governance response to that gap.
-- **TAM coverage map** — Provides the actual evidence (Market visibility %, list coverage %) grounding why a standing review cadence is needed, rather than a vague sense that coverage could be better.
+- **Marketing true north statement** (`marketing-true-north-statement`) — This charter's worked example exists specifically because the true north statement found a pillar with zero committed initiatives — the charter is the governance response to that gap.
+- **TAM coverage map** (`tam-coverage-map`) — Provides the actual evidence (Market visibility %, list coverage %) grounding why a standing review cadence is needed, rather than a vague sense that coverage could be better.
 
 Downstream:
 
-- **Revenue Hoshin Kanri — X-Matrix** — Once the cadence is running, it's where this year's revenue Hoshin strategies actually get watched between business reviews, not just planned once at an offsite.
+- **Revenue Hoshin Kanri — X-Matrix** (`revenue-hoshin-kanri`) — Once the cadence is running, it's where this year's revenue Hoshin strategies actually get watched between business reviews, not just planned once at an offsite.
 
 ## Where AI helps
 
