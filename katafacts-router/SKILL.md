@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 76 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 77 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -30,13 +30,13 @@ Katafacts is a free catalogue of 76 continuous-improvement methods ("katas"), ea
 
 What the catalogue search returns for some common problems (best match first):
 
-- "Our invoices take weeks to get paid": `makigami`, `value-stream-map`, `eight-wastes-worksheet`
+- "Our invoices take weeks to get paid": `makigami`, `improvement-kata-storyboard`, `value-stream-map`
 - "Too many handoffs between teams": `makigami`, `shift-handover`, `kaizen-charter`
 - "Defects keep coming back": `a3`, `first-pass-yield-tracker`, `eight-wastes-worksheet`
 - "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-aging-report`, `bottleneck-analysis`
 - "A change is about to go live and might fail": `fmea`, `sustainment-audit`, `metric-definition-sheet`
 - "Customers keep complaining": `voc-evidence-log`, `affinity-diagram`, `customer-interview-guide`
-- "Improvements don't stick after the event": `kaizen-charter`, `kaizen-funnel`, `sustainment-audit`
+- "Improvements don't stick after the event": `kaizen-charter`, `improvement-kata-storyboard`, `kaizen-funnel`
 
 ## Catalogue
 
@@ -129,6 +129,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `tam-coverage-map` -- TAM coverage map (Kaizen events)
 - `learning-log` -- Learning log (Experimentation)
 - `message-testing-log` -- Message testing log (Experimentation)
+- `improvement-kata-storyboard` -- Improvement Kata storyboard (Improvement kata)
 - `metric-definition-sheet` -- Metric definition sheet (Measurement)
 - `marketing-metric-definition-sheet` -- Marketing metric definition sheet (Measurement)
 - `attribution-reality-check` -- Attribution reality check (Measurement)
