@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 78 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 81 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -31,7 +31,7 @@ Katafacts is a free catalogue of 78 continuous-improvement methods ("katas"), ea
 What the catalogue search returns for some common problems (best match first):
 
 - "Our invoices take weeks to get paid": `makigami`, `improvement-kata-storyboard`, `value-stream-map`
-- "Too many handoffs between teams": `makigami`, `shift-handover`, `kaizen-charter`
+- "Too many handoffs between teams": `makigami`, `shift-handover`, `daily-huddle`
 - "Defects keep coming back": `pareto-chart`, `a3`, `eight-wastes-worksheet`
 - "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-aging-report`, `bottleneck-analysis`
 - "A change is about to go live and might fail": `fmea`, `sustainment-audit`, `metric-definition-sheet`
@@ -102,6 +102,9 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `performance-board` -- Performance board (Daily management)
 - `visibility-board` -- Visibility board (Daily management)
 - `qualification-standard-work` -- Qualification standard work (Standard work)
+- `performance-grid` -- Performance grid (Daily management)
+- `daily-huddle` -- Daily management huddle (Daily management)
+- `countermeasure-log` -- Countermeasure log (Daily management)
 - `pipeline-management-board` -- Pipeline management board (Daily management)
 - `work-instruction` -- Work instruction (Standard work)
 - `iluo-training-matrix` -- Training matrix with I, L, U, O skill levels (ILUO) (Standard work)

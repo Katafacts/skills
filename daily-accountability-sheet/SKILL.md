@@ -50,6 +50,10 @@ Upstream:
 
 - **Leader standard work** (`leader-standard-work`) — Checking the accountability sheet is often literally a leader standard work step — the routine is what makes the sheet get used.
 
+Downstream:
+
+- **Countermeasure log** (`countermeasure-log`) — The heavier tool, for when a commitment is not the point. This sheet tracks who agreed to what by when; the countermeasure log tracks whether the cause is actually gone, and flags closures the cause outlived.
+
 ## Where AI helps
 
 Judgement — stays with you:
