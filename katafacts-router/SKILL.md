@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 81 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 82 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -103,6 +103,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `visibility-board` -- Visibility board (Daily management)
 - `qualification-standard-work` -- Qualification standard work (Standard work)
 - `performance-grid` -- Performance grid (Daily management)
+- `sqdip-board` -- Shift board with safety, quality, delivery, inventory and productivity rows (SQDIP) (Daily management)
 - `daily-huddle` -- Daily management huddle (Daily management)
 - `countermeasure-log` -- Countermeasure log (Daily management)
 - `pipeline-management-board` -- Pipeline management board (Daily management)
@@ -155,6 +156,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - ICP: ideal customer profile
 - ILUO: a four-step skill scale, from I (learning) through L and U to O (can train others)
 - KPI: key performance indicator
+- SQDIP: safety, quality, delivery, inventory, productivity — one common set of rows for a daily management grid, and not the only one
 - TAM: total addressable market
 - VOC: voice of the customer
 - WIP: work in progress
