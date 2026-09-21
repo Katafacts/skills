@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 82 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 81 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -112,7 +112,6 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `kpi-tree` -- Key performance indicator (KPI) tree (Daily management)
 - `marketing-kpi-tree` -- Marketing key performance indicator (KPI) tree (Daily management)
 - `leader-standard-work` -- Leader standard work (Daily management)
-- `daily-accountability-sheet` -- Daily accountability sheet (Daily management)
 - `escalation-matrix` -- Escalation matrix (Daily management)
 - `shift-handover` -- Shift handover (Daily management)
 - `visual-board-design-guide` -- Visual board design guide (Visual management)

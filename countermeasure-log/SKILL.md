@@ -60,8 +60,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Performance grid** (`performance-grid`) — Where the causes come from. The grid's Pareto says which reason keeps repeating; this log is what happens to it next, and whether that worked.
-- **Daily management huddle** (`daily-huddle`) — Where entries are opened, re-dated and closed out loud — and where a returning cause gets its date added. A log nobody reads at a huddle stops being true within a fortnight.
-- **Daily accountability sheet** (`daily-accountability-sheet`) — The lighter tool: who committed to what, by when, with no claim about causes. Use that when a commitment list is genuinely all you need; use this when you want to know whether the cause is gone.
+- **Daily management huddle** (`daily-huddle`) — Where entries are opened, re-dated and closed out loud — and where a returning cause gets its date added. A log nobody reads at a huddle stops being true within a fortnight. The huddle's own list tracks who committed to what by when, with no claim about causes; this log is for when you need to know whether the cause is actually gone.
 
 Downstream:
 
