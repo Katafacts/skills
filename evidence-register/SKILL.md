@@ -51,7 +51,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Failure mode and effects analysis (FMEA)** (`fmea`) — A documented, scored FMEA is real evidence for a risk-ranking claim — a stronger source than an unverified assertion, and this register is where that distinction actually gets recorded.
-- **Attribution reality check** (`attribution-reality-check`) — When an attribution reality check finds a claim's credit swings sharply across models, that's exactly the signal this register should record as unverified rather than letting the claim stand as settled.
+- **Attribution reality check** (not in the catalogue yet) — When an attribution reality check finds a claim's credit swings sharply across models, that's exactly the signal this register should record as unverified rather than letting the claim stand as settled.
 
 ## Where AI helps
 

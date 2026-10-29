@@ -56,7 +56,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Value stream map — current and future state** (`value-stream-map`) — Zoom into one process box whose waits or quality are poor — open a Makigami from that step, and send its work time and first-pass yield back to the value stream map when you're done.
-- **Go-see protocol** (`go-see-protocol`) — How to follow the real case in person, rather than mapping from memory.
+- **Go-see protocol** (not in the catalogue yet) — How to follow the real case in person, rather than mapping from memory.
 - **Eight wastes (DOWNTIME) worksheet** (`eight-wastes-worksheet`) — A waste walk on the same process often shows which part is worth mapping step by step.
 
 Downstream:

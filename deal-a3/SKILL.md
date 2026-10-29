@@ -37,7 +37,7 @@ Not when:
 - **fiveWhys** — Start from the Pareto's vital-few loss category, not "we're losing deals" in general, and follow the strongest evidence — actual call notes, CRM stage history — at each step rather than the most convenient story. Stop when you reach something the process actually controls, not "the rep should have worked harder."
 - **countermeasures** — Each countermeasure must trace to the stated root cause in the sales process — a stage gate, a script, a qualification requirement — not a general exhortation to sell better. Name an owner and a due date; a countermeasure with no owner doesn't happen in sales any more than it does on a shop floor.
 - **effectConfirmationPlan** — Decide before you act which number moves first. A process change usually shows up in a leading indicator (stage conversion, a logged qualification field) before it shows up in win rate itself, which lags by a full sales cycle. Track both.
-- **followUpActions** — Capture what makes the fix stick — playbook updates, rep training, CRM field/stage-gate changes. This is what turns a good quarter into a durable process change instead of a one-time correction.
+- **followUpActions** — Capture what makes the fix stick — playbook updates, rep training, CRM field and stage exit criteria changes. This is what turns a good quarter into a durable process change instead of a one-time correction.
 
 ## What good looks like
 
@@ -64,7 +64,7 @@ Upstream:
 Downstream:
 
 - **Mutual action plan** (`mutual-action-plan`) — When a deal A3's countermeasure is process-level (a new stage gate, a new qualification question), the mutual action plan is where that discipline gets applied deal-by-deal going forward.
-- **Pipeline review cascade** (`pipeline-management-board`) — The confirmation plan's leading indicator (stage conversion, a logged qualification field) belongs on the team's regular pipeline review, not just checked once at the end of the confirmation window.
+- **Pipeline review cascade** (not in the catalogue yet) — The confirmation plan's leading indicator (stage conversion, a logged qualification field) belongs on the team's regular pipeline review, not just checked once at the end of the confirmation window.
 - **Sales funnel value stream map** (`sales-funnel-map`) — A deal A3 explains one loss pattern in depth; a funnel value stream map shows where WIP and conversion loss concentrate across the whole pipeline, which is often where the next deal A3's topic comes from.
 
 ## Where AI helps
@@ -74,7 +74,7 @@ Judgement — stays with you:
 - Deciding which root cause is real, not just plausible, for this specific segment
 - Choosing the Pareto axis — count, dollar value, or another impact measure — for this specific pipeline
 - Committing to a target win rate and owning it
-- Judging whether a stage-gate or playbook change actually closed the gap, not just moved it
+- Judging whether a stage exit criteria or playbook change actually closed the gap, not just moved it
 
 Analysis — AI helps:
 

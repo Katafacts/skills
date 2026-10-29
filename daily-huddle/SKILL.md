@@ -64,12 +64,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Performance grid** (`performance-grid`) — What the team stands in front of. The grid produces the reds; the huddle is where a red turns into a named person with a date.
-- **Leader standard work** (`leader-standard-work`) — What the leader does to make the huddle survive: being there, asking real questions, and following up on what they heard. A huddle delegated away signals it does not matter.
+- **Leader standard work** (not in the catalogue yet) — What the leader does to make the huddle survive: being there, asking real questions, and following up on what they heard. A huddle delegated away signals it does not matter.
 
 Downstream:
 
 - **Tiered huddle board** (`tiered-huddle-board`) — What to do when an item is genuinely beyond this team: the route upward, what it takes with it, and what has to come back down.
-- **Escalation matrix** (`escalation-matrix`) — Who an unclosable item goes to, how fast, and what returns. Without this, a huddle either escalates nothing or escalates everything.
+- **Escalation matrix** (not in the catalogue yet) — Who an unclosable item goes to, how fast, and what returns. Without this, a huddle either escalates nothing or escalates everything.
 - **Pareto chart** (`pareto-chart`) — Which of the things raised keep coming back. That, not volume or volume of complaint, is what earns the next problem-solving cycle.
 - **A3 problem solving** (`a3`) — Where an item triaged as needing a proper cycle actually goes. If nothing on that pile ever closes, the triage has become a way of filing things rather than working them.
 

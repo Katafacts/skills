@@ -52,7 +52,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Affinity diagram** (`affinity-diagram`) — A theme with real weight behind it from an affinity-diagramming session is exactly the kind of need this tree exists to translate into something measurable.
+- **Affinity diagram** (not in the catalogue yet) — A theme with real weight behind it from an affinity-diagramming session is exactly the kind of need this tree exists to translate into something measurable.
 
 Downstream:
 

@@ -52,7 +52,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Ideal customer profile (ICP) canvas** (`icp-canvas`) — The ICP canvas defines the criteria this scorecard weighs — firmographics, technographics, triggers, and buying-committee roles — as a one-time definitional exercise; this scorecard applies them repeatedly to real accounts.
-- **Total addressable market (TAM) coverage map** (`tam-coverage-map`) — The TAM coverage map surfaces which accounts are even tracked and how much contact access exists at each; a fit-criteria scorecard is how you decide which of those tracked accounts to invest further outreach in next.
+- **Total addressable market (TAM) coverage map** (not in the catalogue yet) — The TAM coverage map surfaces which accounts are even tracked and how much contact access exists at each; a fit-criteria scorecard is how you decide which of those tracked accounts to invest further outreach in next.
 
 Downstream:
 

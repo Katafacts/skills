@@ -48,8 +48,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Escalation matrix** (`escalation-matrix`) — A tier's escalation condition often traces to the same severity/trigger thinking an escalation matrix already made explicit for a specific process.
-- **Key performance indicator (KPI) tree** (`kpi-tree`) — What a given tier reviews is frequently a subset of an existing KPI tree's driver metrics, scoped to that tier's altitude.
+- **Escalation matrix** (not in the catalogue yet) — A tier's escalation condition often traces to the same severity/trigger thinking an escalation matrix already made explicit for a specific process.
+- **Key performance indicator (KPI) tree** (not in the catalogue yet) — What a given tier reviews is frequently a subset of an existing KPI tree's driver metrics, scoped to that tier's altitude.
 
 ## Where AI helps
 

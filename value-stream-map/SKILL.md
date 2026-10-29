@@ -60,7 +60,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Go-see protocol** (`go-see-protocol`) — How to collect the step data on a real walk — watching the work as it happens rather than reconstructing it from memory.
+- **Go-see protocol** (not in the catalogue yet) — How to collect the step data on a real walk — watching the work as it happens rather than reconstructing it from memory.
 - **Eight wastes (DOWNTIME) worksheet** (`eight-wastes-worksheet`) — A waste walk on the same process gives the five wastes step timings can't measure something concrete to point to.
 
 Downstream:

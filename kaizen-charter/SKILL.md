@@ -58,7 +58,7 @@ Upstream:
 
 Downstream:
 
-- **Sustainment audit** (`sustainment-audit`) — Once the event closes, the sustainment audit checks whether this charter's commitments actually held.
+- **Sustainment audit** (not in the catalogue yet) — Once the event closes, the sustainment audit checks whether this charter's commitments actually held.
 
 ## Where AI helps
 

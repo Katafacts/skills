@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 83 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 50 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -31,11 +31,11 @@ Katafacts is a free catalogue of 83 continuous-improvement methods ("katas"), ea
 What the catalogue search returns for some common problems (best match first):
 
 - "Our invoices take weeks to get paid": `makigami`, `improvement-kata-storyboard`, `value-stream-map`
-- "Too many handoffs between teams": `makigami`, `shift-handover`, `daily-huddle`
-- "Defects keep coming back": `pareto-chart`, `five-whys`, `a3`
-- "Sales deals stall in the pipeline": `deal-aging-report`, `pipeline-management-board`, `sales-funnel-map`
-- "A change is about to go live and might fail": `fmea`, `sustainment-audit`, `metric-definition-sheet`
-- "Customers keep complaining": `voc-evidence-log`, `affinity-diagram`, `customer-interview-guide`
+- "Too many handoffs between teams": `makigami`, `daily-huddle`, `kaizen-charter`
+- "Defects keep coming back": `pareto-chart`, `five-whys`, `first-pass-yield-tracker`
+- "Sales deals stall in the pipeline": `sales-funnel-map`, `wip-aging-report`, `deal-a3`
+- "A change is about to go live and might fail": `fmea`, `metric-definition-sheet`, `implementation-plan`
+- "Customers keep complaining": `voc-evidence-log`, `customer-interview-guide`, `win-loss-interview-guide`
 - "Improvements don't stick after the event": `kaizen-charter`, `improvement-kata-storyboard`, `kaizen-funnel`
 
 ## Catalogue
@@ -44,21 +44,16 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 
 ### Orient
 
-- `lean-maturity-scorecard` -- Lean maturity scorecard (Foundations)
-- `marketing-maturity-assessment` -- Marketing maturity assessment (Foundations)
 - `eight-wastes-worksheet` -- Eight wastes (DOWNTIME) worksheet (Foundations)
 
 ### Understand the customer
 
 - `voc-evidence-log` -- Voice of the customer (VOC) evidence log (Voice of the customer)
-- `affinity-diagram` -- Affinity diagram (Voice of the customer)
 - `ctq-tree` -- Critical-to-quality (CTQ) tree (Voice of the customer)
 - `customer-interview-guide` -- Customer interview guide (Voice of the customer)
-- `gemba-interview-protocol` -- Gemba interview protocol (Voice of the customer)
 - `win-loss-interview-guide` -- Win-loss interview guide (Voice of the customer)
 - `voc-collection-plan` -- Voice of the customer (VOC) collection plan (Voice of the customer)
 - `value-hypothesis` -- Value hypothesis (Voice of the customer)
-- `message-architecture` -- Message architecture (Voice of the customer)
 - `icp-evidence-log` -- Ideal customer profile (ICP) evidence log (Voice of the customer)
 
 ### See the work
@@ -68,22 +63,14 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `scoping-canvas` -- Scoping canvas (Problem definition)
 - `icp-canvas` -- Ideal customer profile (ICP) canvas (Problem definition)
 - `anti-icp` -- Anti-ideal customer profile (anti-ICP) (Problem definition)
-- `value-proposition-map` -- Value proposition map (Problem definition)
 - `sales-funnel-map` -- Sales funnel value stream map (Value stream mapping)
 - `makigami` -- Makigami process map (Value stream mapping)
-- `funnel-pce-calculator` -- Funnel flow efficiency calculator (Value stream mapping)
-- `bottleneck-analysis` -- Bottleneck analysis (Value stream mapping)
 - `stage-conversion-analysis` -- Stage conversion analysis (Value stream mapping)
-- `deal-aging-report` -- Deal aging / work-in-progress report (Value stream mapping)
 
 ### Set direction
 
-- `hoshin-kanri` -- Hoshin Kanri — X-Matrix (Hoshin Kanri)
-- `true-north-statement` -- True north statement (Hoshin Kanri)
-- `marketing-true-north-statement` -- Marketing true north statement (Hoshin Kanri)
-- `revenue-hoshin-kanri` -- Revenue Hoshin Kanri — X-Matrix (Hoshin Kanri)
-- `cascade-map` -- Cascade map (Hoshin Kanri)
-- `revenue-cascade-map` -- Revenue cascade map (Hoshin Kanri)
+- `hoshin-kanri` -- Hoshin kanri X-matrix (Hoshin Kanri)
+- `revenue-hoshin-kanri` -- Revenue hoshin kanri X-matrix (Hoshin Kanri)
 
 ### Solve problems
 
@@ -103,27 +90,13 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `discovery-standard-work` -- Discovery call standard work (Standard work)
 - `performance-board` -- Performance board (Daily management)
 - `visibility-board` -- Visibility board (Daily management)
-- `qualification-standard-work` -- Qualification standard work (Standard work)
 - `performance-grid` -- Performance grid (Daily management)
 - `sqdip-board` -- Shift board with safety, quality, delivery, inventory and productivity rows (SQDIP) (Daily management)
 - `daily-huddle` -- Daily management huddle (Daily management)
 - `countermeasure-log` -- Countermeasure log (Daily management)
-- `pipeline-management-board` -- Pipeline review cascade (Daily management)
 - `work-instruction` -- Work instruction (Standard work)
 - `iluo-training-matrix` -- Training matrix with I, L, U, O skill levels (ILUO) (Standard work)
-- `kpi-tree` -- Key performance indicator (KPI) tree (Daily management)
-- `marketing-kpi-tree` -- Marketing key performance indicator (KPI) tree (Daily management)
-- `leader-standard-work` -- Leader standard work (Daily management)
-- `escalation-matrix` -- Escalation matrix (Daily management)
-- `shift-handover` -- Shift handover (Daily management)
-- `visual-board-design-guide` -- Visual board design guide (Visual management)
 - `tiered-huddle-board` -- Tiered huddle board (Daily management)
-- `go-see-protocol` -- Go-see protocol (Visual management)
-- `marketing-go-see-protocol` -- Marketing go-see protocol (Visual management)
-- `andon-signal-definition` -- Andon / signal definition worksheet (Visual management)
-- `standard-work-audit` -- Standard work audit (Standard work)
-- `visual-management-audit` -- Visual management audit (Visual management)
-- `consistency-audit` -- Consistency audit (Standard work)
 
 ### Improve continuously
 
@@ -131,19 +104,13 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `business-case-builder` -- Business case builder (Kaizen events)
 - `implementation-plan` -- Implementation plan (Kaizen events)
 - `mutual-action-plan` -- Mutual action plan (Kaizen events)
-- `stakeholder-coverage-map` -- Stakeholder coverage map (Kaizen events)
-- `tam-coverage-map` -- Total addressable market (TAM) coverage map (Kaizen events)
 - `learning-log` -- Learning log (Experimentation)
-- `message-testing-log` -- Message testing log (Experimentation)
-- `improvement-kata-storyboard` -- Improvement Kata storyboard (Improvement kata)
+- `improvement-kata-storyboard` -- Improvement kata storyboard (Improvement kata)
 - `metric-definition-sheet` -- Metric definition sheet (Measurement)
 - `marketing-metric-definition-sheet` -- Marketing metric definition sheet (Measurement)
-- `attribution-reality-check` -- Attribution reality check (Measurement)
 - `marketing-attribution-reality-check` -- Marketing attribution reality check (Measurement)
 - `kaizen-funnel` -- Kaizen funnel (Kaizen events)
 - `kaizen-charter` -- Kaizen event charter (Kaizen events)
-- `marketing-operating-system-charter` -- Marketing operating system charter (Kaizen events)
-- `sustainment-audit` -- Sustainment audit (Kaizen events)
 
 ### Sustain
 
@@ -156,9 +123,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - FMEA: failure mode and effects analysis
 - ICP: ideal customer profile
 - ILUO: a four-step skill scale, from I (learning) through L and U to O (can train others)
-- KPI: key performance indicator
 - SQDIP: safety, quality, delivery, inventory, productivity — one common set of rows for a daily management grid, and not the only one
-- TAM: total addressable market
 - VOC: voice of the customer
 - WIP: work in progress
 

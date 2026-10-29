@@ -55,7 +55,7 @@ Upstream:
 Downstream:
 
 - **A3 problem solving** (`a3`) — A test that recommends 'kill' on a countermeasure hypothesis is a direct signal an A3's own effect-confirmation plan should act on, not quietly ignore.
-- **Improvement Kata storyboard** (`improvement-kata-storyboard`) — The learning log tracks hypotheses across many efforts; the step-by-step experiments toward one target condition, each with its prediction written first, live on an Improvement Kata storyboard.
+- **Improvement kata storyboard** (`improvement-kata-storyboard`) — The learning log tracks hypotheses across many efforts; the step-by-step experiments toward one target condition, each with its prediction written first, live on an Improvement kata storyboard.
 
 ## Where AI helps
 
