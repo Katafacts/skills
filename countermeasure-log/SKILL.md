@@ -67,7 +67,7 @@ Downstream:
 
 - **A3 problem solving** (`a3`) — Where a cause goes when containment keeps holding and the permanent fix keeps not landing. A repeatedly contained cause is the clearest signal in this catalogue that a structured cycle is overdue.
 - **Pareto chart** (`pareto-chart`) — For ranking causes across a longer window than this log covers, or across several teams' logs at once.
-- **Go-see protocol** (not in the catalogue yet) — How the evidence for a closure actually gets gathered. A standard being followed by someone who was not part of the improvement is evidence; a task marked done is not.
+- **Go-see protocol** (`go-see-protocol`) — How the evidence for a closure actually gets gathered. A standard being followed by someone who was not part of the improvement is evidence; a task marked done is not.
 
 ## Where AI helps
 

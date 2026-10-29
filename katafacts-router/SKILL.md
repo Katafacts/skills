@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 56 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 62 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -30,13 +30,13 @@ Katafacts is a free catalogue of 56 continuous-improvement methods ("katas"), ea
 
 What the catalogue search returns for some common problems (best match first):
 
-- "Our invoices take weeks to get paid": `makigami`, `improvement-kata-storyboard`, `value-stream-map`
-- "Too many handoffs between teams": `makigami`
+- "Our invoices take weeks to get paid": `makigami`, `value-stream-map`, `eight-wastes-worksheet`
+- "Too many handoffs between teams": `makigami`, `go-see-protocol`
 - "Defects keep coming back": `pareto-chart`, `five-whys`, `first-pass-yield-tracker`
 - "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-a3`, `icp-evidence-log`
 - "A change is about to go live and might fail": `fmea`, `implementation-plan`
 - "Customers keep complaining": `customer-journey-map`, `voc-evidence-log`, `customer-interview-guide`
-- "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `raci-chart`
+- "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `sustainment-audit`
 
 ## Catalogue
 
@@ -100,7 +100,12 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `countermeasure-log` -- Countermeasure log (Daily management)
 - `work-instruction` -- Work instruction (Standard work)
 - `iluo-training-matrix` -- Training matrix with I, L, U, O skill levels (ILUO) (Standard work)
+- `kpi-tree` -- Key performance indicator (KPI) tree (Daily management)
+- `leader-standard-work` -- Leader standard work (Daily management)
+- `escalation-matrix` -- Escalation matrix (Daily management)
 - `tiered-huddle-board` -- Tiered huddle board (Daily management)
+- `go-see-protocol` -- Go-see protocol (Daily management)
+- `standard-work-audit` -- Standard work audit (Standard work)
 
 ### Improve continuously
 
@@ -117,6 +122,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `improvement-idea-funnel` -- Improvement idea funnel (Improvement events)
 - `improvement-event-charter` -- Improvement event charter (Improvement events)
 - `raci-chart` -- RACI (responsible, accountable, consulted, informed) chart (Improvement events)
+- `sustainment-audit` -- Sustainment audit (Improvement events)
 
 ### Sustain
 
@@ -129,6 +135,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - FMEA: failure mode and effects analysis
 - ICP: ideal customer profile
 - ILUO: a four-step skill scale, from I (learning) through L and U to O (can train others)
+- KPI: key performance indicator
 - RACI: responsible, accountable, consulted, informed
 - SIPOC: suppliers, inputs, process, outputs, customers
 - SQDIP: safety, quality, delivery, inventory, productivity — one common set of rows for a daily management grid, and not the only one

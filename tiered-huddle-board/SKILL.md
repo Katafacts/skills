@@ -53,9 +53,9 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Daily management huddle** (`daily-huddle`) — The meeting each tier runs: its timebox, its triage, and the queue numbers that show whether it still works.
-- **Escalation matrix** (not in the catalogue yet) — For a specific process, says what severity goes to whom and how fast; a tier's escalation condition often comes straight from it.
+- **Escalation matrix** (`escalation-matrix`) — For a specific process, says what severity goes to whom and how fast; a tier's escalation condition often comes straight from it.
 - **RACI (responsible, accountable, consulted, informed) chart** (`raci-chart`) — Says whose decision an escalated problem is, so it goes to the right tier first time.
-- **Key performance indicator (KPI) tree** (not in the catalogue yet) — Where each tier's board measures come from: the drivers of the top-level measure, scoped to each tier's altitude.
+- **Key performance indicator (KPI) tree** (`kpi-tree`) — Where each tier's board measures come from: the drivers of the top-level measure, scoped to each tier's altitude.
 
 ## Where AI helps
 

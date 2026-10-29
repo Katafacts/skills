@@ -61,7 +61,7 @@ Upstream:
 Downstream:
 
 - **RACI (responsible, accountable, consulted, informed) chart** (`raci-chart`) — The charter names one accountable owner for the event; the chart does the same for every task and decision in the process the event changes.
-- **Sustainment audit** (not in the catalogue yet) — Once the event closes, the sustainment audit checks whether this charter's commitments actually held.
+- **Sustainment audit** (`sustainment-audit`) — Once the event closes, the sustainment audit checks whether this charter's commitments actually held.
 
 ## Where AI helps
 

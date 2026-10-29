@@ -59,7 +59,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Pareto chart** (`pareto-chart`) — Finds which part of the problem to work on first. The top bar, split again until it's specific, becomes the effect at the head of the fish.
-- **Go-see protocol** (not in the catalogue yet) — How to go and check causes where the work happens, so the verified and ruled-out marks come from what was seen, not what was remembered.
+- **Go-see protocol** (`go-see-protocol`) — How to go and check causes where the work happens, so the verified and ruled-out marks come from what was seen, not what was remembered.
 
 Downstream:
 

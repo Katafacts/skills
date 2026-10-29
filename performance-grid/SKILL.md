@@ -58,15 +58,15 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Key performance indicator (KPI) tree** (not in the catalogue yet) — Where the rows come from: the goals, the measures that actually move them, and which of those this team can influence inside its own cycle.
+- **Key performance indicator (KPI) tree** (`kpi-tree`) — Where the rows come from: the goals, the measures that actually move them, and which of those this team can influence inside its own cycle.
 
 Downstream:
 
 - **Pareto chart** (`pareto-chart`) — The grid collects reasons; the Pareto ranks them. That is what decides which problem gets worked on, instead of whichever red was loudest or most recent.
 - **A3 problem solving** (`a3`) — When the same reason keeps returning despite containment, it has earned a structured cycle. Recurrence is the trigger, not severity.
-- **Go-see protocol** (not in the catalogue yet) — How a countermeasure gets verified where the work happens. A task marked done is not evidence; a standard being followed by someone who was not part of the improvement is.
+- **Go-see protocol** (`go-see-protocol`) — How a countermeasure gets verified where the work happens. A task marked done is not evidence; a standard being followed by someone who was not part of the improvement is.
 - **Performance board** (`performance-board`) — The longer horizon. This grid asks whether the period just gone met the rule; the performance board asks whether the year is on track, period by period against a phased plan.
-- **Escalation matrix** (not in the catalogue yet) — What happens when the team cannot close a red inside its own cycle: who it goes to, how quickly, and what comes back down.
+- **Escalation matrix** (`escalation-matrix`) — What happens when the team cannot close a red inside its own cycle: who it goes to, how quickly, and what comes back down.
 
 ## Where AI helps
 

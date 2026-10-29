@@ -55,7 +55,7 @@ Upstream:
 
 - **Performance grid** (`performance-grid`) — The board a commercial team marks period by period, asking only whether this one met its rule. This one keeps the whole cycle in view — target, actual and gap, week after week, against the point it started from. Different question, and worth keeping apart.
 - **Sales funnel value stream map** (`sales-funnel-map`) — A flow-efficiency or conversion finding from the funnel VSM is exactly the kind of thing that turns into one of this board's own KPIs.
-- **Key performance indicator (KPI) tree** (not in the catalogue yet) — A KPI tree's driver decomposition is what earns a metric its place on this board in the first place — this tracks it over time, the tree explains why it matters.
+- **Key performance indicator (KPI) tree** (`kpi-tree`) — A KPI tree's driver decomposition is what earns a metric its place on this board in the first place — this tracks it over time, the tree explains why it matters.
 
 Downstream:
 
