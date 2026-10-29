@@ -31,11 +31,11 @@ Katafacts is a free catalogue of 50 continuous-improvement methods ("katas"), ea
 What the catalogue search returns for some common problems (best match first):
 
 - "Our invoices take weeks to get paid": `makigami`, `improvement-kata-storyboard`, `value-stream-map`
-- "Too many handoffs between teams": `makigami`, `daily-huddle`, `improvement-event-charter`
+- "Too many handoffs between teams": `makigami`, `daily-huddle`, `implementation-plan`
 - "Defects keep coming back": `pareto-chart`, `five-whys`, `first-pass-yield-tracker`
 - "Sales deals stall in the pipeline": `sales-funnel-map`, `wip-aging-report`, `deal-a3`
-- "A change is about to go live and might fail": `fmea`, `metric-definition-sheet`, `implementation-plan`
-- "Customers keep complaining": `voc-evidence-log`, `customer-interview-guide`, `win-loss-interview-guide`
+- "A change is about to go live and might fail": `fmea`
+- "Customers keep complaining": `voc-evidence-log`, `customer-interview-guide`, `voc-collection-plan`
 - "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `business-case`
 
 ## Catalogue
