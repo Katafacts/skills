@@ -21,7 +21,7 @@ Use it when:
 - You're about to map, measure or improve a process and the team doesn't yet agree where it starts and ends.
 - Nobody has written down who the process serves, or the customers named are just whoever shouts loudest.
 - Problems seem to arrive from outside the process (late, incomplete or wrong inputs) and you need to see who supplies what.
-- You're starting an improvement event or a project and need a shared picture of the process for the charter in an hour, not a week.
+- You're starting a kaizen event or a project and need a shared picture of the process for the charter in an hour, not a week.
 - Someone new to the area needs the whole process on one page before they go and watch it.
 
 Not when:

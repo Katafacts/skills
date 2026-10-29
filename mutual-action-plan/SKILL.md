@@ -8,7 +8,7 @@ description: "Agree the path to signature and go-live with the buyer: milestones
 
 Agree the path to signature and go-live with the buyer: milestones toward the close and go-live dates, each owned by you, the buyer or both, with days remaining, overdue and unowned steps computed, so a one-sided plan can't pass as a mutual commitment.
 
-Family: Improvement events · Format: .xlsx · Domain: commercial
+Family: Kaizen events · Format: .xlsx · Domain: commercial
 
 ## What it is
 

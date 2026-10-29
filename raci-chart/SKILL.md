@@ -8,7 +8,7 @@ description: "Agree who does what: list the tasks and decisions in a process or 
 
 Agree who does what: list the tasks and decisions in a process or project, list the roles, and mark each cell R (does the work), A (owns the outcome, one per task), C (asked before) or I (told after). The checks are computed, not typed in: a task with no owner or two, a task nobody does, too many people consulted, and a role doing nothing or carrying more than half the work.
 
-Family: Improvement events · Format: .xlsx · Domain: core
+Family: Kaizen events · Format: .xlsx · Domain: core
 
 ## What it is
 
@@ -20,7 +20,7 @@ Use it when:
 
 - Work keeps falling between people: things get dropped, done twice, or wait while everyone assumes someone else has it.
 - A process or project crosses several teams and nobody has written down who decides what.
-- You're setting up an improvement event, a project or a new process and want roles agreed before the work starts.
+- You're setting up a kaizen event, a project or a new process and want roles agreed before the work starts.
 - A process has just changed and the old understanding of who does what no longer holds.
 - Decisions take too long because too many people expect to be asked first.
 
@@ -59,7 +59,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Improvement event charter** (`improvement-event-charter`) — The charter names the event team and its one accountable owner. A RACI chart does the same for every task and decision in the process the event changes.
+- **Kaizen event charter** (`improvement-event-charter`) — The charter names the event team and its one accountable owner. A RACI chart does the same for every task and decision in the process the event changes.
 
 Downstream:
 

@@ -36,7 +36,7 @@ What the catalogue search returns for some common problems (best match first):
 - "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-a3`, `icp-evidence-log`
 - "A change is about to go live and might fail": `fmea`, `implementation-plan`
 - "Customers keep complaining": `customer-journey-map`, `voc-evidence-log`, `customer-interview-guide`
-- "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `sustainment-audit`
+- "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `improvement-kata-storyboard`
 
 ## Catalogue
 
@@ -109,20 +109,20 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 
 ### Improve continuously
 
-- `business-case` -- Business case (Improvement events)
-- `business-case-builder` -- Business case builder (Improvement events)
-- `implementation-plan` -- Implementation plan (Improvement events)
-- `mutual-action-plan` -- Mutual action plan (Improvement events)
+- `business-case` -- Business case (Kaizen events)
+- `business-case-builder` -- Business case builder (Kaizen events)
+- `implementation-plan` -- Implementation plan (Kaizen events)
+- `mutual-action-plan` -- Mutual action plan (Kaizen events)
 - `learning-log` -- Learning log (Experimentation)
 - `improvement-kata-storyboard` -- Improvement kata storyboard (Improvement kata)
 - `metric-definition-sheet` -- Metric definition sheet (Measurement)
 - `marketing-metric-definition-sheet` -- Marketing metric definition sheet (Measurement)
 - `marketing-attribution-reality-check` -- Marketing attribution reality check (Measurement)
 - `stage-conversion-analysis` -- Stage conversion analysis (Measurement)
-- `improvement-idea-funnel` -- Improvement idea funnel (Improvement events)
-- `improvement-event-charter` -- Improvement event charter (Improvement events)
-- `raci-chart` -- RACI (responsible, accountable, consulted, informed) chart (Improvement events)
-- `sustainment-audit` -- Sustainment audit (Improvement events)
+- `improvement-idea-funnel` -- Kaizen idea funnel (Kaizen events)
+- `improvement-event-charter` -- Kaizen event charter (Kaizen events)
+- `raci-chart` -- RACI (responsible, accountable, consulted, informed) chart (Kaizen events)
+- `sustainment-audit` -- Sustainment audit (Kaizen events)
 
 ### Sustain
 

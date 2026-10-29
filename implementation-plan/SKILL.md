@@ -8,7 +8,7 @@ description: "Milestones toward a real go-live date, each with one named owner, 
 
 Milestones toward a real go-live date, each with one named owner, a start and due date and what it waits on, on a week-by-week timeline. Overdue steps, knock-on warnings and unowned steps are worked out for you, and a plan that sits entirely with your own team is flagged.
 
-Family: Improvement events · Format: .xlsx · Domain: core
+Family: Kaizen events · Format: .xlsx · Domain: core
 
 ## What it is
 
@@ -26,7 +26,7 @@ Not when:
 
 - Everything genuinely depends on one person or one team — a plan with no real outside dependency doesn't need this structure; a simple task list will do.
 - You don't have a real target completion date yet — pin that down first, or the days-remaining and overdue math has nothing real to measure against.
-- You're still deciding what to do, not how to sequence doing it — that's an A3 or an improvement event charter's job; this tool assumes the commitment is already made.
+- You're still deciding what to do, not how to sequence doing it — that's an A3 or a kaizen event charter's job; this tool assumes the commitment is already made.
 
 ## How to fill it in
 
@@ -53,7 +53,7 @@ Upstream:
 
 - **RACI (responsible, accountable, consulted, informed) chart** (`raci-chart`) — Agree who owns each task and decision first; the A on a row is usually the right owner for the action that changes it.
 - **A3 problem solving** (`a3`) — A countermeasure an A3 identifies is exactly the kind of commitment that needs a real, dated, cross-functional plan to actually happen.
-- **Improvement event charter** (`improvement-event-charter`) — Once an improvement event's plan is set, rolling out what it produced across a wider area is what this tool sequences.
+- **Kaizen event charter** (`improvement-event-charter`) — Once a kaizen event's plan is set, rolling out what it produced across a wider area is what this tool sequences.
 
 ## Where AI helps
 

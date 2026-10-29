@@ -8,11 +8,11 @@ description: "The cost of the status quo, what the fix actually costs, and the q
 
 The cost of the status quo, what the fix actually costs, and the quantified value it returns — with payback period and 3-year return on investment (ROI) computed from those numbers, not asserted, and every value driver's basis and confidence named plainly.
 
-Family: Improvement events · Format: .xlsx · Domain: core
+Family: Kaizen events · Format: .xlsx · Domain: core
 
 ## What it is
 
-A business case puts a real number on why an investment is worth making — the cost of the status quo, what the fix actually costs, and the quantified value it returns, with payback period and 3-year ROI computed from those numbers rather than asserted. Every value driver carries how the number was derived and how confident you actually are in it — a driver with no real basis is named as a gap, not hidden behind a confident-sounding total. It's the resourcing step that naturally comes before an improvement event charter: before committing a team's time to an improvement, this is what earns that commitment.
+A business case puts a real number on why an investment is worth making — the cost of the status quo, what the fix actually costs, and the quantified value it returns, with payback period and 3-year ROI computed from those numbers rather than asserted. Every value driver carries how the number was derived and how confident you actually are in it — a driver with no real basis is named as a gap, not hidden behind a confident-sounding total. It's the resourcing step that naturally comes before a kaizen event charter: before committing a team's time to an improvement, this is what earns that commitment.
 
 ## When to use it
 
@@ -59,7 +59,7 @@ Upstream:
 
 Downstream:
 
-- **Improvement event charter** (`improvement-event-charter`) — Once a business case earns the investment, an improvement event charter is where the actual work gets planned and resourced day to day.
+- **Kaizen event charter** (`improvement-event-charter`) — Once a business case earns the investment, a kaizen event charter is where the actual work gets planned and resourced day to day.
 
 ## Where AI helps
 

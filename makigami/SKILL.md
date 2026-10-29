@@ -35,7 +35,7 @@ Not when:
 - **metrics** — Calculated from the map — don't type these in; check they make sense against the real case you followed. Lead time follows the longest path through the case; the activity ratio is work time divided by lead time; handoffs count every time the work changes lanes, plus work sent back to another lane. Rolled first-pass yield — every step's percent complete and accurate multiplied together — appears once most steps have a score. A blank means data is still missing, and the summary says what.
 - **problems** — Pin a note to the step wherever the work waits, gets re-checked, re-typed, chased or sent back — quantity over polish, with how often it happens. Add a rework loop wherever work returns to an earlier step. Ask the next person, not the sender, how often what arrives is complete and accurate. Tag each step as value-adding, needed but not value-adding, or waste. Describe the step, never the person.
 - **future** — Start the future state from a copy of the current map, then remove steps, merge handoffs and take out re-keying and approvals that add nothing. Removed and changed steps are marked, and the before-and-after numbers sit side by side. Work through four questions in turn: what can be eliminated, what can be combined, what can be rearranged, and what can be simplified. Remove the need to move work around rather than speeding up the moving.
-- **plan** — Write ideas that each remove named problems, and sort them by who can fix them: A, the team on this map; B, needs another department; C, needs a company decision. Do the As first. Turn ideas into owned, dated actions — just do it, an improvement event, or a project — and set a day-100 check.
+- **plan** — Write ideas that each remove named problems, and sort them by who can fix them: A, the team on this map; B, needs another department; C, needs a company decision. Do the As first. Turn ideas into owned, dated actions — just do it, a kaizen event, or a project — and set a day-100 check.
 
 ## What good looks like
 
@@ -65,7 +65,7 @@ Downstream:
 
 - **Spaghetti diagram: walking and carrying paths** (`spaghetti-diagram`) — Where handoffs mean carrying paper or walking to ask someone, draw the office floor and measure the walking.
 - **A3 problem solving** (`a3`) — A problem cluster that doesn't have an obvious fix is a bounded, evidenced problem an A3 can take to root cause.
-- **Improvement event charter** (`improvement-event-charter`) — Ideas that need another department (B) usually need a chartered improvement event with those people in the room.
+- **Kaizen event charter** (`improvement-event-charter`) — Ideas that need another department (B) usually need a chartered kaizen event with those people in the room.
 - **Implementation plan** (`implementation-plan`) — Where the larger project-sized actions from the 100-day plan get tracked through to done.
 
 ## Where AI helps
