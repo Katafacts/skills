@@ -39,7 +39,7 @@ Not when:
 
 ## What good looks like
 
-The example below follows one real vendor invoice through Meridian Business Services' approval process: six lanes, eight steps, the documents and systems each step touches, work and wait times, a rework loop when the purchase order doesn't match, and seven problems pinned where they happen. Nearly all of the lead time is waiting while the work itself takes minutes. The future state removes the re-keying and a manual scheduling step, runs two approvals side by side, and comes with ideas sorted by who can fix them and a 100-day plan.
+The example below follows one real supplier invoice through Meridian Business Services' approval process: six lanes, eight steps, the documents and systems each step touches, work and wait times, a rework loop when the purchase order doesn't match, and seven problems pinned where they happen. Nearly all of the lead time is waiting while the work itself takes minutes. The future state imports invoices instead of retyping them, drops the inbox logging and manual scheduling steps, runs the two approvals side by side, and comes with ideas sorted by who can fix them and a 100-day plan.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/makigami
 

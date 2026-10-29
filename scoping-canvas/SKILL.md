@@ -12,7 +12,7 @@ Family: Problem definition · Format: .xlsx · Domain: core
 
 ## What it is
 
-A scoping canvas is a one-page definition of what an initiative actually covers, built before anyone starts work on it — not a project plan, and not a full charter, just the boundary-setting document that keeps a team from discovering three weeks in that they disagreed about what was in scope. Unlike most tools in this catalogue, a canvas is genuinely defined by which sections apply to the situation, the same way any good scoping exercise is — problem/goal/in-scope/out-of-scope/team/timeline/assumptions is the default set, not a rigid universal structure.
+A scoping canvas is a one-page definition of what an initiative actually covers, built before anyone starts work on it — not a project plan, and not a full charter, just the boundary-setting document that keeps a team from discovering three weeks in that they disagreed about what was in scope. A canvas is defined by which sections apply to the situation, the same way any good scoping exercise is — problem/goal/in-scope/out-of-scope/team/timeline/assumptions is the default set, not a rigid universal structure.
 
 ## When to use it
 
@@ -37,10 +37,11 @@ Not when:
 - **team** — List who's involved and their role: who leads, who does the work, who decides, and who needs to be kept informed.
 - **timeline** — List the key milestones or phases with dates. Check them with the people doing the work, not just the sponsor.
 - **assumptions** — List what has to be true for this to work, and any constraint you're working within — budget, people, systems, deadlines. Write each so it can be checked; these are the first things to revisit when the plan slips.
+- **success-measure** — Name the one number that will show the work succeeded: what is measured and where, its unit, today's baseline, the target and the date. The change needed and the change as a share of the baseline are worked out for you; if you can't give a baseline yet, measuring it is the first milestone.
 
 ## What good looks like
 
-The example below scopes an improvement event that picks up directly where a prior A3's countermeasures left off — tightly bounded to one line, one procedure, explicitly deferring the adjacent line and any capital spend rather than letting scope creep in by default.
+The example below scopes an improvement event that picks up where a problem-solving A3's countermeasures left off: tightly bounded to one paint booth and one procedure, explicitly deferring the other line and any capital spend rather than letting scope creep in by default. Its timeline is dated from the baseline study in early March to the check on 5 June, and its success measure is changeover time from 45 to 25 minutes, a cut of 20 minutes or 44%.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/scoping-canvas
 

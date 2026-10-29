@@ -31,10 +31,10 @@ Katafacts is a free catalogue of 56 continuous-improvement methods ("katas"), ea
 What the catalogue search returns for some common problems (best match first):
 
 - "Our invoices take weeks to get paid": `makigami`, `improvement-kata-storyboard`, `value-stream-map`
-- "Too many handoffs between teams": `makigami`, `daily-huddle`, `implementation-plan`
+- "Too many handoffs between teams": `makigami`
 - "Defects keep coming back": `pareto-chart`, `five-whys`, `first-pass-yield-tracker`
-- "Sales deals stall in the pipeline": `sales-funnel-map`, `wip-aging-report`, `deal-a3`
-- "A change is about to go live and might fail": `fmea`
+- "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-a3`, `icp-evidence-log`
+- "A change is about to go live and might fail": `fmea`, `implementation-plan`
 - "Customers keep complaining": `customer-journey-map`, `voc-evidence-log`, `customer-interview-guide`
 - "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `raci-chart`
 
@@ -56,6 +56,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `voc-collection-plan` -- Voice of the customer (VOC) collection plan (Voice of the customer)
 - `value-hypothesis` -- Value hypothesis (Voice of the customer)
 - `icp-evidence-log` -- Ideal customer profile (ICP) evidence log (Voice of the customer)
+- `proof-point-inventory` -- Proof point inventory (Voice of the customer)
 
 ### See the work
 
@@ -65,10 +66,10 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `sipoc` -- SIPOC (suppliers, inputs, process, outputs, customers) (Problem definition)
 - `icp-canvas` -- Ideal customer profile (ICP) canvas (Problem definition)
 - `anti-icp` -- Anti-ideal customer profile (anti-ICP) (Problem definition)
+- `fit-criteria-scorecard` -- Fit-criteria scorecard (Problem definition)
 - `sales-funnel-map` -- Sales funnel value stream map (Value stream mapping)
 - `makigami` -- Makigami process map (Value stream mapping)
 - `spaghetti-diagram` -- Spaghetti diagram: walking and carrying paths (Value stream mapping)
-- `stage-conversion-analysis` -- Stage conversion analysis (Value stream mapping)
 
 ### Set direction
 
@@ -86,9 +87,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `five-whys` -- 5-Whys (Problem solving / root cause analysis)
 - `decision-matrix` -- Weighted decision matrix (Problem solving / root cause analysis)
 - `impact-effort-matrix` -- Impact/effort matrix: sort ideas fast (Problem solving / root cause analysis)
-- `fit-criteria-scorecard` -- Fit-criteria scorecard (Problem solving / root cause analysis)
 - `evidence-register` -- Evidence register (Problem solving / root cause analysis)
-- `proof-point-inventory` -- Proof point inventory (Problem solving / root cause analysis)
 
 ### Run the day
 
@@ -96,7 +95,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `performance-board` -- Performance board (Daily management)
 - `visibility-board` -- Visibility board (Daily management)
 - `performance-grid` -- Performance grid (Daily management)
-- `sqdip-board` -- Shift board with safety, quality, delivery, inventory and productivity rows (SQDIP) (Daily management)
+- `sqdip-board` -- SQDIP (safety, quality, delivery, inventory, productivity) shift board (Daily management)
 - `daily-huddle` -- Daily management huddle (Daily management)
 - `countermeasure-log` -- Countermeasure log (Daily management)
 - `work-instruction` -- Work instruction (Standard work)
@@ -114,6 +113,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `metric-definition-sheet` -- Metric definition sheet (Measurement)
 - `marketing-metric-definition-sheet` -- Marketing metric definition sheet (Measurement)
 - `marketing-attribution-reality-check` -- Marketing attribution reality check (Measurement)
+- `stage-conversion-analysis` -- Stage conversion analysis (Measurement)
 - `improvement-idea-funnel` -- Improvement idea funnel (Improvement events)
 - `improvement-event-charter` -- Improvement event charter (Improvement events)
 - `raci-chart` -- RACI (responsible, accountable, consulted, informed) chart (Improvement events)

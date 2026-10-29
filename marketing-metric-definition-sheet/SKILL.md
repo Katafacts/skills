@@ -30,17 +30,18 @@ Not when:
 ## How to fill it in
 
 - **scopeArea** — Say which part of the commercial function these definitions cover — campaigns, pipeline, retention.
-- **metrics** — For each metric, write the formula, the data source, the owner, how often it's refreshed and the unit, as they're actually used today. Get them from whoever builds the report, and leave a field blank if it isn't agreed yet — including an attribution model that's really just an unchecked default.
+- **metrics** — For each metric, write what it means in plain words, the formula, the data source, the owner, how often it's refreshed and the unit, as they're actually used today. Then which way is good (higher, lower, or on a target), the target as the team states it, and what is deliberately left out of the count (duplicates, existing customers, salaries in a cost figure). Get them from whoever builds the report, and leave a field blank if it isn't agreed yet — including an attribution model that's really just an unchecked default.
 - **narrative** — Write a few sentences naming which metrics are fully defined and which still have a gap — no owner, no agreed formula, or a source nobody trusts.
 
 ## What good looks like
 
-The example below continues the Beacon Analytics storyline — SQL and cost per SQL are both checked and confirmed against the marketing KPI tree's own assumptions, and channel attribution honestly names the CRM's first-touch default as unvalidated rather than letting it pass as a real model.
+The example below is a software company's four pipeline metrics. Marketing qualified lead (MQL), sales qualified lead (SQL) and cost per SQL are fully defined: each lead is counted once, on the date it first reaches the stage, and cost per SQL states what spend is in (paid media and programme costs) and what is out (salaries). Channel attribution is the gap: it has a data source but no agreed formula and no owner, because first-touch was never chosen, it is the CRM's default. The sheet names that rather than letting the first-touch number pass as a tested model.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/marketing-metric-definition-sheet
 
 ## Common mistakes
 
+- **Not writing down what is left out of the count** — Marketing and Sales can share a formula and still disagree because one drops duplicates or existing customers and the other does not, or one puts salaries into cost per lead. Write the exclusions next to the formula.
 - **Treating a CRM's default field (like first-touch attribution) as though it were a deliberately chosen model.** — A default is not a decision — naming it as unvalidated is what stops a budget conversation from quietly trusting a number nobody actually chose.
 - **Leaving a metric unowned because 'marketing and sales both kind of own it.'** — A definition nobody owns is a definition everyone quietly forks — a real owner is what keeps the formula from silently drifting as campaigns and systems change.
 - **Resolving a genuine Marketing-vs-Sales conflict unilaterally just to make the sheet look complete.** — Picking a winner without the other team's buy-in doesn't resolve the conflict, it just hides it — naming the conflict plainly is what actually gets it fixed.

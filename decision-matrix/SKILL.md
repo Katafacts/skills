@@ -12,7 +12,7 @@ Family: Problem solving / root cause analysis · Format: .xlsx · Domain: core
 
 ## What it is
 
-A weighted decision matrix scores a small set of options against criteria that don't all matter equally — cost, ease of adoption, support quality, whatever the real decision actually turns on — each criterion carrying its own weight, each option scored directly against each criterion (1 to 5). The weights and scores are multiplied and summed into a single composite score (0 to 100), which sorts options into priority, consider, or deprioritize tiers. It's genuinely different from a countermeasure matrix's quick 2-axis impact/effort filter — this is for a real, deliberated choice between a handful of options, not a fast triage pass — and from an FMEA, which ranks failure modes by risk, not options by fit.
+A weighted decision matrix scores a small set of options against criteria that don't all matter equally — cost, ease of adoption, support quality, whatever the real decision actually turns on — each criterion carrying its own weight, each option scored directly against each criterion (1 to 5). The weights and scores are multiplied and summed into a single composite score from 20 (every score a 1) to 100 (every score a 5), which sorts options into priority, consider, or deprioritize tiers. It's genuinely different from a countermeasure matrix's quick 2-axis impact/effort filter — this is for a real, deliberated choice between a handful of options, not a fast triage pass — and from an FMEA, which ranks failure modes by risk, not options by fit.
 
 ## When to use it
 
@@ -37,7 +37,7 @@ Not when:
 
 ## What good looks like
 
-The example below scores three candidate CI-software vendors against four weighted criteria — and deliberately shows an option that wins the single most heavily weighted criterion outright but still doesn't clear the priority threshold overall, because the composite score is what actually decides, not any one axis.
+The example below scores three improvement-tracking software platforms against four weighted criteria, and its real lesson is that the result is too close to call. Platform A scores 75, Platform B 74 and Platform C 72: three points apart, less than the error in any one 1-to-5 score. Move five points of weight from integration fit to cost and Platform B leads, 76 to 72. Platform B also wins cost, the most heavily weighted criterion, outright and still doesn't top the composite. So the matrix narrows the field and names the evidence that would separate the options: firm cost quotes, a short pilot with real operators and a check of each system link. It doesn't crown a winner by one point.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/decision-matrix
 

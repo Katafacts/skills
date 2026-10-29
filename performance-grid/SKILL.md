@@ -41,7 +41,7 @@ Not when:
 
 ## What good looks like
 
-The example below is an inside sales team on a weekly cadence. Twenty squares, seven of them red — and two causes account for six of those seven, which is exactly why the reasons are worth more than the colours. Pricing approval held up proposals in three separate weeks; an uncovered shared inbox produced the other three reds and appeared under two different measures, which is the clue that it is a staffing rule rather than a sales problem. Three reds still have nothing being done about them, one of those was never given a reason at all, and one square is blue because that week has not been marked yet. A worked example where everything was green would teach the opposite of the method.
+The example below is an inside sales team on a weekly cadence. Twenty squares, seven of them red — and two causes account for six of those seven, which is exactly why the reasons are worth more than the colours. Pricing approval held up proposals in three separate weeks; an uncovered shared inbox produced the other three reds and appeared under two different measures, which is the clue that it is a staffing rule rather than a sales problem. One red, deals slipping in week 35, has neither a reason nor an action, and one square is blue because that week has not been marked yet. A worked example where everything was green would teach the opposite of the method.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/performance-grid
 

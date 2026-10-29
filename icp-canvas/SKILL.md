@@ -12,7 +12,7 @@ Family: Problem definition · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-An ICP canvas is a definition of the ideal customer profile (ICP) — the same one-page, multi-section discipline as a scoping canvas, a definition built once and revisited, not a project plan — pointed at defining who the ideal customer actually is instead of scoping an initiative. The lean connection for ICP is "specify value — lean's step one": an ICP canvas is where that first step gets written down concretely, in fields a rep or marketer can actually qualify or target against, rather than staying an unstated shared assumption that turns out to differ person to person.
+An ICP canvas is a definition of the ideal customer profile (ICP) — the same one-page, multi-section discipline as a scoping canvas, a definition built once and revisited, not a project plan — pointed at defining who the ideal customer actually is instead of scoping an initiative. It writes the profile down in terms a rep or marketer can qualify or target against, with the evidence behind each criterion, instead of leaving it an unstated assumption that turns out to differ person to person.
 
 ## When to use it
 
@@ -35,16 +35,17 @@ Not when:
 - **triggers** — Write the events or symptoms that make an account start looking for something like this — a new leader, a failed audit, a sudden growth spurt. Take them from your own win and loss notes, not from a generic list of pain points.
 - **buying-committee** — Name the roles involved: who signs off on the money, and who realistically champions the purchase inside the account. Use job titles from real deals, and if you can't name the champion's role, say so.
 - **pain-fit** — Write the specific problem this solves for them, in the words customers actually use. Pull phrases from call notes or interviews; if it reads like your own marketing copy, it isn't their words yet.
+- **qualification-checklist** — Turn the canvas into a checklist: one row per criterion, what counts as meeting it, and the evidence behind it (win rate and how many deals). Mark each a must-have or a nice-to-have; a criterion with no evidence is an opinion, and the sheet counts them. To check an account, name it and answer Yes, No or Not checked for every criterion: any must-have missed means not a fit, and any not checked means finish the checks before you decide.
 
 ## What good looks like
 
-The example below is deliberately built from real deal evidence rather than assumption — every section traces back to a specific finding in the ICP evidence log worked example (the spreadsheet-outgrown trigger, the exec-sponsor-engaged-early pattern) rather than a generic sense of 'our best customers.'
+The example below is a mid-market software company's ideal customer profile, built from last year's won and lost deals rather than assumption: an account that already patches its reporting with spreadsheets, someone who owns revenue operations, and a senior buyer involved early. Its checklist has five must-haves and two nice-to-haves, each with a win rate and deal count behind it except one nice-to-have, which the sheet flags as having no evidence yet. Checked against a prospect in qualification, all five must-haves are met, so it fits the profile.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/icp-canvas
 
 ## Common mistakes
 
-- **Writing firmographic ranges from a sense of who the company would like to sell to, not who actually buys and stays.** — An aspirational ICP that doesn't match real closed-won evidence sends reps and marketing after accounts that don't actually convert — the same impression-not-data mistake this catalogue's own discipline exists to catch everywhere else.
+- **Writing firmographic ranges from a sense of who the company would like to sell to, not who actually buys and stays.** — An aspirational ICP that doesn't match real closed-won evidence sends reps and marketing after accounts that don't actually convert — it describes the customer you hope for, not the one you win.
 - **Naming a trigger so generic it would apply to almost any prospect ('they want to grow').** — A trigger has to be specific enough to qualify on — 'already running a manual spreadsheet workaround' is checkable in a call; 'wants to grow' isn't.
 - **Skipping the buying-committee section because the champion is enthusiastic.** — An enthusiastic champion with no path to the economic buyer is exactly the stalled-single-threaded-champion pattern that kills deals late — the canvas should name what a real path to the buyer looks like, not just note that someone's interested.
 

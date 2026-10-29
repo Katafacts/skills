@@ -31,13 +31,15 @@ Not when:
 ## How to fill it in
 
 - **researchGoal** — Write what you want to understand about this decision, naming the specific deal and outcome — that sharpens your questions more than "understand win-loss patterns." Book the interview soon after the decision, while memories are fresh.
-- **topics** — List the topics and questions: how they made the decision, what tipped it, the alternative they weighed (including doing nothing), and what would have changed the outcome. Ask what happened, in order, rather than what they think of you.
+- **deal** — Record the same details for every interview: the account, won or lost, the deal value, the main competitor (or 'did nothing'), the decision date and the sales rep. The days from decision to interview are worked out for you and flagged past two weeks.
+- **session** — Set the session length and write the opening and close with minutes for each. Open by saying who you are, that this isn't a sales call and you won't reopen the decision, and ask permission to take notes. Close by asking what you should have asked and who else was involved.
+- **topics** — Use the same topics and questions for every deal, with minutes for each so the plan fits the session: how they decided, their criteria, what tipped it, price, the sales experience, the alternative they weighed (including doing nothing) and what would have changed the outcome. Ask what happened, in order, rather than what they think of you. Write what they said beside each question, then straight after the call code each answer with one reason (product, price, sales experience, relationship, timing, competitor) so the tally adds up across deals.
 - **reminders** — Write a few reminders to read before the call: interview promptly, don't defend or sell — especially on a loss — and ask "what else?" to get past the polite version of the story.
 - **narrative** — Write a short note on how to run this conversation: how to open, which topic matters most if time runs short, and how you'll get past the polite version of the story.
 
 ## What good looks like
 
-The example below is a Q1 enterprise win-loss guide: four topics from the decision process through to what would have changed the outcome, built to work for both wins and losses with the same question set, and reminders specific to interviewing promptly and without defensiveness.
+The example below is a 45-minute win-loss interview about a lost deal, held a week after the decision: seven topics from the decision process through to what would have changed the outcome, with a 3-minute opening and a 4-minute close so the plan fits the session exactly. Four of the buyer's answers are captured and coded, and the tally shows price was the reason given but not the real one: two answers point to a missing product link, one to the sales experience and one to the competitor.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/win-loss-interview-guide
 

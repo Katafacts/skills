@@ -12,7 +12,7 @@ Family: Standard work · Format: .xlsx · Domain: core
 
 ## What it is
 
-A work instruction is the classic three-column job instruction: major steps, key points (how to do each step right — a technique, a quality check, a safety point), and the reason each key point matters. Describe the task roughly, and real steps get drafted — grounded, specific, never a step with an unexplained rule attached to it.
+A work instruction is the classic three-column job instruction: major steps, key points (how to do each step right — a technique, a quality check, a safety point), and the reason each key point matters. It is what lets a new team member, or someone covering, do the task the same way as the person who has done it for years, and it is what you train against.
 
 ## When to use it
 
@@ -31,12 +31,12 @@ Not when:
 ## How to fill it in
 
 - **purpose** — Write what this task achieves and why it matters — for the customer, the next step or safety — in one or two sentences.
-- **steps** — List the major steps in order, each as a short verb-led phrase. Under each step add the key points — what makes it safe, right or easier — and for every key point, the reason it matters. Write them while watching someone skilled do the task, not from memory; a step with no key point yet is fine, but mark it so it gets filled.
+- **steps** — List the major steps in order, each as a short verb-led phrase, with the minutes it takes when done well. Under each step add the key points — what makes it safe, right or easier — mark each one's kind (safety, quality or ease), and give the reason it matters. Write them while watching someone skilled do the task, not from memory; a step with no key point yet is fine, but mark it so it gets filled. Finish with "done when": what the finished result looks like, so the person knows when the task is complete.
 - **narrative** — Write a short note on how to use this instruction: who it's for, the one or two key points most often missed, and when it was last checked against the work.
 
 ## What good looks like
 
-The example below instructs the exact triage task the improvement event charter's routing rule and the sustainment audit both reference — three of four steps have a real key point and reason, and the fourth is honestly left flagged rather than padded with a made-up one.
+The example below is a support team's instruction for triaging a support ticket from a customer whose renewal is at risk: four steps, about 12 minutes of hands-on work, five key points each with its kind and reason, and a clear "done when". Two key points protect the 4-hour first response; the last keeps the weekly review's counts honest.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/work-instruction
 

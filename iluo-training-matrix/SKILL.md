@@ -12,7 +12,7 @@ Family: Standard work · Format: .xlsx · Domain: core
 
 ## What it is
 
-An ILUO training matrix tracks real capability, not just who's been shown something once: I (in training), L (learned), U (able to work unsupervised), O (able to train others). Describe the process area and the team, and a real skill list gets drafted — but who's actually at which level is never guessed. You record that yourself, and the matrix honestly flags any skill where nobody has reached U or O yet.
+An ILUO training matrix shows who can do which part of the work, and how well: I (in training), L (learned, still needs support), U (works it unsupervised), O (can train others). For each skill you set how many people need to reach the level that counts, so the matrix shows where one absence would stop the work. A training plan underneath names who will be trained to which level, by whom and by when, and shows how much of the gap it closes. Levels are recorded from what you've seen people do, never guessed.
 
 ## When to use it
 
@@ -31,12 +31,13 @@ Not when:
 ## How to fill it in
 
 - **team** — List everyone on the team who does this work, including part-timers and cover staff — they're often the people a gap depends on.
-- **matrix** — List the specific, trainable skills the work needs — "change over the filler", not "run the line well". For each person and skill, record the level you've seen them work at (I/L/U/O), not the level they've been signed off for; any skill with nobody at U or O is one absence away from stopping the work.
-- **narrative** — Write a few sentences on where the team is exposed: skills with nobody, or only one person, at U or O, and who to train next. Use only what the matrix shows.
+- **matrix** — List the specific, trainable skills the work needs — "restore deleted dashboards from backup", not "good product knowledge". For each skill, set the level that counts as covered (usually U) and how many people need it (usually 2, so one absence doesn't stop the work; more if a rota needs it). Then record each person's level from what you've seen them do, not what they've been signed off for.
+- **trainingPlan** — For each short skill, add one line per person you'll train: the target level, the trainer and a date. The trainer should be at O on that skill; if nobody on the team is, name someone from outside it. A line that only gets someone to L is a fine first step, but it doesn't close the gap.
+- **narrative** — Write a few sentences on where the team is exposed (skills with nobody, or too few people, at the level needed) and what the plan does about it. Use only what the matrix shows.
 
 ## What good looks like
 
-The example below trains the same renewal-risk support process the work instruction documents, with the same team. The one skill nobody's past in-training on lines up exactly with the step the work instruction itself flagged as still missing a key point — the same real gap, visible from two different artifacts.
+The example below is a five-person support team's matrix across five skills, one of them triaging renewal-risk tickets, which has its own work instruction. Two skills are covered; three are short by four trained people in all, and nobody can restore deleted dashboards unsupervised. The training plan has a trainer and a date for each of those four, using someone from the platform team where nobody on the team is at O, plus one first step for the newest starter. If it lands, nothing is short by 18 December.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/iluo-training-matrix
 
@@ -44,6 +45,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 - **Filling in levels based on a guess or a title, not actual demonstrated ability.** — The matrix only has value if it reflects reality — an optimistic matrix hides exactly the single-point-of-failure risk it exists to catch.
 - **Treating 'L' (learned) as good enough coverage.** — Learned isn't the same as able to work unsupervised — a skill where everyone is still at L has no real redundancy yet, even though it looks staffed.
+- **Finding the gaps and stopping there, with no trainer or date against them.** — A gap with nobody named to close it stays open until the absence that exposes it. Each short skill needs a person, a trainer and a date.
 - **Building the matrix once and never updating it as people leave or skills change.** — A stale matrix gives false confidence — treat it as a living record, updated whenever training status actually changes.
 
 ## What it connects to

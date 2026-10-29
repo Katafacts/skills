@@ -38,14 +38,14 @@ Not when:
 
 ## What good looks like
 
-The example below is a B2B SaaS team's onboarding feedback: nine real quotes across four themes, a tally showing onboarding friction as the dominant cluster, and next steps that trace directly to specific themes rather than a generic 'listen to customers more' resolution.
+The example below is a B2B software team's evidence on new accounts' first 30 days: 14 quotes from 11 accounts across four themes, a tally showing onboarding friction as the dominant cluster (6 of 14 entries, about 43%, heard in interviews, a ticket, the survey and a go-see), and next steps that trace directly to specific themes rather than a generic 'listen to customers more' resolution.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/voc-evidence-log
 
 ## Common mistakes
 
 - **Summarizing or paraphrasing away the customer's actual words before logging the entry.** — The point of an evidence log is that every theme traces back to something a real customer actually said — a summarized entry can't be checked against the source anymore, which is exactly what makes evidence more trustworthy than an impression.
-- **Treating every theme with any entries as worth acting on.** — Same vital-few discipline as every other artifact in this catalogue — the top few themes with real weight beat a flat list of everything anyone ever said once.
+- **Treating every theme with any entries as worth acting on.** — The top few themes with real weight beat a flat list of everything anyone ever said once.
 - **Splitting near-duplicate themes ("onboarding is slow" and "setup takes too long") instead of merging them.** — Inconsistent theme labels understate how big a real cluster actually is — two 3-entry themes that are really the same issue look like two minor patterns instead of one major one.
 
 ## What it connects to

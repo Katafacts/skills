@@ -12,7 +12,7 @@ Family: Voice of the customer · Format: .xlsx · Domain: core
 
 ## What it is
 
-Every other VOC artifact in this catalogue works from evidence that already exists — the collection plan is what makes sure that evidence keeps showing up. State what you want VOC evidence to eventually answer, and a real plan gets drafted: which method (interviews, go-see sessions, ticket tagging, surveys), who owns it, how often it happens, and exactly how its output reaches the evidence log. Any goal with no real activity behind it yet is named directly, not silently left uncovered.
+Most customer-evidence tools work from evidence that already exists; the collection plan is what makes sure that evidence keeps showing up. State what you want VOC evidence to eventually answer, and a real plan gets drafted: which method (interviews, go-see sessions, ticket tagging, surveys), who owns it, how often it happens, and exactly how its output reaches the evidence log. Any goal with no real activity behind it yet is named directly, not silently left uncovered.
 
 ## When to use it
 
@@ -38,7 +38,7 @@ Not when:
 
 ## What good looks like
 
-The example below plans standing collection for four goals using the exact instruments built elsewhere in this catalogue — customer interviews, support ticket tagging, and a go-see protocol — and honestly leaves the fourth goal (why enterprise deals stall) with no activity yet, naming the win-loss interview guide as the natural next step rather than forcing a weak activity onto it.
+The example below plans six months of standing collection for one group, small-business accounts in their first year, against four goals. Four activities feed the evidence log: monthly customer interviews, weekly support ticket tagging, a quarterly survey question, and a weekly go-see shift on the support desk with an extra shift after any spike. Each sample carries its unit and samples are only added up within a kind of method. The fourth goal, why first-year accounts cancel before renewal, honestly has no activity yet, so it gets a next step with an owner and a date rather than a weak activity forced onto it.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/voc-collection-plan
 
@@ -46,7 +46,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 - **Writing an activity that's really just 'gather more feedback' restated.** — A real method with a real cadence and a real evidence-flow step is what actually keeps the evidence log fed — a vague activity produces nothing to log.
 - **Treating a coverage gap (a goal with no activity) as good enough to ship.** — A goal with no real collection activity behind it is still just a question, not a plan to answer it — the whole point of this tool is surfacing that gap honestly.
-- **Building the plan once and never revisiting it as goals change.** — A collection plan is a standing practice, not a one-time document — re-run it as new goals emerge or old ones get answered, the same way any other artifact in this catalogue gets re-run when the underlying situation changes.
+- **Building the plan once and never revisiting it as goals change.** — A collection plan is a standing practice, not a one-time document — re-run it as new goals emerge or old ones get answered.
 
 ## What it connects to
 

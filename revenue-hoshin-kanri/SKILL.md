@@ -12,7 +12,7 @@ Family: Hoshin Kanri · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-A revenue Hoshin Kanri is the same X-Matrix — long-term objectives, this year's annual objectives, the strategies that move them, the metrics that prove it, catchball negotiating all of it — pointed at revenue direction instead of a factory floor. The lean connection matters here specifically because Hoshin closes the loop the other two commercial artifacts open: a deal A3 finds a specific root cause, a funnel value stream map finds a specific bottleneck, and a revenue Hoshin is where those findings actually become this year's committed strategies with owners and targets, not just conclusions in a slide nobody revisits. The operating loop behind every kata here — direction, then the gap, then the fix, with results feeding the next planning cycle — applies to a revenue org exactly as it applies to a shop floor.
+A revenue X-matrix puts a revenue plan on one page: two or three long-term objectives, this year's objectives with a baseline and a target, the strategies that will move them, the metrics that prove it, and catchball, the record of how each target was negotiated with the people who have to hit it. It is where findings from diagnostic work, such as a win-rate root cause or a slow funnel stage, become this year's committed strategies with owners and targets, instead of conclusions in a slide nobody revisits. Each month, owners review their metrics against target and agree what to change.
 
 ## When to use it
 
@@ -31,38 +31,37 @@ Not when:
 ## How to fill it in
 
 - **trueNorth** — Write one or two sentences on why this revenue plan exists beyond hitting a number. Every objective on the page should trace back to it; if you can't draw that line for an objective, it doesn't belong here.
-- **longTermObjectives** — Write where revenue needs to be in three to five years, each with a checkable target. "Grow net revenue retention from 98% to 115%" is checkable; "become customers' most trusted partner" isn't.
-- **annualObjectives** — Write what has to be true by year-end to be on track for the long-term objectives. Where you have one, carry a finding straight in — a deal A3's root cause or a funnel value stream map's bottleneck — so this year's committed target comes from the analysis that found the gap.
-- **catchball** — Record who proposed each annual objective, how the people who'd deliver it pushed back, and what was finally agreed. An objective never negotiated with frontline reps or RevOps is a wish, not a commitment — and it usually means the target ignores how long a fix takes to roll out and take effect.
-- **strategies** — List the initiatives that will move the annual objectives, each with a named owner. Often these are the countermeasures from a deal A3 or funnel value stream map, promoted from a bounded fix to a resourced strategy; a strategy with no owner doesn't happen.
-- **metrics** — List what you'll track to know the strategies are working, each with a target. Win rate, stage wait time and retention are the natural revenue metrics here — pull them from the same CRM data a deal A3 or funnel map would use, not a separate estimate.
-- **correlations** — Mark which long-term objectives each annual objective supports, which metrics track each objective, which strategies move each metric, and which strategies support which long-term objectives — primary, secondary or weak. Leave a pair blank when there's no real connection; a fully shaded grid means the connections weren't actually thought through.
+- **longTermObjectives** — Write where revenue needs to be in three to five years, each with a baseline, a target and an owner. "Grow net revenue retention from 98% to 115%" is checkable; "become customers' most trusted partner" isn't. Net revenue retention is this year's revenue from last year's customers, including upgrades and minus downgrades and losses, as a share of what they paid last year.
+- **annualObjectives** — Write what has to be true by year-end to be on track for the long-term objectives, each as an outcome with a baseline: "lift win rate from 21% to 30%", not "launch an expansion motion". Where you have one, carry a finding straight in — a deal A3's root cause or a funnel value stream map's bottleneck — so this year's committed target comes from the analysis that found the gap.
+- **catchball** — Record who proposed each annual objective, how the people who'd deliver it pushed back, and what was finally agreed. An objective never negotiated with frontline reps or revenue operations (the team that runs the customer relationship management (CRM) system, pricing rules and sales data) is a wish, not a commitment — and it usually means the target ignores how long a fix takes to roll out and take effect.
+- **strategies** — List the initiatives that will move the annual objectives, one change per line, each with a named owner and a target that says when it is done. Often these are the countermeasures from a deal A3 or funnel value stream map, promoted from a bounded fix to a resourced strategy; a strategy with no owner doesn't happen.
+- **metrics** — List what you'll track to know the strategies are working, each with a target and an owner who reports it each month. Win rate, stage wait time and retention are the natural revenue metrics here — pull them from the same CRM data a deal A3 or funnel map would use, not a separate estimate.
+- **correlations** — Mark which long-term objectives each annual objective supports, which metrics track each objective, which strategies move each metric, and which strategies support which long-term objectives — primary, secondary or weak. Leave a pair blank when there's no real connection; a fully shaded grid means the connections weren't actually thought through. There is no grid between this year's objectives and the strategies: a strategy serves the objectives its metrics track, so a strategy that moves no metric is flagged.
 
 ## What good looks like
 
-The example below is a full worked revenue X-Matrix: long-term objectives (net revenue retention, an outbound growth channel) and annual objectives with real targets — including two that trace directly to the deal A3 and funnel value stream map worked examples elsewhere in this catalogue — a catchball record showing the negotiation behind those targets, strategies with named owners, metrics with targets, and a correlation grid that's honest about which connections are strong and which are weak.
+The example below is a software company's revenue plan for April 2026 to March 2027. Its three objectives each start from a baseline: win rate from 21% to 30% (from a deal review that found deals leaving discovery with one contact), proposal wait from 7 days to 3.5 (from a funnel map that found pricing approval was the longest wait), and net revenue retention from 98% to 104%. Each was cut back in catchball from a higher first proposal. Four strategies, one change each, and three metrics all have an owner and a target, and the grid leaves blank the links nobody could defend.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/revenue-hoshin-kanri
 
 ## Common mistakes
 
-- **Objectives read like a mission statement instead of a target — "delight our customers" instead of a number.** — If two people could reasonably disagree about whether it was achieved, it isn't specific enough to plan against. "Grow NRR from 98% to 115%" is checkable; "delight our customers" isn't.
+- **Objectives read like a mission statement instead of a target — "delight our customers" instead of a number.** — If two people could reasonably disagree about whether it was achieved, it isn't specific enough to plan against. "Grow net revenue retention from 98% to 115%" is checkable; "delight our customers" isn't.
 - **Annual objectives are set without reference to an actual root-cause finding — a target picked because it sounds ambitious, not because a deal A3 or funnel map showed where the real gap is.** — A revenue Hoshin disconnected from real diagnostic work is a forecast wrapped in a planning document, not a plan — it commits to an outcome without committing to the specific mechanism that would produce it.
-- **The correlation matrix is fully shaded — every objective connects to every strategy.** — Same failure mode as the canonical X-Matrix: a matrix that dense means the correlations weren't actually thought through. Which connections are weak or absent is the useful information.
-- **Catchball is skipped and the target goes straight from an executive offsite to the matrix.** — The reps and RevOps staff who'd actually have to hit the number never got to pressure-test whether the rollout timeline makes it achievable — exactly what happened when 35% was proposed before catchball corrected it to 30% in the worked example.
-- **A strategy has no owner, or a metric has no target.** — An unowned strategy or untargeted metric is a line on a page, not a commitment — this is what the specificity check exists to catch.
+- **The correlation matrix is fully shaded — every objective connects to every strategy.** — Same failure as on any X-matrix: a matrix that dense means the links weren't actually thought through. Which connections are weak or absent is the useful information.
+- **Catchball is skipped and the target goes straight from an executive offsite to the matrix.** — The reps and revenue operations staff who'd actually have to hit the number never got to pressure-test whether the rollout timeline makes it achievable — exactly what happened when 35% was proposed before catchball corrected it to 30% in the worked example.
+- **A strategy or metric has no owner, or no target.** — A strategy or metric with no owner or no target is a line on a page, not a commitment — the check column flags it so it gets fixed before the plan is agreed.
 
 ## What it connects to
 
 Upstream:
 
 - **SWOT (strengths, weaknesses, opportunities, threats) analysis** (`swot-analysis`) — Where the revenue team really stands, with evidence, before choosing the year's revenue objectives.
-- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — A deal A3's root cause is exactly the kind of specific finding an annual objective should trace to — the worked example here sets its win-rate target directly from the deal A3's finding, not independently of it.
-- **Sales funnel value stream map** (`sales-funnel-map`) — A funnel map's capacity constraint or largest wait contributor is the other natural input to an annual objective — this worked example's proposal-wait target comes straight from the funnel map's finding.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — A deal A3's root cause is the kind of specific finding an annual objective should trace to; the example's win-rate target comes from one. Later in the year, when a strategy isn't moving its metric, a deal A3 is also how you find out why.
+- **Sales funnel value stream map** (`sales-funnel-map`) — A funnel map's slowest stage or largest wait is the other natural input to an annual objective; the example's proposal-wait target comes from one.
 
 Downstream:
 
-- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — When a strategy on the X-Matrix isn't moving its metric, a deal A3 is the right tool to find out why for a specific segment — Hoshin sets the direction, the deal A3 closes the specific gap.
 - **Pipeline review cascade** (not in the catalogue yet) — Tracks the metrics named here cadence by cadence — the X-Matrix sets what to watch; the pipeline board is where the team actually watches it between business reviews.
 - **Revenue cascade map** (not in the catalogue yet) — Shows how this X-Matrix's annual objectives become real, committed work inside a specific pod or function — the mechanism that makes this plan cascade through the commercial org rather than living at the leadership level.
 

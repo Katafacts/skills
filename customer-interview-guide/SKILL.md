@@ -31,13 +31,14 @@ Not when:
 ## How to fill it in
 
 - **researchGoal** — Write the one thing you're trying to learn, as specifically as you can: "understand why onboarding takes longer than expected" gives you sharper questions than "understand the customer experience." If you can't say what decision the answers will feed, narrow the goal first.
-- **topics** — List three to five topics, and under each write open questions about what the customer actually did last time ("walk me through the last time you…"), with a follow-up probe or two. Cut any question that asks them to predict, rate or design a solution — what people did is evidence; what they say they'd do usually isn't.
+- **session** — Set the session length, then write the opening and the close with minutes for each. The opening says who you are, why you're asking, that there are no wrong answers, and asks permission to take notes or record. The close asks what you should have asked, who else to talk to, and whether you can follow up.
+- **topics** — List three to five topics with minutes for each, so the opening, topics and close fit the session; the timing check says if you're over. Under each topic write open questions about what the customer actually did last time ("walk me through the last time you…"), with a follow-up probe or two. Cut any question that asks them to predict, rate or design a solution. In the interview, write what they said beside each question, in their own words where you can.
 - **reminders** — Write a few reminders to read just before the interview: listen more than you talk, ask for a specific recent example, follow the surprise rather than the script, and don't pitch or defend. Keep only the ones that matter for this conversation.
 - **narrative** — Write a short note on how to run this conversation: how to open, which topic matters most if time runs short, and what to listen for that would answer your research goal.
 
 ## What good looks like
 
-The example below is a general onboarding-discovery guide: four topics building from background through to open frustrations, real follow-up probes within each topic, and interview-technique reminders grounded in the coaching stance this whole product tries to model — ask before answering, let silence sit.
+The example below is a 30-minute onboarding-discovery interview: a 3-minute opening that asks consent to take notes, four topics building from background through to open frustrations with 24 minutes between them, and a 3-minute close, so the plan fits the session exactly. Each topic has real follow-up probes, and the reminders keep the interviewer asking before answering and letting silence sit.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/customer-interview-guide
 
@@ -45,7 +46,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 - **Writing questions that are really statements looking for agreement.** — "Wasn't onboarding frustrating?" plants the answer before the customer has said anything — open-ended questions surface what's actually there, leading questions confirm what you already believe.
 - **Treating the question list as a script to read verbatim rather than a guide to work from.** — The real value of an interview comes from the follow-up that isn't written down — a rigid script misses exactly the specific detail a genuine 'tell me more' would surface.
-- **Covering too many topics to go deep on any of them.** — Same vital-few discipline as everywhere else in this catalogue — a focused guide that goes deep on three topics beats a shallow pass across eight.
+- **Covering too many topics to go deep on any of them.** — A focused guide that goes deep on three topics beats a shallow pass across eight.
 
 ## What it connects to
 

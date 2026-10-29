@@ -12,7 +12,7 @@ Family: Standard work · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-Discovery call standard work is the same three-column job instruction as the canonical version — major steps, key points (a specific technique, not a generic prompt), and the reason each one matters — pointed at a sales discovery call instead of a shop-floor task. The lean connection: a discovery call is where the voice-of-customer evidence an eventual deal A3 or value hypothesis depends on actually gets gathered, and it fails the same way an untrained go-see walk does — without a repeatable technique, a rep skips the exact question that would have surfaced the real problem.
+Discovery call standard work gives every rep the same proven plan for a first sales call: the stages of the call in order, the words to use at each, a time box for each, the technique behind each step and why it matters, and the outcome the call must end with. A newer rep runs the call the way your best rep does, and a missed compelling event or an unknown decision-maker gets caught on the call instead of at the end of the quarter.
 
 ## When to use it
 
@@ -31,19 +31,19 @@ Not when:
 ## How to fill it in
 
 - **purpose** — Write what this call needs to establish and why it matters for how the deal moves afterward — for example, confirming there's a real, funded problem and who decides. Keep it to one or two sentences; every step below should serve it.
-- **steps** — List the major steps of the call in order, each as a short verb-led phrase. Under each step add the key points — what makes the step work — and for every key point, the reason it matters. Write them from listening to your best calls, not from memory; a step with no key point yet is fine, but mark it so it gets filled.
+- **steps** — List the stages of the call in order, each as a short verb-led phrase. For each, write what to say or ask in the rep's own words (a line to adapt, not a script to read), and a time box in minutes that adds up to the length of the call; put most of the minutes on the stages that decide whether there is a deal. Under each stage add the key points — the technique that makes it work — and for every key point, the reason it matters. Write them from listening to your best calls, not from memory; a stage with no key point yet is fine, but mark it so it gets filled. Finish with the call's outcome: what must be true when the call ends, such as a named compelling event, the buyer's own cost estimate and a next meeting in both diaries.
 - **narrative** — Write a short summary of how the call runs and the one or two key points that matter most, so anyone reading it just before a call knows what to focus on.
 
 ## What good looks like
 
-The example below is a mid-market new-business discovery call — four of five steps carry a real technique and reason, and the close step is honestly left flagged rather than padded with a generic 'schedule next steps' instruction.
+The example below is a 30-minute first call with a mid-market prospect: five stages with time boxes of 3, 10, 8, 7 and 2 minutes, words to use at each, and seven key points with their reasons. Most of the time goes on the compelling event and the cost of doing nothing, the decision stage maps who signs off and who has said no before, and the call must end with a next meeting booked in both diaries.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/discovery-standard-work
 
 ## Common mistakes
 
 - **Writing a key point that's really just a question to ask, with no technique behind it.** — 'Ask about their timeline' isn't a technique — it's the topic. The technique is how to ask it so the answer is real instead of a polite deflection.
-- **Treating every discovery call as needing the exact same script regardless of deal size or segment.** — A rigid script that ignores what's actually different about an enterprise vs. a mid-market conversation produces the same failure work instructions warn against everywhere else in this catalogue: steps a person follows without judgement.
+- **Treating every discovery call as needing the exact same script regardless of deal size or segment.** — A rigid script that ignores what's actually different about an enterprise vs. a mid-market conversation produces steps a rep follows without judgement, which is exactly what standard work is meant to prevent.
 - **Skipping the cost-of-inaction step because it feels pushy.** — Without a number the buyer calculates and defends themselves, the eventual business case has nothing real to stand on — this step isn't optional, it's where that evidence gets created.
 
 ## What it connects to

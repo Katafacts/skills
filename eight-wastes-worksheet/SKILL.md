@@ -20,7 +20,7 @@ Use it when:
 
 - You're walking a real process — shop floor or office — and want to record what you actually see, tagged consistently, instead of a running list of complaints.
 - You want an honest tally showing which waste category actually dominates, not a gut feeling about what's probably the biggest problem.
-- You're kicking off an improvement event or a Transactional Process Improvement (TPI) review and need real evidence of where the waste is before committing to what to fix.
+- You're kicking off an improvement event or a process review and need real evidence of where the waste is before committing to what to fix.
 
 Not when:
 
@@ -37,7 +37,7 @@ Not when:
 
 ## What good looks like
 
-The example below walks Meridian Business Services' vendor invoice approval process: seven real observations concentrated in Waiting and Extra-processing, with Overproduction and Transportation honestly left at zero because this all-digital process genuinely doesn't produce either.
+The example below walks a business services firm's invoice approval process: eight observations across seven of the eight wastes, worth about 96 staff hours a month by the team's own estimates. Two findings lead on hours: re-typing data that is already available as a download (27 hours, extra-processing) and a supervisor with improvement experience doing manual matching (25 hours, non-utilized talent). Waiting is the most frequent waste, and transportation turns up even in a digital process, as each item is forwarded three times between inboxes. Overproduction was looked for and not found, and is marked as checked. Each next step names the observation it removes.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/eight-wastes-worksheet
 

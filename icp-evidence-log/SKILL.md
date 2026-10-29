@@ -12,7 +12,7 @@ Family: Voice of the customer · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-An ICP evidence log is the same clustering discipline as the VOC evidence log — a theme drafted per entry, freely reassignable, with the tally recomputing live — pointed at win/loss call notes, discovery-call excerpts, and competitor mentions instead of product-feedback quotes. The lean connection for ICP is voice of the customer applied to "specify value — lean's step one": an ICP canvas built from assumption instead of real deal evidence is exactly the impression-not-data mistake this catalogue's own discipline exists to catch everywhere else.
+An ICP evidence log is the same clustering discipline as the VOC evidence log — a theme drafted per entry, freely reassignable, with the tally recomputing live — pointed at win/loss call notes, discovery-call excerpts, and competitor mentions instead of product-feedback quotes. It matters because an ideal customer profile written from assumption describes the customer you hope for; one built from what happened in real won and lost deals describes the customer you actually win.
 
 ## When to use it
 
@@ -31,22 +31,22 @@ Not when:
 ## How to fill it in
 
 - **scope** — Say which deals or accounts this evidence covers and what prompted collecting it — sharpening the ICP canvas, testing anti-ICP disqualifiers, or something else. A clear boundary keeps unrelated deals out of the themes.
-- **entries** — Enter each win or loss note, discovery excerpt or competitor mention you've gathered, with its source, source type and date. Copy the actual words where you can; a summary loses the detail that makes a pattern visible.
+- **entries** — Enter each win or loss note, discovery excerpt or competitor mention you've gathered, with its source, source type and date. Copy the actual words where you can; a summary loses the detail that makes a pattern visible. Mark each entry won or lost by how its deal ended, so every pattern gets a win rate, and log each deal only once per pattern so the win rate counts deals, not repeated quotes.
 - **themeSummary** — Give each entry a theme, then read the themes across all the entries; the tally updates as you reassign them. Name each theme in plain words taken from the evidence, and treat a theme with only one or two entries as a hint, not a pattern.
 - **narrative** — Write a few sentences on what the top themes suggest about who your ideal customer is — and who it isn't. Use only what the entries show.
 - **nextSteps** — List what the team will do with this — update the ICP canvas, add a disqualifier, change a qualification step — ranked by impact and effort, each with an owner and a date.
 
 ## What good looks like
 
-The example below clusters nine win/loss and discovery-call entries into four themes: a positive trigger signal (already-outgrown spreadsheet workarounds), a strong predictor of a clean close (an exec sponsor engaged early) paired with its inverse failure pattern (a stalled single-threaded champion), and two smaller but real anti-ICP signals — a company-size floor and an unplanned enterprise security-review gap.
+The example below clusters 14 entries from the first quarter of 2026 (10 accounts and a trial group, 7 entries from won deals and 7 from lost) into five patterns: a buying trigger (outgrowing spreadsheet workarounds, 3 of 4 entries won), the strongest fit signal (an exec sponsor engaged early, 3 of 3 won) and its opposite (stalled on a single champion, 0 of 3), a company-size floor (teams under 20 staff never converted), and an unplanned security review that is a gap in the seller's own process rather than a customer trait.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/icp-evidence-log
 
 ## Common mistakes
 
 - **Clustering win notes only, leaving losses out of the evidence set.** — A pattern that only explains why deals win says nothing about why similar-looking deals lose — the anti-ICP disqualifiers this evidence should feed depend on the loss entries just as much as the wins.
-- **Treating a single memorable deal as a pattern.** — Same vital-few discipline as every other artifact in this catalogue — one vivid story isn't a cluster; it needs enough independent entries to mean something beyond one account's specifics.
-- **Pulling quotes from memory instead of the actual call notes or customer relationship management (CRM) system's history.** — A pattern built from what a sales leader remembers inherits every bias in that memory — the same reason every other evidence-gathering artifact in this catalogue insists on real notes, not recall.
+- **Treating a single memorable deal as a pattern.** — One vivid story isn't a cluster; it needs enough independent entries to mean something beyond one account's specifics.
+- **Pulling quotes from memory instead of the actual call notes or customer relationship management (CRM) system's history.** — A pattern built from what a sales leader remembers inherits every bias in that memory. Work from real notes, not recall.
 
 ## What it connects to
 

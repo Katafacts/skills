@@ -30,13 +30,13 @@ Not when:
 ## How to fill it in
 
 - **scopeNotes** — Say which ideas or hypotheses this log covers — a campaign, a product area, a quarter. A clear boundary tells you which tests belong here.
-- **hypotheses** — List every hypothesis you want tracked, including ones you haven't tested yet. Write each as something a test could prove wrong — "a shorter form will raise sign-ups", not "improve the form".
-- **tests** — For each test, write which hypothesis it relates to, the type of test, what actually happened, and your recommendation: keep, revise or kill. Take the result from the data or the people who ran the test, and record it even when it disappoints — a failed test is still something learned.
+- **hypotheses** — List every hypothesis you want tracked, including ones you haven't tested yet. Write each as something a test could prove wrong, with a direction and a size — "a shorter form will raise sign-ups by a fifth", not "improve the form".
+- **tests** — For each test, write the prediction first, before you run it: what you expect to see, and how big, if the hypothesis is right. Then say how big the test is (how many, over how long), what actually happened and whether the prediction held. Take the result from the data or the people who ran the test, and record it even when it disappoints — a failed test is still something learned. Finish with what you learned, your decision (keep, revise or kill) and the next test it points to.
 - **narrative** — Write a few sentences on what the log shows: which hypotheses held, which failed, and which have never been tested. Use only what's recorded.
 
 ## What good looks like
 
-The example below tests two hypotheses already circulating about Line 2's changeover performance — including the exact sequencing-rule claim the attribution reality check found unverified and the evidence register logged as unproven — with a third hypothesis honestly left untested, continuing the evidence register's own flagged gap.
+The example below tests two of three claims about Line 2's recovery, one on on-time shipments and one on changeover time, each with its prediction written first. Switching the sequencing rule off on one shift for a week dropped that shift's on-time rate to 81% (38 of 47 shipments) while the other shift held at 93%, so the prediction held and the rule stays. A new cleaning fixture cut changeovers from 45 to 41 minutes against a predicted 38, on 8 changeovers with one operator, so it is revised and re-tested with all three operators. The third claim, that keeping the queue board current cuts unplanned changeovers from about three a shift to two or fewer, hasn't been tested yet.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/learning-log
 

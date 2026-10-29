@@ -34,10 +34,11 @@ Not when:
 - **soft-red-flags** — List the warning signs that predict trouble but shouldn't kill a deal on their own, and for each one write the specific next step when it shows up. A flag with no next step is either a disqualifier or not worth listing.
 - **process-red-flags** — List the timing or buying-process patterns that have come before a bad outcome, whatever the account looks like on paper — no access to whoever signs, say, or a deadline set by someone outside the deal. Write only patterns you've seen in your own deal history.
 - **churn-patterns** — Write the real reasons customers have left, taken from cancellation records, exit notes or the account team — not a guess. Group repeats together: one reason that shows up five times matters more than five that show up once.
+- **screening-checklist** — Turn the boxes into a screening checklist: one row per signal with its type (hard, soft or process), the question or check that reveals it, when in the deal it shows up, what to do, and the evidence (how many lost or churned deals showed it). A signal with no count behind it is flagged until something backs it. To screen a live deal, name it and answer Yes, No or Not checked for every signal: any hard disqualifier present ends the deal, a soft or process flag means act on its countermeasure.
 
 ## What good looks like
 
-The example below is deliberately built from real deal evidence rather than assumption, splitting genuine firm disqualifiers from softer red flags that call for a specific countermeasure — and it shows the same single-threaded-champion failure pattern appearing on both sides of the sale, once as a pre-sale red flag and again as a post-sale churn pattern.
+The example below splits three firm disqualifiers from two softer red flags and one process red flag, each with a countermeasure and a count of the lost deals that showed it (a single champion with no route to the buyer was behind 3 of the 5 lost deals in the quarter, and none of the wins). One soft flag has no count yet and is flagged as an opinion. The same single-champion pattern shows up again after the sale, as a churn pattern. Screened against a live deal, no disqualifier is present and one soft flag is, so the verdict is to proceed with its countermeasure.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/anti-icp
 

@@ -30,7 +30,7 @@ Not when:
 
 ## How to fill it in
 
-- **kpis** — List the few KPIs that matter to this function, each with a target for every period and a jump-off point (JOP): the last real measurement before the plan began. Enter each actual from the system of record as the period closes, never an estimate. The Gap row is calculated — don't type it; check it reads as the target minus the actual.
+- **kpis** — List the few KPIs that matter to this function, each with a target for every period and a jump-off point (JOP): the last real measurement before the plan began. Enter each actual from the system of record as the period closes, never an estimate. The Gap row is calculated — don't type it; it reads as the actual minus the target, so a minus sign means below target.
 - **coverage** — Calculated from your KPIs once actuals are entered — don't type it; check it matches the reds and greens you can see on the board.
 - **abnormalities** — Log one whenever a period comes in red: the cause you saw first-hand where the work happens, and the root cause you reached by asking why until you hit something you can change. Write what you found, not a guess.
 - **countermeasures** — Give every red at least a containment action — something fast that protects delivery now — with an owner and a note on what's being done. Add a permanent countermeasure that fixes the root cause once you understand it.
@@ -38,7 +38,7 @@ Not when:
 
 ## What good looks like
 
-The example below is a fabrication cell's quality board: a full twelve-month bowler read in April, so eight months are still to come and sit white. First-pass yield has missed two months running, and the first containment closed on time but didn't hold, so a permanent countermeasure is open. Scrap rate had a single red month that got the same treatment — logged, root-caused and countermeasured — before it came back under plan. On-time delivery shows the fourth colour: February is blue because the month closed and the number was never posted, so its year-to-date (YTD) figure averages three months, not four. With only four monthly points, no trend is called; every measure stays on a run chart.
+The example below is a surface-mount electronics assembly cell's quality board: a full twelve-month bowler read once April has closed, so eight months are still to come and sit white. First-pass yield has missed two months running, and the first containment closed on time but didn't hold, so a permanent countermeasure is open. Scrap rate had a single red month that got the same treatment — logged, root-caused and countermeasured — before it came back under plan. On-time delivery shows the fourth colour: February is blue because the month closed and the number was never posted, so its year-to-date (YTD) figure averages three months, not four. With only four monthly points, no trend is called; every measure stays on a run chart.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/performance-board
 
@@ -47,7 +47,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 - **Letting a red pass with no response because it "looks like a one-off".** — Every red gets containment and a note on what's being done — that's how the board protects the customer while you learn more. Whether a miss is a one-off can't be judged from a single point or two in a row; it needs a run chart with enough history.
 - **Treating two reds in a row as proof of a real change, or one red followed by a green as proof it was just noise.** — A couple of points can't separate ordinary ups and downs from a genuine shift. Judge trends on a run chart, and don't credit a countermeasure for a recovery until the run chart shows it holding.
 - **Logging an abnormality's cause from a guess instead of direct go-see observation.** — A root cause written from speculation is usually wrong, and a countermeasure built on the wrong root cause doesn't actually fix anything — go and look before writing the cause down.
-- **Tracking so many KPIs that none of them get real attention at the review cadence.** — The vital few discipline applies here the same as everywhere else in this catalogue — a shorter list that genuinely gets discussed beats a long one that gets skimmed.
+- **Tracking so many KPIs that none of them get real attention at the review cadence.** — Keep to the vital few: a shorter list that genuinely gets discussed beats a long one that gets skimmed.
 
 ## What it connects to
 

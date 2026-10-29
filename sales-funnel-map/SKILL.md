@@ -12,7 +12,7 @@ Family: Value stream mapping · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-A sales funnel is a value stream — not something value stream mapping merely applies to, but structurally the same thing. Stage conversion is first-pass yield: a deal that doesn't advance is a defect the same way a part failing inspection is. A stalled deal sitting between two stages is work-in-process inventory, with all the same costs — capital tied up, quality risk, and a signal something's obstructing flow. Stage time is lead time. This is the strongest of the commercial lens mappings for exactly that reason: almost nobody in revenue teams runs this arithmetic on their own funnel, even though the customer relationship management (CRM) system already has every number it needs.
+A sales funnel map lays your pipeline out stage by stage, from qualified lead to signed contract: how long reps actually work each deal at each stage, how long deals sit waiting before the next one, what share is lost at each stage, and how many deals wait in the queue. From that it works out how long a typical deal really takes, what share of that time anyone is working on it, where deals wait longest, and, given how many deals you need to win, how many rep hours each stage needs a month. The customer relationship management (CRM) system already holds every number it needs.
 
 ## When to use it
 
@@ -31,18 +31,18 @@ Not when:
 ## How to fill it in
 
 - **scope** — State what's in and out in a sentence or two — which deal source or segment, which start and end stage (typically sales-qualified lead to closed-won or closed-lost). A funnel mapped with no stated boundary quietly blends every deal type into numbers that describe none of them.
-- **steps** — List each pipeline stage in order with its process time (time actually being worked — calls, writing proposals) and wait time after it (time stalled before the next stage starts). Hours or days both work. Add a defect rate (the % of deals that don't advance — your stage conversion loss, inverted) and a work-in-progress count (deals currently stalled at that boundary) only where your CRM actually has the data — leave them out rather than estimate.
-- **demand** — Optional. Enter how many deals the team needs to move through per week or month and the selling time available. Takt is the pace the funnel has to hit, stages slower than it get flagged, and stalled deals show up as weeks of demand sitting in the pipeline.
+- **steps** — List each pipeline stage in order with its process time (time actually being worked — calls, writing proposals) and wait time after it (time stalled before the next stage starts). Hours or days both work. Add the reps working each stage, the share of deals lost at the stage (lost %), and the number of deals waiting after it, only where your CRM actually has the data — leave them out rather than estimate.
+- **demand** — Optional, but worth it. Enter how many deals the team needs to win per week or month and the selling hours available. Working back through each stage's lost %, the map shows how many deals each stage must take in and move on per period to hit that number, the rep hours each stage needs (deals in × rep time per deal), and waiting deals as weeks or months of demand.
 - **map** — Drawn from the stages — don't draw it by hand; check each box and queue against your stage data. Each stage is a box, stalled deals are queues between them, and a timeline makes the waiting impossible to miss. To change the picture, change the stage data.
-- **metrics** — Calculated from the stage data — don't type them; check the lead time against how long a typical deal really takes to close. A funnel's flow efficiency is usually strikingly low, often single digits, because a deal spends almost all its time waiting rather than being worked; that's not a bug in the calculation, it's the finding. The capacity constraint is the stage that needs the most active work per deal.
-- **wasteFindings** — Waiting, inventory (stalled deals) and defects (conversion loss) are calculated from your stage data — don't type them; check them against the pipeline. Add the other five wastes only when your notes give them something concrete; for a funnel, unused talent and extra processing are the two worth watching for.
+- **metrics** — Calculated from the stage data — don't type them; check the lead time against how long a typical deal really takes to close. A funnel's flow efficiency is usually strikingly low, often single digits, because a deal spends almost all its time waiting rather than being worked; that's the finding, not a bug. With demand entered, read the rep hours per period, not rep time per deal: an early stage with short calls can still use the most selling time because it handles the most deals. The share of qualified leads that become contracts is the stages' advance rates multiplied together.
+- **wasteFindings** — Waiting, deals piling up and deals lost are calculated from your stage data — don't type them; check them against the pipeline. Add the other five wastes only when your notes give them something concrete; for a funnel, unused talent and extra processing are the two worth watching for.
 - **pareto** — Calculated from the stall time after each stage — don't type it; check the top stage is where deals really sit. If a few large deals matter more to the forecast than raw time, look at the stage conversion analysis alongside it.
 - **futureState** — Copy today's stages and redesign them — a shorter pricing approval, a cap on deals between demo and proposal — and the before-and-after table shows what the redesigned funnel would deliver in lead time, flow efficiency and conversion.
 - **countermeasures** — Rank by impact and effort, and name the specific finding each one addresses — the stage with the largest wait, the stage capping capacity, or a named conversion-loss finding. 'Reps should move faster' doesn't trace to a finding; a specific process gap at a specific stage does.
 
 ## What good looks like
 
-The example below is a full worked funnel analysis: real per-stage timing across a six-stage outbound pipeline, a lead time and flow-efficiency figure with the arithmetic shown, the stage that caps throughput and the stage where deals stall worst, waste findings that quantify conversion loss and stalled deals directly from the stage data, and countermeasures that each name the specific stage-level finding they close.
+The example below maps a six-stage outbound pipeline that must win 10 deals a month with 600 selling hours. A typical deal takes 502 hours from qualified lead to signature and is worked for 22 of them, a flow efficiency of 4.38%. The longest wait is the 168 hours after proposal and pricing, where non-standard pricing waits for two approvers; 22 deals sit waiting after the demo, over two months of demand; and only 17.40% of qualified leads become contracts. Working back from demand, lead qualification needs 57 leads a month and 115 rep hours, the most of any stage. Each countermeasure names the finding it closes.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/sales-funnel-map
 
@@ -50,9 +50,9 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 - **Stage timing comes from 'days since deal created' instead of actual stage-entry and stage-exit timestamps.** — Deal-age conflates every stage into one number and hides exactly where the time actually goes — the whole point of mapping the funnel is naming which stage is the problem, not confirming the pipeline overall feels slow.
 - **Every stage gets flagged as a bottleneck.** — Naming the one or two stages actually worth acting on beats cataloguing every stage with nonzero wait — the same vital-few discipline as any value stream map.
-- **Conversion loss (the defect rate) is estimated from a rep's gut sense of 'about half fall through' instead of pulled from CRM stage-history.** — Reps' recall skews toward memorable losses, not typical ones. The CRM's actual stage-transition history is the ground truth here, the same way direct observation is for a shop-floor value stream map.
+- **The share lost at each stage is estimated from a rep's gut sense of 'about half fall through' instead of pulled from CRM stage-history.** — Reps' recall skews toward memorable losses, not typical ones. The CRM's actual stage-transition history is the ground truth here, the same way direct observation is for a shop-floor value stream map.
 - **The pipeline segment mixes deal types with genuinely different natural cycles.** — A funnel mapped with no scope boundary blends a two-week self-serve deal and a six-month enterprise deal into an average that describes neither — same failure mode as an unscoped operational value stream.
-- **Countermeasures target the stage that's easiest to change organizationally, not the one the data names as the constraint.** — The capacity constraint or largest wait contributor is where the funnel actually loses time and deals. A politically easy fix elsewhere feels productive and moves nothing.
+- **Countermeasures target the stage that's easiest to change organizationally, not the one the data names as the constraint.** — The longest wait and the stage using the most rep hours are where the funnel actually loses time and deals. A politically easy fix elsewhere feels productive and moves nothing.
 
 ## What it connects to
 
@@ -63,7 +63,7 @@ Upstream:
 
 Downstream:
 
-- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — The funnel map's capacity constraint or largest wait contributor is exactly the kind of bounded, data-backed problem a deal A3 exists to close in depth.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — The funnel map's longest wait or heaviest stage is exactly the kind of bounded, data-backed problem a deal A3 exists to close in depth.
 - **Pipeline review cascade** (not in the catalogue yet) — Once a stage-level finding is named, it belongs on the team's regular pipeline review as a tracked leading indicator, not just re-measured once at quarter-end.
 
 ## Where AI helps
@@ -84,8 +84,8 @@ Drudgery — automated:
 
 - Computing lead time, flow efficiency, and every calculation shown alongside them
 - Drawing the funnel map and timeline from the stage data
-- Identifying the capacity constraint and the largest wait contributor from stage data
-- Quantifying stalled deals and conversion-loss (defect) waste wherever the CRM data supports it
+- Identifying the longest wait and the stage using the most rep hours from stage data
+- Quantifying waiting deals and deals lost at each stage wherever the CRM data supports it
 - Comparing a redesigned funnel with today's, measure by measure
 - Exporting to xlsx in the house format
 

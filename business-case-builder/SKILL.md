@@ -12,7 +12,7 @@ Family: Improvement events · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-A business case builder is the document your champion carries into their own budget conversation, without you in the room — the same discipline as the canonical business case, pointed at a deal instead of an internal investment. Cost of the status quo, what the deal actually costs, and a quantified value driver for each benefit, with payback period and 3-year ROI computed from those numbers rather than asserted. Every value driver carries how the number was derived and how confident you actually are in it, the same honesty discipline as a value hypothesis's proof points — a driver with nothing real behind it is named as a gap, not smoothed over to make the total look stronger.
+A business case builder is the document your champion carries into their own budget conversation, without you in the room. It works like any business case for an internal investment, pointed at a deal instead. Cost of the status quo, what the deal actually costs, and a quantified value driver for each benefit, with payback period and 3-year ROI computed from those numbers rather than asserted. Every value driver carries how the number was derived and how confident you actually are in it, the same honesty discipline as a value hypothesis's proof points — a driver with nothing real behind it is named as a gap, not smoothed over to make the total look stronger.
 
 ## When to use it
 
@@ -32,7 +32,7 @@ Not when:
 
 - **costOfInaction** — Write what staying with things as they are keeps costing the buyer, in money, time or risk, and why that matters before their next budget cycle closes. Use figures the buyer gave you in discovery, so their own finance team can trace them.
 - **investment** — List what the buyer will pay, line by line — license, implementation, services — split into one-time and ongoing costs. Take the figures from the real quote, and include the buyer's own internal costs such as staff time, because their finance team will add them if you don't.
-- **valueDrivers** — For each way the buyer gains — time saved, cost removed, revenue added — write the number, how you worked it out, and how confident you are in it. Ground each one in what the buyer said in discovery or in your value hypothesis; a driver you can't trace to their words is the first one their finance team will cut.
+- **valueDrivers** — For each way the buyer gains — time saved, cost removed, revenue added — write the number, how you worked it out, and how confident you are in it. Revenue is sales, not profit: count it at the buyer's gross margin and say where that margin came from. Ground each one in what the buyer said in discovery or in your value hypothesis; a driver you can't trace to their words is the first one their finance team will cut.
 - **roiSummary** — Calculated from the investment and value drivers — don't type it; check the payback and return make sense against the totals above, and if they look too good, recheck your least-confident driver.
 - **assumptions** — List what has to stay true for the numbers to hold — adoption, headcount, prices, timing. Write each one so your champion could defend it when the buyer's finance team asks, and flag any that nobody can check.
 - **narrative** — Write a short summary of the case in plain words: what waiting costs the buyer, what they invest, and the two or three drivers that carry the value. Point to the numbers on the sheet rather than restating them, so the words and the figures never disagree.
@@ -40,7 +40,7 @@ Not when:
 
 ## What good looks like
 
-The example below builds Northline Freight's business case directly on top of this catalogue's own value hypothesis for the same deal — rather than presenting the pilot's headline $310K figure as guaranteed value, it applies a named, conservative 25% recovery assumption and states that assumption explicitly. A third driver honestly stays at low confidence: it borrows the exact 'business case never quantified' failure pattern Beacon Analytics' own deal A3 found costing its own pipeline, applied speculatively to Northline's future renewals.
+The example below is Northline Freight's business case, built on the value hypothesis for the same deal. The pipeline driver takes the buyer's own $310K of pipeline lost to late discovery, counts only the quarter their head of revenue operations judged winnable ($77,500 of sales), and then only Northline's 30% gross margin on it: $23,250 a year. Forecast misses are left out, because the deals behind them are already in the $310K. Once margin is applied the case is thin, and it says so: a first draft at 20 seats never paid back, so the case is scoped to the 10 people who run pipeline review. At $24,000 a year plus $21,900 to set up, including the buyer's own staff time, it pays back in about 12 months. Neither driver carries it alone, which is why checking the RevOps hours is the first next step.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/business-case-builder
 
@@ -49,6 +49,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 - **Presenting a pilot or reference figure as guaranteed value instead of applying a real, named assumption to it.** — A prospect's own finance team will ask what makes this deal different from the reference case — a number with a stated, defensible assumption behind it survives that question; a borrowed headline figure doesn't.
 - **Padding the case with a low-confidence driver dressed up as certain.** — One number a skeptic can disprove gives them permission to doubt every other number in the case, including the strong ones.
 - **Omitting the cost of inaction and only pitching the upside.** — Without a real cost to staying put, there's no urgency in the case — the champion needs both halves of the argument, not just the half that flatters your product.
+- **Counting won-back or new sales as if every dollar were profit.** — Sales are not profit. The buyer's finance team will cut a revenue driver to their gross margin straight away, and a case that only worked at 100% margin falls apart in the meeting. Apply the margin yourself, and if the case stops paying back, re-scope it before anyone else finds out.
+- **Counting the same money under two drivers.** — Lost deals, forecast misses and slipped revenue are often the same deals seen three ways. The buyer's finance team will spot the overlap, so count each dollar once and say in the assumptions what you left out and why.
 
 ## What it connects to
 

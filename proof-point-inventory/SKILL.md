@@ -8,7 +8,7 @@ description: "Check which of your marketing claims are backed by real, checkable
 
 Check which of your marketing claims are backed by real, checkable proof, and which message pillars or claims still have none, so nothing ships as proven until it is.
 
-Family: Problem solving / root cause analysis · Format: .xlsx · Domain: commercial
+Family: Voice of the customer · Format: .xlsx · Domain: commercial
 
 ## What it is
 
@@ -36,7 +36,7 @@ Not when:
 
 ## What good looks like
 
-The example below continues the Beacon Analytics storyline directly from its own message architecture — the same three pillars, with two backed by real measured trial data, a third claim honestly marked unverified pending a direct buyer check, and the spreadsheet-trust pillar still carrying zero proof points, the same gap the message architecture itself already flagged.
+The example below logs five proof points against Beacon Analytics' three message pillars. None is better than moderate: the measured results all come from one customer, Northline Freight, and the $310K figure stays internal until Northline approves it. A rep's note about Meridian Logistics is second-hand and unchecked, a 2024 case study is past its refresh date and should be retired, and the trust-over-spreadsheet pillar has no proof at all.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/proof-point-inventory
 

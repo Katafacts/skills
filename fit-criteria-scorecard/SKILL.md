@@ -8,7 +8,7 @@ description: "Score prospect accounts on fit, buying triggers and access to the 
 
 Score prospect accounts on fit, buying triggers and access to the buying committee with weights you choose, and let the computed score and tier, not gut feel, say which account deserves the next call.
 
-Family: Problem solving / root cause analysis · Format: .xlsx · Domain: commercial
+Family: Problem definition · Format: .xlsx · Domain: commercial
 
 ## What it is
 
@@ -31,13 +31,13 @@ Not when:
 ## How to fill it in
 
 - **decision** — Say which accounts you're ranking and which list they came from — a territory, a segment, an event list. Rank one comparable list at a time.
-- **criteria** — List your criteria straight from your ICP canvas — company fit, technology fit, trigger strength, access to the buying committee — and weight each by how well it has predicted a win in your own deal history. Don't split the weights evenly by default; that says every criterion matters equally, which is rarely true.
+- **criteria** — List your criteria straight from your ICP canvas — company fit, technology fit, trigger strength, access to the buying committee — and weight each by how well it has predicted a win in your own deal history. Don't split the weights evenly by default; that says every criterion matters equally, which is rarely true. Mark each criterion as fit or as timing and access, so a well-fitting account with no trigger yet shows up as a timing gap, not a poor fit.
 - **options** — Score each account from 1 (weakest) to 5 (strongest) against every criterion, using what you actually know — your research, past conversations, your customer records. The composite score and tier are calculated — don't type them; check the top accounts make sense to the person who'd be calling them.
 - **narrative** — Write a few sentences naming which account deserves the next call and why, based on the ranking. Say where an account's score rests on a guess, so someone checks it before acting.
 
 ## What good looks like
 
-The example below scores three of a TAM coverage map's own tracked mid-market logistics accounts — including that map's own 'dark account' with zero contacts, which scores lowest here rather than being flattered by an even-handed score.
+The example below scores the ten mid-market logistics accounts on a segment's working list, from Harbor Line Freight at 80 down to Apex Distribution at 32, an account with no contact at all. Only Harbor Line and Summit Carriers reach priority, and four points apart they are too close to rank against each other. The score mixes fit with timing and access, so the sheet also scores each on its own: Crestway Transport and Bluewater Shipping fit best (90 each) but have no trigger yet, which is why they sit mid-list today and belong on next quarter's list.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/fit-criteria-scorecard
 

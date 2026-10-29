@@ -12,7 +12,7 @@ Family: Problem solving / root cause analysis · Format: .xlsx · Domain: core
 
 ## What it is
 
-An evidence register is a real, checkable answer to 'do we actually know that, or are we just saying it' — a fixed set of claim categories, and for each one, the real evidence (or lack of it) actually backing it. 'Management by fact, not opinion' is the whole discipline: a claim with no evidence logged, or evidence that's never been re-confirmed, is named directly rather than quietly treated as settled. Evidence can decay — a root-cause claim gets superseded by a more careful later analysis, a customer proof point ages — so `verified` is something the practitioner re-confirms, never assumed true forever once entered.
+An evidence register is a real, checkable answer to 'do we actually know that, or are we just saying it' — a fixed set of claim categories, and for each one, the real evidence (or lack of it) actually backing it. 'Management by fact, not opinion' is the whole discipline: a claim with no evidence logged, or evidence that's never been re-confirmed, is named directly rather than quietly treated as settled. Evidence can decay — a root-cause claim gets superseded by a more careful later analysis, a customer proof point ages — so marking an item as checked means you went back to the source yourself, and it needs checking again when the evidence could have changed.
 
 ## When to use it
 
@@ -36,7 +36,7 @@ Not when:
 
 ## What good looks like
 
-The example below checks three claims already circulating about Line 2's changeover procedure and its recent on-time recovery — including one, honestly marked unverified, that the attribution reality check already showed could just as easily be explained by a concurrent confound rather than the change everyone's crediting.
+The example below checks four claims about Line 2's new paint booth changeover and its on-time recovery, across four claim areas. Only the 45-minute changeover baseline is strong: five timed changeovers against an agreed definition. The nozzle-cleaning risk is backed moderately by three contamination rejects in twelve watched changeovers, while the failure mode and effects analysis (FMEA) ranking behind it is team judgement and is logged as weak. The claim that the sequencing rule caused the recovery is only an assertion, because order volume fell at the same time, and queue board discipline has no evidence at all.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/evidence-register
 
@@ -50,7 +50,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Failure mode and effects analysis (FMEA)** (`fmea`) — A documented, scored FMEA is real evidence for a risk-ranking claim — a stronger source than an unverified assertion, and this register is where that distinction actually gets recorded.
+- **Failure mode and effects analysis (FMEA)** (`fmea`) — An FMEA's scores are team judgement: log its ranking as weak evidence until real failures have been counted, then add the count as stronger evidence alongside it.
 - **Attribution reality check** (not in the catalogue yet) — When an attribution reality check finds a claim's credit swings sharply across models, that's exactly the signal this register should record as unverified rather than letting the claim stand as settled.
 
 ## Where AI helps

@@ -30,17 +30,18 @@ Not when:
 ## How to fill it in
 
 - **scopeArea** — Say which part of the business these definitions cover — a team, a process, a site.
-- **metrics** — For each metric, write the formula, the data source, the owner, how often it's refreshed and the unit, as they're actually used today. Get them from whoever builds the report, and leave a field blank if it isn't agreed yet rather than guessing.
+- **metrics** — For each metric, write what it means in plain words, the formula, the data source, the owner, how often it's refreshed and the unit, as they're actually used today. Then three things people usually leave in their heads: which way is good (higher, lower, or on a target), the target as the team states it, and what is deliberately left out of the count (trial units, returns, cancelled orders). Get them from whoever builds the report, and leave a field blank if it isn't agreed yet rather than guessing.
 - **narrative** — Write a few sentences naming which metrics are fully defined and which still have a gap — no owner, no agreed formula, or a source nobody trusts.
 
 ## What good looks like
 
-The example below continues the Line 2 paint-booth storyline running through this catalogue's A3, scoping canvas, and FMEA examples — two metrics are fully specified against real systems already in use, and the third, on-time delivery rate, honestly names a real, unresolved conflict between Scheduling and Quality rather than picking a winner.
+The example below is a production line's three headline metrics. First pass yield at final inspection and paint-booth changeover time are fully defined: formula, source, owner, direction, target, and what each leaves out (engineering trial units and returns; changeovers interrupted by a breakdown). On-time delivery rate is not: Scheduling counts an order on time if it ships by the promise date, Quality only if it has also passed final inspection by then. The sheet names that conflict and an owner to resolve it rather than picking a winner, so nobody compares the two numbers in the meantime.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/metric-definition-sheet
 
 ## Common mistakes
 
+- **Not writing down what is left out of the count** — Two teams can share a formula and still get different numbers because one excludes trial units, returns or cancelled orders and the other does not. Unstated exclusions are the commonest reason a metric means two things; write them next to the formula.
 - **Writing a formula that sounds precise but was never actually confirmed against the source system.** — A confident-looking formula with no real basis is worse than an honest gap — it lets two teams both trust their own number right up until the day someone tries to reconcile them.
 - **Leaving a metric unowned because 'everyone kind of owns it.'** — A definition nobody owns is a definition everyone quietly forks — a real owner is what keeps the formula from silently drifting as systems change.
 - **Resolving a genuine cross-team conflict unilaterally just to make the sheet look complete.** — Picking a winner without the other team's buy-in doesn't resolve the conflict, it just hides it — naming the conflict plainly is what actually gets it fixed.
@@ -50,6 +51,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Downstream:
 
 - **Key performance indicator (KPI) tree** (not in the catalogue yet) — A driver metric in a KPI tree is only as trustworthy as this sheet's own definition behind it — the tree tracks the number, this sheet is what makes the number mean one specific thing.
+- **Performance board** (`performance-board`) — Every measure on the board should have its definition here first, so a red month is a real miss and not two teams counting differently.
+- **Performance grid** (`performance-grid`) — The grid's rule for each row (red when…) only works if the number behind it is defined here, with its direction and target.
 
 ## Where AI helps
 
