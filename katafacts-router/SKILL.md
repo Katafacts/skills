@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 82 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 86 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -31,9 +31,9 @@ Katafacts is a free catalogue of 82 continuous-improvement methods ("katas"), ea
 What the catalogue search returns for some common problems (best match first):
 
 - "Our invoices take weeks to get paid": `makigami`, `value-stream-map`, `eight-wastes-worksheet`
-- "Too many handoffs between teams": `makigami`, `shift-handover`, `go-see-protocol`
+- "Too many handoffs between teams": `makigami`, `marketing-maturity-assessment`, `shift-handover`
 - "Defects keep coming back": `pareto-chart`, `five-whys`, `first-pass-yield-tracker`
-- "Sales deals stall in the pipeline": `sales-funnel-map`, `qualification-standard-work`, `deal-aging-report`
+- "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-aging-report`, `qualification-standard-work`
 - "A change is about to go live and might fail": `fmea`, `implementation-plan`
 - "Customers keep complaining": `customer-journey-map`, `voc-evidence-log`, `customer-interview-guide`
 - "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `lean-maturity-scorecard`
@@ -45,6 +45,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 ### Orient
 
 - `lean-maturity-scorecard` -- Lean maturity scorecard (Foundations)
+- `marketing-maturity-assessment` -- Marketing maturity assessment (Foundations)
 - `eight-wastes-worksheet` -- Eight wastes (DOWNTIME) worksheet (Foundations)
 
 ### Understand the customer
@@ -83,8 +84,10 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `hoshin-kanri` -- Hoshin kanri X-matrix (Hoshin Kanri)
 - `swot-analysis` -- SWOT (strengths, weaknesses, opportunities, threats) analysis (Hoshin Kanri)
 - `true-north-statement` -- True north statement (Hoshin Kanri)
+- `marketing-true-north-statement` -- Marketing true north statement (Hoshin Kanri)
 - `revenue-hoshin-kanri` -- Revenue hoshin kanri X-matrix (Hoshin Kanri)
 - `cascade-map` -- Cascade map (Hoshin Kanri)
+- `revenue-cascade-map` -- Revenue cascade map (Hoshin Kanri)
 
 ### Solve problems
 
@@ -113,6 +116,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `work-instruction` -- Work instruction (Standard work)
 - `iluo-training-matrix` -- Training matrix with I, L, U, O skill levels (ILUO) (Standard work)
 - `kpi-tree` -- Key performance indicator (KPI) tree (Daily management)
+- `marketing-kpi-tree` -- Marketing key performance indicator (KPI) tree (Daily management)
 - `leader-standard-work` -- Leader standard work (Daily management)
 - `escalation-matrix` -- Escalation matrix (Daily management)
 - `shift-handover` -- Shift handover (Daily management)

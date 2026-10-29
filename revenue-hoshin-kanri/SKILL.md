@@ -63,7 +63,7 @@ Upstream:
 Downstream:
 
 - **Pipeline management board** (`pipeline-management-board`) — The X-matrix sets the year's targets; the pipeline board is where a sales team checks every week whether its deals add up to them, through coverage against what's left to win.
-- **Revenue cascade map** (not in the catalogue yet) — Shows how this X-Matrix's annual objectives become real, committed work inside a specific pod or function — the mechanism that makes this plan cascade through the commercial org rather than living at the leadership level.
+- **Revenue cascade map** (`revenue-cascade-map`) — Shows how this X-Matrix's annual objectives become real, committed work inside a specific pod or function — the mechanism that makes this plan cascade through the commercial org rather than living at the leadership level.
 
 ## Where AI helps
 

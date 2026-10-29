@@ -50,7 +50,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Marketing key performance indicator (KPI) tree** (not in the catalogue yet) — A driver metric named there — like channel attribution, left without one — is exactly what this sheet formally names as a gap, even when it can't resolve it.
+- **Marketing key performance indicator (KPI) tree** (`marketing-kpi-tree`) — A driver metric named there — like channel attribution, left without one — is exactly what this sheet formally names as a gap, even when it can't resolve it.
 
 Downstream:
 

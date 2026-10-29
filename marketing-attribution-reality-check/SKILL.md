@@ -52,7 +52,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Marketing metric definition sheet** (`marketing-metric-definition-sheet`) — The metric definition sheet is where the CRM's first-touch default first got named as an unowned, unvalidated model; this reality check is where that default actually gets pressure-tested.
-- **Marketing key performance indicator (KPI) tree** (not in the catalogue yet) — A driver metric left without a real number because of the attribution gap is exactly what this reality check gives an honest, computed sensitivity check against.
+- **Marketing key performance indicator (KPI) tree** (`marketing-kpi-tree`) — A driver metric left without a real number because of the attribution gap is exactly what this reality check gives an honest, computed sensitivity check against.
 
 ## Where AI helps
 
