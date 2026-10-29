@@ -30,11 +30,11 @@ Not when:
 
 ## How to fill it in
 
-- **scope** — What's in and out of this process — which product line, which start and end point? A first-pass yield tracker with no stated boundary blends processes that don't belong together into a number that describes neither.
-- **stages** — List each stage in order with how many units entered it and how many advanced without rework or rejection. Pull real counts from a defect log or system of record where possible — a guessed count defeats the point of measuring at all.
-- **rolledYield** — Computed for you: the per-stage conversion rate for each stage, the rolled yield across all of them, and which single stage is weakest — nothing to enter here.
-- **narrative** — Drafted from the weakest-stage finding and your observation notes — what you've seen or heard about why that stage specifically is losing units.
-- **countermeasures** — What will you do about the weakest stage, ranked by impact and effort, owned and dated? A countermeasure that doesn't trace to the weakest-stage finding is a coaching failure mode, not a real action.
+- **scope** — Say which process this covers — which product line, where it starts and where it ends. Without a stated boundary, the tracker blends processes that don't belong together into a number that describes neither.
+- **stages** — List each stage in order with how many units entered it and how many went through without rework or rejection. Take the counts from a defect log or system of record; a guessed count defeats the point of measuring.
+- **rolledYield** — Calculated from the stage counts — don't type it; check each stage's rate against your counts, and that the weakest stage is one the people doing the work would expect. If it isn't, check the counts before you trust the result.
+- **narrative** — Write a few sentences on why the weakest stage loses units, from what you've seen or heard there. Go and watch that stage before you write it; a reason taken only from a report is still a guess.
+- **countermeasures** — List what you'll do about the weakest stage, ranked by impact and effort, each with an owner and a date. Aim every countermeasure at the stage the numbers name as weakest, not the one that's easiest to fix.
 
 ## What good looks like
 

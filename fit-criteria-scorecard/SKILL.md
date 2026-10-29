@@ -30,10 +30,10 @@ Not when:
 
 ## How to fill it in
 
-- **decision** — Which accounts are being prioritized, and against what list or segment?
-- **criteria** — Pull straight from your ICP canvas's sections — firmographic fit, technographic fit, trigger strength, buying-committee access — weighted by how much each one actually predicts a win in your own deal history, not split evenly by default.
-- **options** — For each account, score it 1 (weakest) to 5 (strongest) against every criterion — your own honest read of the account, never AI-scored. The composite score and tier are computed, never entered directly.
-- **narrative** — Drafted from the computed ranking, naming which account deserves the next call and why.
+- **decision** — Say which accounts you're ranking and which list they came from — a territory, a segment, an event list. Rank one comparable list at a time.
+- **criteria** — List your criteria straight from your ICP canvas — company fit, technology fit, trigger strength, access to the buying committee — and weight each by how well it has predicted a win in your own deal history. Don't split the weights evenly by default; that says every criterion matters equally, which is rarely true.
+- **options** — Score each account from 1 (weakest) to 5 (strongest) against every criterion, using what you actually know — your research, past conversations, your customer records. The composite score and tier are calculated — don't type them; check the top accounts make sense to the person who'd be calling them.
+- **narrative** — Write a few sentences naming which account deserves the next call and why, based on the ranking. Say where an account's score rests on a guess, so someone checks it before acting.
 
 ## What good looks like
 

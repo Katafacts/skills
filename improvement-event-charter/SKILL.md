@@ -30,13 +30,13 @@ Not when:
 
 ## How to fill it in
 
-- **opportunityStatement** — What opportunity or problem does this event address?
-- **objective** — What specific, measurable target is this event aiming at? Give a real number if you have one — a vague goal gets named as vague, not dressed up.
-- **scopeIn** — What's explicitly in scope for this event?
-- **scopeOut** — What's explicitly out of scope, to prevent scope creep during the event.
-- **roster** — Who's on the team, and what's their RACI role? Entered directly, not AI-assigned — who's accountable is your call, and exactly one person should be Accountable.
-- **readiness** — Drafted from your scope and team — concrete, checkable items. Check off what's actually ready before the event starts.
-- **narrative** — Drafted from the roster and readiness checklist.
+- **opportunityStatement** — Write the problem or opportunity this event addresses, with a number that shows how big it is today. Say where you saw it and why it matters now.
+- **objective** — Write the specific, measurable target for the event — a number, a unit and a date. If you don't have a real number yet, say plainly that the goal is still vague rather than inventing one.
+- **scopeIn** — List what's explicitly in scope: the process, where it starts and ends, and the area, shifts or teams involved.
+- **scopeOut** — List what's explicitly out of scope, so the team doesn't drift into it during the event. Name the tempting nearby work — a related process, a system change — that you're deliberately leaving alone.
+- **roster** — List who's on the team and each person's RACI role: responsible, accountable, consulted or informed. Exactly one person should be Accountable — who that is, is your call.
+- **readiness** — List the concrete, checkable things that must be ready before the event starts — data pulled, people freed from their usual work, the area booked, the sponsor's time set aside. Tick each one only when it's actually done.
+- **narrative** — Write a few sentences on whether the event is ready to run: who's on the team, what's still open on the checklist, and the main risk to the objective.
 
 ## What good looks like
 

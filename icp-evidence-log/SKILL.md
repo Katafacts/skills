@@ -30,11 +30,11 @@ Not when:
 
 ## How to fill it in
 
-- **scope** — Which deals or accounts does this evidence cover, and what prompted pulling it together — sharpening the ICP canvas, testing anti-ICP disqualifiers, something else?
-- **entries** — Enter each win/loss note, discovery excerpt, or competitor mention you've already gathered, with its source, source type, and date.
-- **themeSummary** — Drafted from your notes, then genuinely yours to edit — reassign any entry's theme and the clustering updates immediately.
-- **narrative** — Drafted from the top themes — what the clustering actually suggests about who the ICP is.
-- **nextSteps** — What will the team do with this synthesis — update the ICP canvas, add a disqualifier, change a qualification step — ranked by impact and effort, owned and dated?
+- **scope** — Say which deals or accounts this evidence covers and what prompted collecting it — sharpening the ICP canvas, testing anti-ICP disqualifiers, or something else. A clear boundary keeps unrelated deals out of the themes.
+- **entries** — Enter each win or loss note, discovery excerpt or competitor mention you've gathered, with its source, source type and date. Copy the actual words where you can; a summary loses the detail that makes a pattern visible.
+- **themeSummary** — Give each entry a theme, then read the themes across all the entries; the tally updates as you reassign them. Name each theme in plain words taken from the evidence, and treat a theme with only one or two entries as a hint, not a pattern.
+- **narrative** — Write a few sentences on what the top themes suggest about who your ideal customer is — and who it isn't. Use only what the entries show.
+- **nextSteps** — List what the team will do with this — update the ICP canvas, add a disqualifier, change a qualification step — ranked by impact and effort, each with an owner and a date.
 
 ## What good looks like
 

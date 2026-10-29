@@ -30,13 +30,13 @@ Not when:
 
 ## How to fill it in
 
-- **problem** — What's the situation, and why does it matter now? One or two sentences, not a full background essay.
-- **goal** — What does this initiative need to achieve, specifically enough that you'd know if it succeeded?
-- **in-scope** — What's genuinely in scope — drafted from your notes, then yours to correct.
-- **out-of-scope** — What's deliberately excluded, and why — an empty out-of-scope section is itself a finding, not just unfilled.
-- **team** — Who's involved, and in what role?
-- **timeline** — What are the key milestones or phases?
-- **assumptions** — What has to be true for this to work, or what's constraining it?
+- **problem** — Write the situation and why it matters now, in one or two sentences — not a full background essay.
+- **goal** — Write what this initiative needs to achieve, specifically enough that you'd know whether it succeeded — ideally a number and a date.
+- **in-scope** — List what's genuinely in scope: the processes, teams, systems or customers this will touch. Be specific enough that two people would agree on whether something is in or out.
+- **out-of-scope** — List what's deliberately excluded, and why. If you can't name anything, the scope isn't settled yet — an empty list is a finding, not a section to skip.
+- **team** — List who's involved and their role: who leads, who does the work, who decides, and who needs to be kept informed.
+- **timeline** — List the key milestones or phases with dates. Check them with the people doing the work, not just the sponsor.
+- **assumptions** — List what has to be true for this to work, and any constraint you're working within — budget, people, systems, deadlines. Write each so it can be checked; these are the first things to revisit when the plan slips.
 
 ## What good looks like
 

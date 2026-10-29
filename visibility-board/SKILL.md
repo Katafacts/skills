@@ -30,11 +30,11 @@ Not when:
 
 ## How to fill it in
 
-- **kpis** — Describe the commercial function and what matters to it — a first-pass KPI set gets drafted, each with a target for every period and a jump-off point (JOP) recording the last real measurement before the plan began. Enter actuals yourself as each period closes; a real reported number is never invented, and the Gap row is computed rather than typed.
-- **coverage** — Computed for you from your KPIs, once actuals are entered — nothing to enter here.
-- **abnormalities** — Log one whenever a period comes in red — a real cause observed directly in the CRM quote queue, order intake, or wherever the work actually lives, not a guess.
-- **countermeasures** — Every red gets at least a containment action (protects delivery now) with an owner and a note on what's being done; add a permanent countermeasure (fixes the root cause in the system or process) when the cause is understood.
-- **narrative** — Drafted from the board actually built.
+- **kpis** — List the few KPIs that matter to this commercial function, each with a target for every period and a jump-off point (JOP): the last real measurement before the plan began. Enter each actual from the reported figures as the period closes, never an estimate. The Gap row is calculated — don't type it; check it reads as the target minus the actual.
+- **coverage** — Calculated from your KPIs once actuals are entered — don't type it; check it matches the reds and greens you can see on the board.
+- **abnormalities** — Log one whenever a period comes in red: the cause you saw directly where the work lives — the CRM quote queue, incoming orders — not a guess.
+- **countermeasures** — Give every red at least a containment action that protects delivery now, with an owner and a note on what's being done. Add a permanent countermeasure that fixes the root cause in the system or process once you understand it.
+- **narrative** — Write a few sentences on what the board shows: which measures are off target, whether the gaps are closing, and which reds still have no permanent fix. Use only what the board records.
 
 ## What good looks like
 

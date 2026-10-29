@@ -30,10 +30,10 @@ Not when:
 
 ## How to fill it in
 
-- **decision** — What's being decided, and what are you scoring options against?
-- **criteria** — What matters in this decision, and how much does each criterion count? Weights should sum to 100% — your own judgement about what matters, never AI-assigned.
-- **options** — For each option, score it 1 (weakest) to 5 (strongest) against every criterion — your own honest judgement, never AI-scored. The composite score and tier are computed from your weights and scores, never entered directly.
-- **narrative** — Drafted from the computed ranking, naming what's actually driving the top option's score.
+- **decision** — Write the decision in one sentence: what's being chosen, and by when. If the options can't all be scored against the same criteria, you have more than one decision on the page.
+- **criteria** — List what matters in this decision and give each criterion a weight, so the weights add up to 100%. Agree the weights before anyone scores an option, so nobody adjusts them to suit the option they already prefer.
+- **options** — Score each option from 1 (weakest) to 5 (strongest) against every criterion, using what you know about it rather than what you hope. The composite score and tier are calculated from your weights and scores — don't type them; if the winner looks wrong, find the weight or score that's off rather than overriding the result.
+- **narrative** — Write a few sentences on the result: which option ranks first, which criteria put it there, and how close the runner-up is. If a small change to one weight would flip the order, say so — that's the part people need to discuss.
 
 ## What good looks like
 

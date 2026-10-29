@@ -30,13 +30,13 @@ Not when:
 
 ## How to fill it in
 
-- **costOfInaction** — What does the current state keep costing, in real terms, and why does that matter now rather than later?
-- **investment** — Describe roughly what the fix costs — one-time and ongoing — and a first-pass itemized estimate gets drafted for you to correct with real numbers.
-- **valueDrivers** — Drafted from your description of the proposal — each with how the number was derived and how confident it actually is. Don't fill these in directly; describe the proposal and let a first draft come back.
-- **roiSummary** — Computed for you from investment and value drivers — nothing to enter here.
-- **assumptions** — Drafted alongside the value drivers — what has to stay true for these numbers to hold.
-- **narrative** — Drafted executive summary — the shape of the case in words, never restating the computed numbers itself.
-- **nextSteps** — What needs firming up before this case goes to whoever approves it, ranked by impact and effort, owned and dated.
+- **costOfInaction** — Write what the current state keeps costing, in money, time or risk, and why acting now matters more than later. Use figures from the system of record or a count you made yourself, not an impression.
+- **investment** — List what the fix costs, line by line, split into one-time and ongoing costs. Get the figures from quotes, finance or the people who'll do the work, and include internal staff time — it's the cost most often left out.
+- **valueDrivers** — For each way the proposal pays back — time saved, cost removed, errors avoided — write the number, how you worked it out, and how confident you are in it. Base each one on a measurement or a record; if a driver rests on an estimate, mark it low confidence rather than leaving it out.
+- **roiSummary** — Calculated from the investment and value drivers — don't type it; check the payback and return make sense against the totals above, and if they look too good, recheck your least-confident driver.
+- **assumptions** — List what has to stay true for these numbers to hold — volumes, prices, adoption, timing. Write each one so someone could check it; whoever approves the case will test the weakest one first.
+- **narrative** — Write a short summary of the case in plain words: what doing nothing costs, what you're asking for, and the two or three drivers that carry the value. Point to the numbers on the sheet rather than restating them, so the words and the figures never disagree.
+- **nextSteps** — List what needs firming up before this case goes to whoever approves it — usually the least-confident drivers — ranked by impact and effort, each with an owner and a date.
 
 ## What good looks like
 

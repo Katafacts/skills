@@ -30,10 +30,10 @@ Not when:
 
 ## How to fill it in
 
-- **milestones** — Describe the commitment roughly — a first-pass milestone sequence gets drafted, each with who it depends on (you, them, or joint) and a target date. Assign a real named owner to each afterward; that's never guessed for you.
-- **coverage** — Computed from your milestones and dates — nothing to enter here.
-- **risks** — Drafted alongside the milestones — what could realistically cause this plan to slip.
-- **narrative** — Drafted from the plan actually built.
+- **milestones** — List the milestones in order, each with who it depends on (you, the customer or both), a named owner and a target date. Agree them with the customer rather than writing them alone; a milestone with no named person on their side is the one that slips.
+- **coverage** — Calculated from your milestones and dates — don't type it; check the done, overdue and unowned counts match what you know, and that the work isn't all sitting on one side.
+- **risks** — List what could realistically make this plan slip — a busy customer team, a missing approval, data that isn't ready. Write each one specifically enough that someone could act on it.
+- **narrative** — Write a few sentences on where the plan stands: what's on track, what's overdue or unowned, and the biggest risk to the date. Use only what the plan shows.
 
 ## What good looks like
 

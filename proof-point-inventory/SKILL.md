@@ -29,10 +29,10 @@ Not when:
 
 ## How to fill it in
 
-- **scopeNotes** — What set of message pillars does this inventory cover?
-- **categories** — List every pillar from your message architecture you want checked for real proof, even ones you expect are still empty.
-- **items** — For each proof point: the pillar it backs, the evidence type, source, date, and whether it's actually been confirmed — your own facts, never guessed.
-- **narrative** — Drafted from the inventory's own computed coverage.
+- **scopeNotes** — Say which message pillars this inventory covers, and for which audience or campaign.
+- **categories** — List every pillar of your messaging you want checked for real proof, including ones you suspect are still empty. An empty pillar on the page shows where you're claiming something you can't yet back up.
+- **items** — For each proof point, write the pillar it backs, the type of evidence, where it came from and when, and whether you've confirmed it yourself. Go back to the original — the customer quote, the measured result, the approved case study — and mark it unconfirmed until you have.
+- **narrative** — Write a few sentences on which pillars are well proven, which have no proof, and which proof points are still unconfirmed. Use only what's recorded here.
 
 ## What good looks like
 

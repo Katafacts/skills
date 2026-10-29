@@ -30,10 +30,10 @@ Not when:
 
 ## How to fill it in
 
-- **researchGoal** — What are you actually trying to learn? Specific beats broad — 'understand why onboarding takes longer than expected' drafts a sharper guide than 'understand the customer experience.'
-- **topics** — Drafted from your research goal and any seed topics you already had in mind — add, remove, or reword anything before the interview.
-- **reminders** — Drafted for this specific guide's context — real interview-technique discipline, not generic platitudes.
-- **narrative** — Drafted from the research goal — how to actually run this conversation and what to listen for.
+- **researchGoal** — Write the one thing you're trying to learn, as specifically as you can: "understand why onboarding takes longer than expected" gives you sharper questions than "understand the customer experience." If you can't say what decision the answers will feed, narrow the goal first.
+- **topics** — List three to five topics, and under each write open questions about what the customer actually did last time ("walk me through the last time you…"), with a follow-up probe or two. Cut any question that asks them to predict, rate or design a solution — what people did is evidence; what they say they'd do usually isn't.
+- **reminders** — Write a few reminders to read just before the interview: listen more than you talk, ask for a specific recent example, follow the surprise rather than the script, and don't pitch or defend. Keep only the ones that matter for this conversation.
+- **narrative** — Write a short note on how to run this conversation: how to open, which topic matters most if time runs short, and what to listen for that would answer your research goal.
 
 ## What good looks like
 

@@ -30,13 +30,13 @@ Not when:
 
 ## How to fill it in
 
-- **trueNorth** — One or two sentences: why does this plan exist? Every objective on the page should trace back to this. If you can't draw that line for an objective, it doesn't belong on this plan.
-- **longTermObjectives** — Where does the organisation need to be in three to five years? Give each one a target that's unambiguous when reached — "be more competitive" isn't checkable; "grow market share from 12% to 20%" is.
-- **annualObjectives** — What has to be true by the end of this year to be on track for the long-term objectives? These are what actually get worked this year — the long-term objectives set direction, the annual objectives set the pace.
-- **catchball** — The record of who proposed each annual objective, how another level pushed back, and what was actually agreed. This isn't paperwork — an objective that was never negotiated with the people who have to deliver it is a wish, not a commitment.
-- **strategies** — The improvement initiatives that will actually move the annual objectives. Name an owner for each — a strategy with no owner doesn't happen, it just sits on the page looking like progress.
-- **metrics** — What you'll track to know the strategies are working, each with a target. If a strategy has no metric watching it, you'll find out it failed only when the year is over.
-- **correlations** — The heart of the X-Matrix: which long-term objectives each annual objective actually supports, which metrics track each objective, which strategies move each metric, and which strategies support which long-term objectives. Mark primary, secondary, or weak — and leave a pair blank when there's genuinely no connection. A matrix where everything correlates with everything isn't rigorous, it's decoration.
+- **trueNorth** — Write one or two sentences on why this plan exists. Every objective on the page should trace back to it; if you can't draw that line for an objective, it doesn't belong on this plan.
+- **longTermObjectives** — Write where the organisation needs to be in three to five years, each with a target that's unambiguous when reached. "Be more competitive" isn't checkable; "grow market share from 12% to 20%" is.
+- **annualObjectives** — Write what has to be true by the end of this year to be on track for the long-term objectives. These are what actually get worked this year — the long-term objectives set direction, the annual objectives set the pace.
+- **catchball** — Record who proposed each annual objective, how another level pushed back, and what was finally agreed. This isn't paperwork: an objective that was never negotiated with the people who have to deliver it is a wish, not a commitment.
+- **strategies** — List the improvement initiatives that will move the annual objectives, and name an owner for each. A strategy with no owner doesn't happen; it just sits on the page looking like progress.
+- **metrics** — List what you'll track to know the strategies are working, each with a target. If a strategy has no metric watching it, you'll only find out it failed when the year is over.
+- **correlations** — This is the heart of the X-Matrix. Mark which long-term objectives each annual objective supports, which metrics track each objective, which strategies move each metric, and which strategies support which long-term objectives — primary, secondary or weak. Leave a pair blank when there's no real connection; a matrix where everything connects to everything isn't rigorous, it's decoration.
 
 ## What good looks like
 

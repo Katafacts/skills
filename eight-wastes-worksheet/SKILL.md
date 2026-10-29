@@ -30,10 +30,10 @@ Not when:
 
 ## How to fill it in
 
-- **observations** — Describe the process and what you actually saw — a first-pass set of tagged observations gets drafted from that, for you to correct against what you really observed on the walk.
-- **coverage** — Computed for you from your observations — nothing to enter here.
-- **narrative** — Drafted from the worksheet actually built.
-- **nextSteps** — What will you do about the top waste category or a high-impact observation, ranked by impact and effort, owned and dated.
+- **observations** — Walk the process and write one line for each thing you actually saw: what happened, at which step, how often, which of the eight wastes it is, and how big its impact is. Describe the work, never the person, and leave out any waste you assume is there until someone has watched it happen.
+- **coverage** — Calculated from your observations — don't type it; check the tallies match what you saw, and treat a waste with no observations as a place you may not have looked yet, not proof it's absent.
+- **narrative** — Write a few sentences on what the walk showed: the waste that dominates, the high-impact observations, and anything that surprised you. Use only what's on the worksheet.
+- **nextSteps** — List what you'll do about the top waste or a high-impact observation, ranked by impact and effort, each with an owner and a date. Tie each step to a named observation, so you can go back later and check it's gone.
 
 ## What good looks like
 

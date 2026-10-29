@@ -30,10 +30,10 @@ Not when:
 
 ## How to fill it in
 
-- **milestones** — Describe the deal roughly — a first-pass milestone sequence gets drafted, each with who it depends on (you, the buyer, or joint) and a target date. Assign a real named owner on each side afterward; that's never guessed for you.
-- **coverage** — Computed from your milestones and dates — nothing to enter here.
-- **risks** — Drafted alongside the milestones — what could realistically stall this deal before close.
-- **narrative** — Drafted from the plan actually built.
+- **milestones** — List the steps from today to signature and go-live, each with who it depends on (you, the buyer or both), a named owner and a target date. Build it with the buyer, working back from their date; a milestone with no named person on the buyer's side is the one that stalls.
+- **coverage** — Calculated from your milestones and dates — don't type it; check the done, overdue and unowned counts match what you know, and that the work isn't all sitting on your side.
+- **risks** — List what could realistically stall this deal before close — a missing approver, a security review, a budget freeze. Write each one specifically enough that someone could act on it.
+- **narrative** — Write a few sentences on where the deal stands: what's on track, what's overdue or unowned, and the biggest risk to the date. Use only what the plan shows.
 
 ## What good looks like
 

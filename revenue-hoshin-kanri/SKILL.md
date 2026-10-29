@@ -30,13 +30,13 @@ Not when:
 
 ## How to fill it in
 
-- **trueNorth** — One or two sentences: why does this revenue plan exist beyond hitting a number? Every objective on the page should trace back to it — if you can't draw that line for an objective, it doesn't belong here.
-- **longTermObjectives** — Where does revenue need to be in three to five years? Give each one a checkable target — "grow net revenue retention from 98% to 115%" is checkable; "become customers' most trusted partner" isn't.
-- **annualObjectives** — What has to be true by year-end to be on track for the long-term objectives? This is where a deal A3's root cause or a funnel value stream map's bottleneck finding directly becomes this year's committed target — not a separate conversation from the RCA that found the gap.
-- **catchball** — The record of who proposed each annual objective, how the people who'd deliver it pushed back, and what was actually agreed. An objective never negotiated with frontline reps or RevOps is a wish, not a commitment — and it usually means the target didn't account for how long a fix actually takes to roll out and take effect.
-- **strategies** — The initiatives that will actually move the annual objectives — often literally the countermeasures from a deal A3 or funnel value stream map, promoted from a bounded fix to a resourced strategy with an owner. A strategy with no owner doesn't happen.
-- **metrics** — What you'll track to know the strategies are working, each with a target. Win rate, stage wait time, and retention are the natural revenue metrics here — pull them from the same CRM data a deal A3 or funnel map would use, not a separate estimate.
-- **correlations** — Which long-term objectives each annual objective supports, which metrics track each objective, which strategies move each metric, which strategies support which long-term objectives. Mark primary, secondary, or weak, and leave a pair blank when there's genuinely no connection — a fully-shaded grid means the correlations weren't actually thought through.
+- **trueNorth** — Write one or two sentences on why this revenue plan exists beyond hitting a number. Every objective on the page should trace back to it; if you can't draw that line for an objective, it doesn't belong here.
+- **longTermObjectives** — Write where revenue needs to be in three to five years, each with a checkable target. "Grow net revenue retention from 98% to 115%" is checkable; "become customers' most trusted partner" isn't.
+- **annualObjectives** — Write what has to be true by year-end to be on track for the long-term objectives. Where you have one, carry a finding straight in — a deal A3's root cause or a funnel value stream map's bottleneck — so this year's committed target comes from the analysis that found the gap.
+- **catchball** — Record who proposed each annual objective, how the people who'd deliver it pushed back, and what was finally agreed. An objective never negotiated with frontline reps or RevOps is a wish, not a commitment — and it usually means the target ignores how long a fix takes to roll out and take effect.
+- **strategies** — List the initiatives that will move the annual objectives, each with a named owner. Often these are the countermeasures from a deal A3 or funnel value stream map, promoted from a bounded fix to a resourced strategy; a strategy with no owner doesn't happen.
+- **metrics** — List what you'll track to know the strategies are working, each with a target. Win rate, stage wait time and retention are the natural revenue metrics here — pull them from the same CRM data a deal A3 or funnel map would use, not a separate estimate.
+- **correlations** — Mark which long-term objectives each annual objective supports, which metrics track each objective, which strategies move each metric, and which strategies support which long-term objectives — primary, secondary or weak. Leave a pair blank when there's no real connection; a fully shaded grid means the connections weren't actually thought through.
 
 ## What good looks like
 

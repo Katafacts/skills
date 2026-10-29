@@ -30,11 +30,11 @@ Not when:
 
 ## How to fill it in
 
-- **firmographics** — Company size, industry, revenue band, geography — what does the ideal account look like on paper?
-- **technographics** — What's already in their tech stack, and what's notably absent?
-- **triggers** — What real event or symptom makes an account start looking for something like this? Grounded in real win/loss patterns, not a generic pain point.
-- **buying-committee** — Who's the economic buyer, and who's the realistic champion?
-- **pain-fit** — What specific problem does this actually solve for them, in their own terms?
+- **firmographics** — Describe the ideal account on paper: company size, industry, revenue band, geography. Base it on the customers who bought, stayed and grew — not on the market you'd like to sell to.
+- **technographics** — List the tools and systems these accounts already run, and anything notably missing. Take it from closed deals and customer records; a system that shows up again and again among your best customers is a strong signal.
+- **triggers** — Write the events or symptoms that make an account start looking for something like this — a new leader, a failed audit, a sudden growth spurt. Take them from your own win and loss notes, not from a generic list of pain points.
+- **buying-committee** — Name the roles involved: who signs off on the money, and who realistically champions the purchase inside the account. Use job titles from real deals, and if you can't name the champion's role, say so.
+- **pain-fit** — Write the specific problem this solves for them, in the words customers actually use. Pull phrases from call notes or interviews; if it reads like your own marketing copy, it isn't their words yet.
 
 ## What good looks like
 

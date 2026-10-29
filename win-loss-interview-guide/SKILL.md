@@ -30,10 +30,10 @@ Not when:
 
 ## How to fill it in
 
-- **researchGoal** — What do you actually want to understand about this decision? Naming the specific deal and outcome sharpens the guide more than a generic 'understand win-loss patterns.'
-- **topics** — Drafted from your research goal — covers the decision process, what tipped it, the competitive alternative, and what would have changed the outcome.
-- **reminders** — Drafted for win-loss-specific technique — interviewing promptly, staying non-defensive on a loss.
-- **narrative** — Drafted from the research goal — how to run this conversation and get past the polite version of the story.
+- **researchGoal** — Write what you want to understand about this decision, naming the specific deal and outcome — that sharpens your questions more than "understand win-loss patterns." Book the interview soon after the decision, while memories are fresh.
+- **topics** — List the topics and questions: how they made the decision, what tipped it, the alternative they weighed (including doing nothing), and what would have changed the outcome. Ask what happened, in order, rather than what they think of you.
+- **reminders** — Write a few reminders to read before the call: interview promptly, don't defend or sell — especially on a loss — and ask "what else?" to get past the polite version of the story.
+- **narrative** — Write a short note on how to run this conversation: how to open, which topic matters most if time runs short, and how you'll get past the polite version of the story.
 
 ## What good looks like
 

@@ -29,9 +29,9 @@ Not when:
 
 ## How to fill it in
 
-- **scopeArea** — What part of the business do these metric definitions cover?
-- **metrics** — For each metric: the formula, data source, owner, refresh cadence, and unit you actually use today — your own facts, never guessed. Leave any of these blank if it's genuinely not agreed yet.
-- **narrative** — Drafted from the metrics actually defined, naming which ones still have a real gap.
+- **scopeArea** — Say which part of the business these definitions cover — a team, a process, a site.
+- **metrics** — For each metric, write the formula, the data source, the owner, how often it's refreshed and the unit, as they're actually used today. Get them from whoever builds the report, and leave a field blank if it isn't agreed yet rather than guessing.
+- **narrative** — Write a few sentences naming which metrics are fully defined and which still have a gap — no owner, no agreed formula, or a source nobody trusts.
 
 ## What good looks like
 

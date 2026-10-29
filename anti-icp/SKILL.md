@@ -30,10 +30,10 @@ Not when:
 
 ## How to fill it in
 
-- **hard-disqualifiers** — What firmographic or technographic floor should end a deal outright, no matter how it's trending?
-- **soft-red-flags** — What risk signal predicts trouble but shouldn't kill a deal on its own — and what's the specific next step when one shows up? Not a disqualifier, a trigger for a specific countermeasure.
-- **process-red-flags** — What timing or procedural pattern, independent of firmographic fit, has predicted a bad outcome before?
-- **churn-patterns** — Why have real customers actually left — not a guess, the real reasons on file.
+- **hard-disqualifiers** — List the facts about a company — size, industry, the systems it runs — that should end a deal outright, however well it seems to be going. Take them from deals you lost and customers who left, not from instinct, and keep the list short: every rule here turns real buyers away.
+- **soft-red-flags** — List the warning signs that predict trouble but shouldn't kill a deal on their own, and for each one write the specific next step when it shows up. A flag with no next step is either a disqualifier or not worth listing.
+- **process-red-flags** — List the timing or buying-process patterns that have come before a bad outcome, whatever the account looks like on paper — no access to whoever signs, say, or a deadline set by someone outside the deal. Write only patterns you've seen in your own deal history.
+- **churn-patterns** — Write the real reasons customers have left, taken from cancellation records, exit notes or the account team — not a guess. Group repeats together: one reason that shows up five times matters more than five that show up once.
 
 ## What good looks like
 

@@ -29,10 +29,10 @@ Not when:
 
 ## How to fill it in
 
-- **scopeNotes** — What set of claims does this register cover?
-- **categories** — List every claim category you want checked for real evidence, even ones you expect are still empty.
-- **items** — For each item: the category it backs, the evidence type, source, date, and whether it's actually been verified — your own facts, never guessed.
-- **narrative** — Drafted from the register's own computed coverage.
+- **scopeNotes** — Say which claims this register covers — a web page, a proposal, a sales deck — and who they're made to. A clear boundary tells you when the register is complete.
+- **categories** — List every claim category you want backed by evidence, including ones you suspect are still empty. An empty category on the page is useful: it shows where you're claiming something you can't yet prove.
+- **items** — For each piece of evidence, write the claim it backs, its category, the type of evidence, where it came from and when, and whether you've checked it yourself. Go back to the original — the customer's words, the measured result, the signed document — and mark it unverified until you have.
+- **narrative** — Write a few sentences on what the register shows: which categories are well backed, which have no evidence, and which items are still unverified. Use only what's recorded here.
 
 ## What good looks like
 

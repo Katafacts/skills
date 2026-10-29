@@ -30,9 +30,9 @@ Not when:
 
 ## How to fill it in
 
-- **team** — Who's on the team? Skill levels are recorded directly, not AI-assigned.
-- **matrix** — Skills drafted from your process area — record each person's real level (I/L/U/O) per skill. A skill with nobody at U or O is flagged, not hidden.
-- **narrative** — Drafted from the skill list actually built.
+- **team** — List everyone on the team who does this work, including part-timers and cover staff — they're often the people a gap depends on.
+- **matrix** — List the specific, trainable skills the work needs — "change over the filler", not "run the line well". For each person and skill, record the level you've seen them work at (I/L/U/O), not the level they've been signed off for; any skill with nobody at U or O is one absence away from stopping the work.
+- **narrative** — Write a few sentences on where the team is exposed: skills with nobody, or only one person, at U or O, and who to train next. Use only what the matrix shows.
 
 ## What good looks like
 

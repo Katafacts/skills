@@ -30,11 +30,11 @@ Not when:
 
 ## How to fill it in
 
-- **kpis** — Describe the function and what matters to it — a first-pass set of KPIs gets drafted, each with a target for every period and a jump-off point (JOP) recording the last real measurement before the plan began. Enter actuals yourself as each period actually closes; a real number is never invented, and the Gap row is computed rather than typed so the board can never disagree with itself.
-- **coverage** — Computed for you from your KPIs, once actuals are entered — nothing to enter here.
-- **abnormalities** — Log one whenever a period comes in red — a cause seen first-hand where the work happens and a 5-why root cause, not a guess.
-- **countermeasures** — Every red gets at least a containment action (fast, protects delivery now) with an owner and a note on what's being done; add a permanent countermeasure (fixes the root cause) when the cause is understood.
-- **narrative** — Drafted from the board actually built.
+- **kpis** — List the few KPIs that matter to this function, each with a target for every period and a jump-off point (JOP): the last real measurement before the plan began. Enter each actual from the system of record as the period closes, never an estimate. The Gap row is calculated — don't type it; check it reads as the target minus the actual.
+- **coverage** — Calculated from your KPIs once actuals are entered — don't type it; check it matches the reds and greens you can see on the board.
+- **abnormalities** — Log one whenever a period comes in red: the cause you saw first-hand where the work happens, and the root cause you reached by asking why until you hit something you can change. Write what you found, not a guess.
+- **countermeasures** — Give every red at least a containment action — something fast that protects delivery now — with an owner and a note on what's being done. Add a permanent countermeasure that fixes the root cause once you understand it.
+- **narrative** — Write a few sentences on what the board shows: which measures are off target, whether the gaps are closing, and which reds still have no permanent fix. Use only what the board records.
 
 ## What good looks like
 

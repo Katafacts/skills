@@ -30,11 +30,11 @@ Not when:
 
 ## How to fill it in
 
-- **scope** — What population or customer journey does this collection plan cover?
-- **goals** — What do you want VOC evidence to eventually answer? A real collection activity gets drafted for each one where a concrete method genuinely fits.
-- **activities** — Drafted from your goals — method, owner, cadence, and exactly how the output reaches the evidence log. Reassign an activity's linked goal or edit any field directly.
-- **coverage** — Computed for you: total goals and activities, and which goals still have no real collection activity — nothing to enter here.
-- **narrative** — Drafted from the plan and any coverage gaps — which goals are well-covered, which still need a real activity.
+- **scope** — Name the customer group or journey this plan covers. Keep it to one group, so the evidence you collect can be compared.
+- **goals** — List the questions you want customer evidence to answer — "why do new customers stop using it in month two?", not "understand customers". Each goal should be something a decision is waiting on.
+- **activities** — For each goal, write how you'll collect the evidence: the method, a named owner, how often, and exactly how what you collect gets into the evidence log. Choose methods that capture what customers do and say in their own words; an activity with no route into the log gets done once and lost.
+- **coverage** — Calculated from your goals and activities — don't type it; check every goal you care about has at least one activity, and treat a goal with none as an open gap.
+- **narrative** — Write a few sentences on which goals are well covered and which still have no collection activity. Use only what the plan shows.
 
 ## What good looks like
 

@@ -29,10 +29,10 @@ Not when:
 
 ## How to fill it in
 
-- **scopeArea** — What deals, and what period, does this reality check cover?
-- **currentModel** — How is channel credit actually assigned today? Name the real convention in use — including a CRM default nobody deliberately chose — not the model you wish you had.
-- **cases** — For each deal: its real pipeline value, and every touchpoint with the real order it occurred in — your own record, never guessed. Credit by model and the swing between them are computed for you.
-- **narrative** — Drafted from the computed swing, naming which channels are robust and which are contested.
+- **scopeArea** — Say which deals and which period this check covers. Use closed deals from one period, so every case is judged the same way.
+- **currentModel** — Write how channel credit is actually assigned today, including a CRM default nobody chose on purpose. Ask whoever builds the reports, and describe the convention actually in use, not the one you wish you had.
+- **cases** — For each deal, enter its pipeline value and every touchpoint in the order it happened, from the CRM and your campaign records. Credit by model and the swing between models are calculated — don't type them; check the channels with the biggest swing against what the sales team remembers about those deals.
+- **narrative** — Write a few sentences naming the channels whose credit holds up whichever way credit is assigned, and the ones whose credit depends on which attribution model is chosen. Use only what the cases show.
 
 ## What good looks like
 

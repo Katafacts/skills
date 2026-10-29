@@ -29,8 +29,8 @@ Not when:
 
 ## How to fill it in
 
-- **ideas** — Drafted from each idea's source, current stage, and the date it entered that stage — assign a real champion to each afterward.
-- **narrative** — Drafted from the stale flags and the funnel shape actually built.
+- **ideas** — List each idea with where it came from, its current stage, the date it entered that stage, the measure it should move and a named champion. Take the dates from wherever ideas are actually logged; each idea's age is calculated from that date — don't type it.
+- **narrative** — Write a few sentences on the shape of the funnel: where ideas pile up, which have gone stale, and which still have no champion. Use only what the funnel shows.
 
 ## What good looks like
 

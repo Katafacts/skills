@@ -30,12 +30,12 @@ Not when:
 
 ## How to fill it in
 
-- **scope** — Which pipeline, workflow, or queue, as of what date? A snapshot with no stated boundary blends queues that don't belong together into a report that describes neither.
-- **items** — List every currently-open item with its current stage and the date it entered that stage. Pull real dates from a system of record — a guessed entry date defeats the point of measuring age at all.
-- **stages** — Each stage's average age among its currently-open items — computed for you, nothing to enter here.
-- **summary** — The overall average age, the single oldest item, and which items are flagged as stalled (aging at least twice their stage's average) — all computed for you.
-- **narrative** — Drafted from the stall flags and your observation notes — what you've seen or heard about why a specific item is actually stuck.
-- **countermeasures** — What will you do about the stalled items, ranked by impact and effort, owned and dated? A countermeasure not tied to a named stalled item is a coaching failure mode, not a real action.
+- **scope** — Name the pipeline, workflow or queue, and the date of the snapshot. Without a stated boundary the report blends queues that don't belong together into numbers that describe neither.
+- **items** — List every open item with its current stage and the date it entered that stage. Take the dates from the system of record; a guessed date defeats the point of measuring age.
+- **stages** — Calculated from the open items — don't type it; check each stage's average age against what the team would expect.
+- **summary** — Calculated from the open items — don't type it; check the oldest item really is still open. An item is flagged as stalled when it has sat at least twice its stage's average age.
+- **narrative** — Write a few sentences on why the stalled items are stuck, from what you've seen or heard — go and ask whoever holds each one. A reason nobody has checked is still a guess.
+- **countermeasures** — List what you'll do about the stalled items, ranked by impact and effort, each with an owner and a date. Tie each countermeasure to a named stalled item, so you can see later whether it moved.
 
 ## What good looks like
 

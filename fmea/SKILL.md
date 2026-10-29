@@ -30,9 +30,9 @@ Not when:
 
 ## How to fill it in
 
-- **processOrProduct** — What process, product, or system is this analysis covering?
-- **items** — For each item: what could go wrong, its effect, your severity score, the likely cause, your occurrence score, current controls, and your detection score. The risk priority number is computed from your three scores, never entered directly.
-- **narrative** — Drafted from the items actually scored: any severity 9 or 10 item first, then the vital-few highest risk priority number items.
+- **processOrProduct** — Name the process, product or system this covers, and where it starts and ends. Keep it narrow enough that the team can list its failure modes in one sitting.
+- **items** — For each step or part, write what could go wrong, its effect, the likely cause and the controls in place today, then score severity, occurrence and detection from 1 to 10. Score with the people who do the work, using real defect or incident records where you have them. The risk priority number is calculated from your three scores — don't type it; check the highest ones match what the team worries about most.
+- **narrative** — Write a few sentences on the biggest risks: any item with a severity of 9 or 10 first, whatever its risk priority number, then the few with the highest numbers. Name the action that would bring each one down.
 
 ## What good looks like
 

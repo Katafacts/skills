@@ -31,11 +31,11 @@ Not when:
 
 ## How to fill it in
 
-- **scope** — Which deal source or segment, which start and end stage — typically SQL to closed-won/lost. Keep it to one comparable segment; a blended pipeline produces a conversion number that describes neither.
-- **stages** — List each stage transition in order with how many deals entered it and how many advanced. Pull real counts from CRM stage-history, not a gut-sense estimate of 'about half fall through.'
-- **rolledYield** — Computed for you: each stage's conversion rate, the rolled yield from first stage to closed-won, and which single stage is the weakest link — nothing to enter here.
-- **narrative** — Drafted from the weakest-stage finding and your observation notes — what reps or RevOps have actually seen about why that specific stage is losing deals.
-- **countermeasures** — What will you do about the weakest stage, ranked by impact and effort, owned and dated? A countermeasure aimed at a stage the data doesn't name as weakest is a coaching failure mode, not a real action.
+- **scope** — Name the deal source or segment and the start and end stage — typically sales-qualified lead to closed-won or closed-lost. Keep to one comparable segment; a blended pipeline produces a conversion number that describes neither.
+- **stages** — List each stage transition in order with how many deals entered it and how many moved on. Take the counts from CRM stage history, not a gut sense that "about half fall through."
+- **rolledYield** — Calculated from the stage counts — don't type it; check each stage's rate against your counts, and that the weakest stage is one the sales team would expect.
+- **narrative** — Write a few sentences on why the weakest stage loses deals, from what reps or RevOps have actually seen — call notes, lost-deal reasons, the deals themselves. If nobody has checked a reason yet, say it's still a guess.
+- **countermeasures** — List what you'll do about the weakest stage, ranked by impact and effort, each with an owner and a date. Aim every countermeasure at the stage the data names as weakest, not the one that feels most urgent.
 
 ## What good looks like
 

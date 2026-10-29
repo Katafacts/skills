@@ -29,10 +29,10 @@ Not when:
 
 ## How to fill it in
 
-- **scopeNotes** — What set of hypotheses does this log cover?
-- **hypotheses** — List every hypothesis or idea you want tracked, even ones you haven't tested yet.
-- **tests** — For each test: which hypothesis it relates to, the test type, what actually happened, and your real recommendation — keep, revise, or kill — your own facts, never guessed.
-- **narrative** — Drafted from the log's own computed coverage.
+- **scopeNotes** — Say which ideas or hypotheses this log covers — a campaign, a product area, a quarter. A clear boundary tells you which tests belong here.
+- **hypotheses** — List every hypothesis you want tracked, including ones you haven't tested yet. Write each as something a test could prove wrong — "a shorter form will raise sign-ups", not "improve the form".
+- **tests** — For each test, write which hypothesis it relates to, the type of test, what actually happened, and your recommendation: keep, revise or kill. Take the result from the data or the people who ran the test, and record it even when it disappoints — a failed test is still something learned.
+- **narrative** — Write a few sentences on what the log shows: which hypotheses held, which failed, and which have never been tested. Use only what's recorded.
 
 ## What good looks like
 

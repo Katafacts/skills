@@ -29,9 +29,9 @@ Not when:
 
 ## How to fill it in
 
-- **scopeArea** — What part of the commercial function do these metric definitions cover?
-- **metrics** — For each metric: the formula, data source, owner, refresh cadence, and unit you actually use today — your own facts, never guessed. Leave any of these blank if it's genuinely not agreed yet, including a model (like attribution) that's really just an unvalidated default.
-- **narrative** — Drafted from the metrics actually defined, naming which ones still have a real gap.
+- **scopeArea** — Say which part of the commercial function these definitions cover — campaigns, pipeline, retention.
+- **metrics** — For each metric, write the formula, the data source, the owner, how often it's refreshed and the unit, as they're actually used today. Get them from whoever builds the report, and leave a field blank if it isn't agreed yet — including an attribution model that's really just an unchecked default.
+- **narrative** — Write a few sentences naming which metrics are fully defined and which still have a gap — no owner, no agreed formula, or a source nobody trusts.
 
 ## What good looks like
 

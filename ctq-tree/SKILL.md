@@ -30,11 +30,11 @@ Not when:
 
 ## How to fill it in
 
-- **scope** — Which customer population or segment do these needs come from?
-- **needs** — List each need, ideally traced to a specific VOC evidence-log theme or affinity-diagram cluster. Drivers and measurable CTQs get drafted beneath each one — don't fill those in at intake.
-- **coverage** — Computed for you: total needs, drivers, and measures, and which needs still have no measurable CTQ beneath them — nothing to enter here.
-- **narrative** — Drafted from the tree and any coverage gaps — which needs are well-specified, which still need more VOC work.
-- **nextSteps** — What will you do about a coverage gap or a specific need, ranked by impact and effort, owned and dated? A next step not tied to a named need is a coaching failure mode, not a real action.
+- **scope** — Name the customer group or segment these needs come from, and the period the evidence covers. Different groups often want different things, so keep to one group per tree.
+- **needs** — List each customer need in the customer's terms, traced to a theme in your voice of the customer evidence. Under each need, write the drivers — the specific things that decide whether the need is met — and under each driver a measurable CTQ with a target, like "reply within 4 working hours, 95% of the time". A driver with no number under it is still a wish, not something you can check.
+- **coverage** — Calculated from the tree — don't type it; check the counts match what you wrote, and look hardest at any need shown with no measurable CTQ beneath it.
+- **narrative** — Write a few sentences on which needs are well specified and which still need more customer evidence before you can measure them. Base it on the tree and its gaps, not on what you'd like to be true.
+- **nextSteps** — List what you'll do about a coverage gap or a specific need, ranked by impact and effort, each with an owner and a date. Tie every step to a named need; a step that isn't tied to one rarely gets done.
 
 ## What good looks like
 

@@ -30,9 +30,9 @@ Not when:
 
 ## How to fill it in
 
-- **purpose** — What does this task accomplish and why does it matter?
-- **steps** — Drafted from your task description — major steps, each with zero or more key points and, for every key point, the reason it matters. A step with no key point yet is flagged, not hidden.
-- **narrative** — Drafted from the steps actually built.
+- **purpose** — Write what this task achieves and why it matters — for the customer, the next step or safety — in one or two sentences.
+- **steps** — List the major steps in order, each as a short verb-led phrase. Under each step add the key points — what makes it safe, right or easier — and for every key point, the reason it matters. Write them while watching someone skilled do the task, not from memory; a step with no key point yet is fine, but mark it so it gets filled.
+- **narrative** — Write a short note on how to use this instruction: who it's for, the one or two key points most often missed, and when it was last checked against the work.
 
 ## What good looks like
 

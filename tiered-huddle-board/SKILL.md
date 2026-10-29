@@ -29,8 +29,8 @@ Not when:
 
 ## How to fill it in
 
-- **tiers** — Drafted from each tier's name, cadence, attendees, and a rough note on what it watches — assign a real, named owner to each tier afterward.
-- **narrative** — Drafted from the ladder actually built.
+- **tiers** — List each tier of huddle from the front line up, with its name, how often it meets, who attends, a named owner, what it reviews, and the condition that sends an issue up to the next tier. Write the condition so anyone could apply it — "any safety red, or a delivery red two days running", not "serious issues".
+- **narrative** — Write a few sentences on how the ladder works: how a problem travels up, how an answer gets back down, and any tier that still has no owner.
 
 ## What good looks like
 

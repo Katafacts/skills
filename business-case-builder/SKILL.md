@@ -30,13 +30,13 @@ Not when:
 
 ## How to fill it in
 
-- **costOfInaction** — What does staying with the status quo keep costing the buyer, and why does that matter before their next budget cycle closes?
-- **investment** — Describe the deal roughly — license, implementation, services — and a first-pass itemized estimate gets drafted for you to correct with real numbers.
-- **valueDrivers** — Drafted from your description of the deal — each with how the number was derived and how confident it actually is. Ground these in real discovery or value-hypothesis findings wherever you can.
-- **roiSummary** — Computed for you from investment and value drivers — nothing to enter here.
-- **assumptions** — Drafted alongside the value drivers — what has to stay true for the champion's numbers to hold up under questioning.
-- **narrative** — Drafted executive summary — the shape of the case in words, never restating the computed numbers itself.
-- **nextSteps** — What needs firming up before this case goes to the buyer's own finance team, ranked by impact and effort, owned and dated.
+- **costOfInaction** — Write what staying with things as they are keeps costing the buyer, in money, time or risk, and why that matters before their next budget cycle closes. Use figures the buyer gave you in discovery, so their own finance team can trace them.
+- **investment** — List what the buyer will pay, line by line — license, implementation, services — split into one-time and ongoing costs. Take the figures from the real quote, and include the buyer's own internal costs such as staff time, because their finance team will add them if you don't.
+- **valueDrivers** — For each way the buyer gains — time saved, cost removed, revenue added — write the number, how you worked it out, and how confident you are in it. Ground each one in what the buyer said in discovery or in your value hypothesis; a driver you can't trace to their words is the first one their finance team will cut.
+- **roiSummary** — Calculated from the investment and value drivers — don't type it; check the payback and return make sense against the totals above, and if they look too good, recheck your least-confident driver.
+- **assumptions** — List what has to stay true for the numbers to hold — adoption, headcount, prices, timing. Write each one so your champion could defend it when the buyer's finance team asks, and flag any that nobody can check.
+- **narrative** — Write a short summary of the case in plain words: what waiting costs the buyer, what they invest, and the two or three drivers that carry the value. Point to the numbers on the sheet rather than restating them, so the words and the figures never disagree.
+- **nextSteps** — List what needs firming up before this case goes to the buyer's own finance team — usually the least-confident drivers — ranked by impact and effort, each with an owner and a date.
 
 ## What good looks like
 

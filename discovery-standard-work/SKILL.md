@@ -30,9 +30,9 @@ Not when:
 
 ## How to fill it in
 
-- **purpose** — What does this call need to establish, and why does it matter for how the deal moves afterward?
-- **steps** — Drafted from your description of the call — major steps, each with zero or more key points and, for every key point, the reason it matters. A step with no technique yet is flagged, not hidden.
-- **narrative** — Drafted from the steps actually built.
+- **purpose** — Write what this call needs to establish and why it matters for how the deal moves afterward — for example, confirming there's a real, funded problem and who decides. Keep it to one or two sentences; every step below should serve it.
+- **steps** — List the major steps of the call in order, each as a short verb-led phrase. Under each step add the key points — what makes the step work — and for every key point, the reason it matters. Write them from listening to your best calls, not from memory; a step with no key point yet is fine, but mark it so it gets filled.
+- **narrative** — Write a short summary of how the call runs and the one or two key points that matter most, so anyone reading it just before a call knows what to focus on.
 
 ## What good looks like
 

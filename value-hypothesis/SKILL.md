@@ -30,11 +30,11 @@ Not when:
 
 ## How to fill it in
 
-- **scope** — Which deal or buyer is this hypothesis built for, and at what stage?
-- **needs** — List each buyer need, ideally traced to a specific discovery call finding. Drivers and quantified proof points get drafted beneath each one — don't fill those in at intake.
-- **coverage** — Computed for you: total needs, drivers, and proof points, and which needs still have no quantified proof point beneath them — nothing to enter here.
-- **narrative** — Drafted from the tree and any coverage gaps — which needs are well-specified, which still need more discovery.
-- **nextSteps** — What will you do about a coverage gap or a specific need, ranked by impact and effort, owned and dated? A next step not tied to a named need is a coaching failure mode, not a real action.
+- **scope** — Name the deal or buyer this is for and where the deal stands now. Write one per buyer; what one buyer values won't hold for the next.
+- **needs** — List each buyer need, traced to something said in a discovery call. Under each need write the drivers — why the need matters to them — and under each driver a proof point with a number in time, money or risk, ideally in the buyer's own figures. A driver with no number under it is a claim the buyer can't check.
+- **coverage** — Calculated from the tree — don't type it; check the counts match what you wrote, and look hardest at any need shown with no quantified proof point.
+- **narrative** — Write a few sentences on which needs are well supported and which still need more discovery. Base it on the tree, not on what you hope the buyer thinks.
+- **nextSteps** — List what you'll do about a gap or a specific need — often a question for the next call — ranked by impact and effort, each with an owner and a date. Tie every step to a named need.
 
 ## What good looks like
 

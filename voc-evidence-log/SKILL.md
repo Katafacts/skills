@@ -30,11 +30,11 @@ Not when:
 
 ## How to fill it in
 
-- **scope** — Which customer population does this evidence cover, and over what period? A log with no stated boundary blends customers who don't belong in the same analysis into a set of themes that describes neither group well.
-- **entries** — Enter each quote or observation with its source, source type, and date. Use the customer's own words or a close paraphrase — a generalized summary defeats the point of evidence. No theme yet; that's drafted for you next.
-- **themeSummary** — Drafted from your entries, then genuinely yours to edit — reassign any entry's theme and the tally updates immediately. Unlike every other artifact in this catalogue, this stays editable after generation, because theme assignment is the real judgement call here.
-- **narrative** — Drafted from the top themes — what the evidence, taken together, actually suggests.
-- **nextSteps** — What will you do with this evidence, ranked by impact and effort, owned and dated? A next step not tied to a named theme is a coaching failure mode, not a real action.
+- **scope** — Name the customer group this evidence covers and the period. A log with no stated boundary blends customers who don't belong in the same analysis into themes that describe neither group well.
+- **entries** — Enter each quote or observation with its source, source type and date. Use the customer's own words or a close paraphrase — a general summary defeats the point of evidence — and leave the theme for the next step.
+- **themeSummary** — Give each entry a theme, then read the themes across all the entries; the tally updates as you reassign them. Assigning themes is the real judgement call here, so name each one in plain words taken from the evidence, and treat a theme with only one or two entries as a hint, not a pattern.
+- **narrative** — Write a few sentences on what the top themes, taken together, suggest. Use only what the entries say, and quote a customer where it makes the point.
+- **nextSteps** — List what you'll do with this evidence, ranked by impact and effort, each with an owner and a date. Tie each step to a named theme, so you can check later whether it was dealt with.
 
 ## What good looks like
 
