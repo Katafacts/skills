@@ -8,11 +8,11 @@ description: "Milestones toward a real completion date, each owned by your own t
 
 Milestones toward a real completion date, each owned by your own team, an outside party, or both — with days remaining, overdue and unowned milestones, and a mutuality check computed, not asserted: a plan where every milestone belongs to your own side isn't actually cross-functional.
 
-Family: Kaizen events · Format: .xlsx · Domain: core
+Family: Improvement events · Format: .xlsx · Domain: core
 
 ## What it is
 
-An implementation plan turns a commitment — a countermeasure, a kaizen charter's rollout, a Hoshin catchball agreement — into a real, checkable sequence of milestones converging on a target completion date. Each milestone names who it depends on: your own team, an outside party, or both jointly. Days remaining, which milestones are already overdue, and which have no named owner yet are all computed from what you enter, not asserted. The one check unique to this tool: if every milestone belongs to your own side, that's flagged directly — a plan with zero cross-functional dependency usually means nobody outside the initiating team has actually committed to anything yet, not that the plan is simpler than most.
+An implementation plan turns a commitment — a countermeasure, an improvement event charter's rollout, a Hoshin catchball agreement — into a real, checkable sequence of milestones converging on a target completion date. Each milestone names who it depends on: your own team, an outside party, or both jointly. Days remaining, which milestones are already overdue, and which have no named owner yet are all computed from what you enter, not asserted. The one check unique to this tool: if every milestone belongs to your own side, that's flagged directly — a plan with zero cross-functional dependency usually means nobody outside the initiating team has actually committed to anything yet, not that the plan is simpler than most.
 
 ## When to use it
 
@@ -26,7 +26,7 @@ Not when:
 
 - Everything genuinely depends on one person or one team — a plan with no real outside dependency doesn't need this structure; a simple task list will do.
 - You don't have a real target completion date yet — pin that down first, or the days-remaining and overdue math has nothing real to measure against.
-- You're still deciding what to do, not how to sequence doing it — that's an A3 or a kaizen charter's job; this tool assumes the commitment is already made.
+- You're still deciding what to do, not how to sequence doing it — that's an A3 or an improvement event charter's job; this tool assumes the commitment is already made.
 
 ## How to fill it in
 
@@ -52,7 +52,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **A3 problem solving** (`a3`) — A countermeasure an A3 identifies is exactly the kind of commitment that needs a real, dated, cross-functional plan to actually happen.
-- **Kaizen event charter** (`kaizen-charter`) — Once a kaizen event's plan is set, rolling out what it produced across a wider area is what this tool sequences.
+- **Improvement event charter** (`improvement-event-charter`) — Once an improvement event's plan is set, rolling out what it produced across a wider area is what this tool sequences.
 
 ## Where AI helps
 

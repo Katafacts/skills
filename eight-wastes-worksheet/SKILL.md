@@ -20,7 +20,7 @@ Use it when:
 
 - You're walking a real process — shop floor or office — and want to record what you actually see, tagged consistently, instead of a running list of complaints.
 - You want an honest tally showing which waste category actually dominates, not a gut feeling about what's probably the biggest problem.
-- You're kicking off a kaizen event or a Transactional Process Improvement (TPI) review and need real evidence of where the waste is before committing to what to fix.
+- You're kicking off an improvement event or a Transactional Process Improvement (TPI) review and need real evidence of where the waste is before committing to what to fix.
 
 Not when:
 
@@ -53,7 +53,7 @@ Downstream:
 
 - **Makigami process map** (`makigami`) — Once waste is identified by category, a Makigami follows one real case step by step and shows exactly where — and in whose lane — each waste lives, with the waits and handoffs timed.
 - **Value stream map — current and future state** (`value-stream-map`) — A waste walk's findings are often the raw material a value stream map's current-state analysis draws on to compute where the flow is actually choked.
-- **Kaizen event charter** (`kaizen-charter`) — A concentrated cluster of high-impact waste in one category is exactly the kind of finding that justifies chartering a real kaizen event, not just a next-steps list.
+- **Improvement event charter** (`improvement-event-charter`) — A concentrated cluster of high-impact waste in one category is exactly the kind of finding that justifies chartering a real improvement event, not just a next-steps list.
 
 ## Where AI helps
 

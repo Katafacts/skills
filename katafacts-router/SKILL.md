@@ -31,12 +31,12 @@ Katafacts is a free catalogue of 50 continuous-improvement methods ("katas"), ea
 What the catalogue search returns for some common problems (best match first):
 
 - "Our invoices take weeks to get paid": `makigami`, `improvement-kata-storyboard`, `value-stream-map`
-- "Too many handoffs between teams": `makigami`, `daily-huddle`, `kaizen-charter`
+- "Too many handoffs between teams": `makigami`, `daily-huddle`, `improvement-event-charter`
 - "Defects keep coming back": `pareto-chart`, `five-whys`, `first-pass-yield-tracker`
 - "Sales deals stall in the pipeline": `sales-funnel-map`, `wip-aging-report`, `deal-a3`
 - "A change is about to go live and might fail": `fmea`, `metric-definition-sheet`, `implementation-plan`
 - "Customers keep complaining": `voc-evidence-log`, `customer-interview-guide`, `win-loss-interview-guide`
-- "Improvements don't stick after the event": `kaizen-charter`, `improvement-kata-storyboard`, `kaizen-funnel`
+- "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `business-case`
 
 ## Catalogue
 
@@ -100,17 +100,17 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 
 ### Improve continuously
 
-- `business-case` -- Business case (Kaizen events)
-- `business-case-builder` -- Business case builder (Kaizen events)
-- `implementation-plan` -- Implementation plan (Kaizen events)
-- `mutual-action-plan` -- Mutual action plan (Kaizen events)
+- `business-case` -- Business case (Improvement events)
+- `business-case-builder` -- Business case builder (Improvement events)
+- `implementation-plan` -- Implementation plan (Improvement events)
+- `mutual-action-plan` -- Mutual action plan (Improvement events)
 - `learning-log` -- Learning log (Experimentation)
 - `improvement-kata-storyboard` -- Improvement kata storyboard (Improvement kata)
 - `metric-definition-sheet` -- Metric definition sheet (Measurement)
 - `marketing-metric-definition-sheet` -- Marketing metric definition sheet (Measurement)
 - `marketing-attribution-reality-check` -- Marketing attribution reality check (Measurement)
-- `kaizen-funnel` -- Kaizen funnel (Kaizen events)
-- `kaizen-charter` -- Kaizen event charter (Kaizen events)
+- `improvement-idea-funnel` -- Improvement idea funnel (Improvement events)
+- `improvement-event-charter` -- Improvement event charter (Improvement events)
 
 ### Sustain
 

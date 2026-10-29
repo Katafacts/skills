@@ -8,7 +8,7 @@ description: "Agree the path to signature with the buyer: milestones toward the 
 
 Agree the path to signature with the buyer: milestones toward the close date, each owned by you, the buyer or both, with days remaining, overdue and unowned steps computed, so a one-sided plan can't pass as a mutual commitment.
 
-Family: Kaizen events · Format: .xlsx · Domain: commercial
+Family: Improvement events · Format: .xlsx · Domain: commercial
 
 ## What it is
 

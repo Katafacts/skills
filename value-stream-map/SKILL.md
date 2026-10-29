@@ -79,7 +79,7 @@ Judgement — stays with you:
 
 Analysis — AI helps:
 
-- Drafting waste narratives from raw gemba observation notes
+- Drafting waste narratives from raw go-see observation notes
 - Pressure-testing whether a proposed countermeasure actually addresses the named finding
 - Ranking countermeasures by impact and effort
 

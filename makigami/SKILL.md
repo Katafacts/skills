@@ -12,7 +12,7 @@ Family: Value stream mapping · Format: .xlsx · Domain: core
 
 ## What it is
 
-A Makigami (Japanese for "roll of paper") maps an office or information process on one long sheet. Lanes run across for every role, department and system that touches the work, and the steps of one real case sit in those lanes in the order they happened. Underneath every step it captures four things a standard flowchart doesn't: tools (the documents and IT systems used), time (active processing time against wait time), quality (how often the work handed on is complete and accurate — its percent complete and accurate, or %C&A) and friction (errors, rework and bottlenecks). Makigami originates from the administrative pillar of Total Productive Maintenance (TPM); its closest equivalent is metrics-based process mapping. Where a value stream map reveals where a flow is blocked, a Makigami shows why — the hidden delays, handoffs and rework that drain an office process.
+A Makigami (Japanese for "roll of paper") maps an office or information process on one long sheet. Lanes run across for every role, department and system that touches the work, and the steps of one real case sit in those lanes in the order they happened. Underneath every step it captures four things a standard flowchart doesn't: tools (the documents and IT systems used), time (active processing time against wait time), quality (how often the work handed on is complete and accurate — its percent complete and accurate, or %C&A) and friction (errors, rework and bottlenecks). It grew out of office improvement practice in Japan; its closest equivalent is metrics-based process mapping. Where a value stream map reveals where a flow is blocked, a Makigami shows why — the hidden delays, handoffs and rework that drain an office process.
 
 ## When to use it
 
@@ -35,7 +35,7 @@ Not when:
 - **metrics** — Computed from the map — you don't type these in. Lead time follows the longest path through the case; the activity ratio is work time divided by lead time; handoffs count every time the work changes lanes, plus work sent back to another lane. Rolled first-pass yield — every step's percent complete and accurate multiplied together — appears once most steps have a score. A blank means data is still missing, and the summary says what.
 - **problems** — Pin a note to the step wherever the work waits, gets re-checked, re-typed, chased or sent back — quantity over polish, with how often it happens. Add a rework loop wherever work comes back to an earlier step. Ask the next person, not the sender, how often what arrives is complete and accurate. Tag each step as value-adding, needed but not value-adding, or waste. Describe the step, never the person.
 - **future** — Start the future state from a copy of the current map, then remove steps, merge handoffs and take out re-keying and approvals that add nothing. Removed and changed steps are marked, and the before-and-after numbers sit side by side. Work through four questions in turn: what can be eliminated, what can be combined, what can be rearranged, and what can be simplified. Remove the need to move work around rather than speeding up the moving.
-- **plan** — Write ideas that each remove named problems, and sort them by who can fix them: A, the team on this map; B, needs another department; C, needs a company decision. Do the As first. Turn ideas into owned, dated actions — just do it, a kaizen event, or a project — and set a day-100 check.
+- **plan** — Write ideas that each remove named problems, and sort them by who can fix them: A, the team on this map; B, needs another department; C, needs a company decision. Do the As first. Turn ideas into owned, dated actions — just do it, an improvement event, or a project — and set a day-100 check.
 
 ## What good looks like
 
@@ -62,7 +62,7 @@ Upstream:
 Downstream:
 
 - **A3 problem solving** (`a3`) — A problem cluster that doesn't have an obvious fix is a bounded, evidenced problem an A3 can take to root cause.
-- **Kaizen event charter** (`kaizen-charter`) — Ideas that need another department (B) usually need a chartered kaizen event with those people in the room.
+- **Improvement event charter** (`improvement-event-charter`) — Ideas that need another department (B) usually need a chartered improvement event with those people in the room.
 - **Implementation plan** (`implementation-plan`) — Where the larger project-sized actions from the 100-day plan get tracked through to done.
 
 ## Where AI helps

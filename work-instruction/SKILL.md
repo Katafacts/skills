@@ -36,7 +36,7 @@ Not when:
 
 ## What good looks like
 
-The example below instructs the exact triage task the kaizen event charter's routing rule and the sustainment audit both reference — three of four steps have a real key point and reason, and the fourth is honestly left flagged rather than padded with a made-up one.
+The example below instructs the exact triage task the improvement event charter's routing rule and the sustainment audit both reference — three of four steps have a real key point and reason, and the fourth is honestly left flagged rather than padded with a made-up one.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/work-instruction
 
@@ -50,7 +50,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Kaizen event charter** (`kaizen-charter`) — A new process or routing rule set up by a kaizen event often needs a work instruction to actually stick once the event team moves on.
+- **Improvement event charter** (`improvement-event-charter`) — A new process or routing rule set up by an improvement event often needs a work instruction to actually stick once the event team moves on.
 
 Downstream:
 
