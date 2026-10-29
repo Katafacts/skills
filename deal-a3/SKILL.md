@@ -64,7 +64,7 @@ Upstream:
 Downstream:
 
 - **Mutual action plan** (`mutual-action-plan`) — When a deal A3's countermeasure is process-level (a new stage gate, a new qualification question), the mutual action plan is where that discipline gets applied deal-by-deal going forward.
-- **Pipeline review cascade** (not in the catalogue yet) — The confirmation plan's leading indicator (stage conversion, a logged qualification field) belongs on the team's regular pipeline review, not just checked once at the end of the confirmation window.
+- **Pipeline management board** (`pipeline-management-board`) — The confirmation plan's leading indicator belongs on the weekly pipeline board as one of the measures read red or green, not just checked once at the end of the confirmation window.
 - **Sales funnel value stream map** (`sales-funnel-map`) — A deal A3 explains one loss pattern in depth; a funnel value stream map shows where WIP and conversion loss concentrate across the whole pipeline, which is often where the next deal A3's topic comes from.
 
 ## Where AI helps

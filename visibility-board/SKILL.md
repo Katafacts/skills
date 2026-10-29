@@ -59,7 +59,7 @@ Upstream:
 
 Downstream:
 
-- **Pipeline review cascade** (not in the catalogue yet) — This board's monthly review names what's off track; the daily/weekly tiered huddle cadence is where an abnormality actually gets worked between reviews.
+- **Pipeline management board** (`pipeline-management-board`) — This board tracks the commercial team's measures against plan; the pipeline board is where each sales team reads the deals behind them every week: age against stage limits, coverage and next steps.
 - **Deal A3 — win-rate root cause analysis** (`deal-a3`) — When a repeat-miss KPI's quick countermeasure doesn't hold, a deal A3 is where the root cause gets worked with the full discipline it deserves.
 
 ## Where AI helps

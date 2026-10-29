@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 72 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 82 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -54,10 +54,13 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `affinity-diagram` -- Affinity diagram (Voice of the customer)
 - `ctq-tree` -- Critical-to-quality (CTQ) tree (Voice of the customer)
 - `customer-interview-guide` -- Customer interview guide (Voice of the customer)
+- `go-see-interview-protocol` -- Go-see interview protocol (Voice of the customer)
 - `win-loss-interview-guide` -- Win-loss interview guide (Voice of the customer)
 - `voc-collection-plan` -- Voice of the customer (VOC) collection plan (Voice of the customer)
 - `value-hypothesis` -- Value hypothesis (Voice of the customer)
+- `message-architecture` -- Message architecture (Voice of the customer)
 - `icp-evidence-log` -- Ideal customer profile (ICP) evidence log (Voice of the customer)
+- `value-proposition-map` -- Value proposition map (Voice of the customer)
 - `proof-point-inventory` -- Proof point inventory (Voice of the customer)
 
 ### See the work
@@ -66,6 +69,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `wip-aging-report` -- Work-in-progress (WIP) aging report (Flow and pull)
 - `scoping-canvas` -- Scoping canvas (Problem definition)
 - `sipoc` -- SIPOC (suppliers, inputs, process, outputs, customers) (Problem definition)
+- `tam-coverage-map` -- Total addressable market (TAM) coverage map (Problem definition)
 - `icp-canvas` -- Ideal customer profile (ICP) canvas (Problem definition)
 - `anti-icp` -- Anti-ideal customer profile (anti-ICP) (Problem definition)
 - `fit-criteria-scorecard` -- Fit-criteria scorecard (Problem definition)
@@ -104,6 +108,8 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `sqdip-board` -- SQDIP (safety, quality, delivery, inventory, productivity) shift board (Daily management)
 - `daily-huddle` -- Daily management huddle (Daily management)
 - `countermeasure-log` -- Countermeasure log (Daily management)
+- `pipeline-management-board` -- Pipeline management board (Daily management)
+- `marketing-operating-system-charter` -- Marketing operating system charter (Daily management)
 - `work-instruction` -- Work instruction (Standard work)
 - `iluo-training-matrix` -- Training matrix with I, L, U, O skill levels (ILUO) (Standard work)
 - `kpi-tree` -- Key performance indicator (KPI) tree (Daily management)
@@ -116,6 +122,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `andon-signal-definition` -- Andon signal definition (Visual management)
 - `standard-work-audit` -- Standard work audit (Standard work)
 - `visual-management-audit` -- Visual management audit (Visual management)
+- `consistency-audit` -- Consistency audit (Standard work)
 
 ### Improve continuously
 
@@ -123,7 +130,9 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `business-case-builder` -- Business case builder (Kaizen events)
 - `implementation-plan` -- Implementation plan (Kaizen events)
 - `mutual-action-plan` -- Mutual action plan (Kaizen events)
+- `stakeholder-coverage-map` -- Stakeholder coverage map (Kaizen events)
 - `learning-log` -- Learning log (Experimentation)
+- `message-testing-log` -- Message testing log (Experimentation)
 - `improvement-kata-storyboard` -- Improvement kata storyboard (Improvement kata)
 - `metric-definition-sheet` -- Metric definition sheet (Measurement)
 - `marketing-metric-definition-sheet` -- Marketing metric definition sheet (Measurement)
@@ -133,6 +142,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `improvement-event-charter` -- Kaizen event charter (Kaizen events)
 - `raci-chart` -- RACI (responsible, accountable, consulted, informed) chart (Kaizen events)
 - `sustainment-audit` -- Sustainment audit (Kaizen events)
+- `marketing-go-see-protocol` -- Marketing go-see protocol (Measurement)
 
 ### Sustain
 
@@ -150,6 +160,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - SIPOC: suppliers, inputs, process, outputs, customers
 - SQDIP: safety, quality, delivery, inventory, productivity — one common set of rows for a daily management grid, and not the only one
 - SWOT: strengths, weaknesses, opportunities, threats
+- TAM: total addressable market
 - VOC: voice of the customer
 - WIP: work in progress
 

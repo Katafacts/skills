@@ -64,7 +64,7 @@ Upstream:
 Downstream:
 
 - **Deal A3 — win-rate root cause analysis** (`deal-a3`) — The funnel map's longest wait or heaviest stage is exactly the kind of bounded, data-backed problem a deal A3 exists to close in depth.
-- **Pipeline review cascade** (not in the catalogue yet) — Once a stage-level finding is named, it belongs on the team's regular pipeline review as a tracked leading indicator, not just re-measured once at quarter-end.
+- **Pipeline management board** (`pipeline-management-board`) — Once the funnel map names the stage where deals pile up, the weekly pipeline board watches it: deals over that stage's age limit show red every week until the fix holds.
 
 ## Where AI helps
 

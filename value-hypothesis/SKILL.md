@@ -57,7 +57,7 @@ Upstream:
 Downstream:
 
 - **Deal A3 — win-rate root cause analysis** (`deal-a3`) — When a value hypothesis's value measure turns out to be wrong or unpersuasive after the deal is lost, that gap is exactly what an eventual deal A3's root cause analysis would trace back to.
-- **Message architecture** (not in the catalogue yet) — Once a value measure actually works in a real deal, this is where it gets promoted into the standing message every deal and channel should use — not invented fresh a second time.
+- **Message architecture** (`message-architecture`) — Once a value measure actually works in a real deal, this is where it gets promoted into the standing message every deal and channel should use — not invented fresh a second time.
 
 ## Where AI helps
 

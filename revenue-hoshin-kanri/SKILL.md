@@ -62,7 +62,7 @@ Upstream:
 
 Downstream:
 
-- **Pipeline review cascade** (not in the catalogue yet) — Tracks the metrics named here cadence by cadence — the X-Matrix sets what to watch; the pipeline board is where the team actually watches it between business reviews.
+- **Pipeline management board** (`pipeline-management-board`) — The X-matrix sets the year's targets; the pipeline board is where a sales team checks every week whether its deals add up to them, through coverage against what's left to win.
 - **Revenue cascade map** (not in the catalogue yet) — Shows how this X-Matrix's annual objectives become real, committed work inside a specific pod or function — the mechanism that makes this plan cascade through the commercial org rather than living at the leadership level.
 
 ## Where AI helps
