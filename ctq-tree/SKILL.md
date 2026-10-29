@@ -54,7 +54,7 @@ Upstream:
 
 - **SIPOC (suppliers, inputs, process, outputs, customers)** (`sipoc`) — Its requirements table names each customer's key need; the tree breaks one of those needs into measurable features.
 - **Customer journey map** (`customer-journey-map`) — The moments that matter that feel worst are the needs to turn into measurable requirements.
-- **Affinity diagram** (not in the catalogue yet) — A theme with real weight behind it from an affinity-diagramming session is exactly the kind of need this tree exists to translate into something measurable.
+- **Affinity diagram** (`affinity-diagram`) — A theme with real weight behind it from an affinity-diagramming session is exactly the kind of need this tree exists to translate into something measurable.
 
 Downstream:
 

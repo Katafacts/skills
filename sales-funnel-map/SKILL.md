@@ -59,7 +59,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Qualification standard work** (not in the catalogue yet) — Defines what actually earns sales-qualified status — the funnel map's start boundary is only meaningful if that definition is consistently applied before deals enter the mapped segment.
-- **Deal aging / work-in-progress report** (not in the catalogue yet) — Counts the stalled deals at each stage boundary that feed this map's work-in-progress counts. Generating leads faster than the funnel's constraint can absorb them shows up there as inventory, not pipeline health.
+- **Deal aging report** (`deal-aging-report`) — Counts the stalled deals at each stage boundary that feed this map's work-in-progress counts. Generating leads faster than the funnel's constraint can absorb them shows up there as inventory, not pipeline health.
 
 Downstream:
 

@@ -54,7 +54,7 @@ Downstream:
 
 - **Customer journey map** (`customer-journey-map`) — Interviews that walk through the experience in order give the map its stages, feelings and quotes.
 - **Voice of the customer (VOC) evidence log** (`voc-evidence-log`) — The quotes and observations this interview produces are exactly what feeds the evidence log — log them as they come in, not from memory afterward.
-- **Affinity diagram** (not in the catalogue yet) — Once you've run several interviews, an affinity-diagramming session is where the individual quotes get synthesized into real themes.
+- **Affinity diagram** (`affinity-diagram`) — Once you've run several interviews, an affinity-diagramming session is where the individual quotes get synthesized into real themes.
 
 ## Where AI helps
 

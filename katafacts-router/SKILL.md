@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 62 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 66 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -33,7 +33,7 @@ What the catalogue search returns for some common problems (best match first):
 - "Our invoices take weeks to get paid": `makigami`, `value-stream-map`, `eight-wastes-worksheet`
 - "Too many handoffs between teams": `makigami`, `go-see-protocol`
 - "Defects keep coming back": `pareto-chart`, `five-whys`, `first-pass-yield-tracker`
-- "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-a3`, `icp-evidence-log`
+- "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-aging-report`, `deal-a3`
 - "A change is about to go live and might fail": `fmea`, `implementation-plan`
 - "Customers keep complaining": `customer-journey-map`, `voc-evidence-log`, `customer-interview-guide`
 - "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `improvement-kata-storyboard`
@@ -50,6 +50,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 
 - `voc-evidence-log` -- Voice of the customer (VOC) evidence log (Voice of the customer)
 - `customer-journey-map` -- Customer journey map (Voice of the customer)
+- `affinity-diagram` -- Affinity diagram (Voice of the customer)
 - `ctq-tree` -- Critical-to-quality (CTQ) tree (Voice of the customer)
 - `customer-interview-guide` -- Customer interview guide (Voice of the customer)
 - `win-loss-interview-guide` -- Win-loss interview guide (Voice of the customer)
@@ -70,6 +71,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `sales-funnel-map` -- Sales funnel value stream map (Value stream mapping)
 - `makigami` -- Makigami process map (Value stream mapping)
 - `spaghetti-diagram` -- Spaghetti diagram: walking and carrying paths (Value stream mapping)
+- `deal-aging-report` -- Deal aging report (Value stream mapping)
 
 ### Set direction
 
@@ -103,9 +105,11 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `kpi-tree` -- Key performance indicator (KPI) tree (Daily management)
 - `leader-standard-work` -- Leader standard work (Daily management)
 - `escalation-matrix` -- Escalation matrix (Daily management)
+- `visual-board-design-guide` -- Visual board design guide (Visual management)
 - `tiered-huddle-board` -- Tiered huddle board (Daily management)
 - `go-see-protocol` -- Go-see protocol (Daily management)
 - `standard-work-audit` -- Standard work audit (Standard work)
+- `visual-management-audit` -- Visual management audit (Visual management)
 
 ### Improve continuously
 
