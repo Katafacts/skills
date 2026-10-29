@@ -57,7 +57,7 @@ Upstream:
 
 Downstream:
 
-- **Qualification standard work** (not in the catalogue yet) — The disqualifier check in qualification standard work is only as good as this list — a stale or missing anti-ICP means that step has nothing real to run against.
+- **Qualification standard work** (`qualification-standard-work`) — The disqualifier check in qualification standard work is only as good as this list — a stale or missing anti-ICP means that step has nothing real to run against.
 
 ## Where AI helps
 

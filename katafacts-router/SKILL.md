@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 66 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 72 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -31,12 +31,12 @@ Katafacts is a free catalogue of 66 continuous-improvement methods ("katas"), ea
 What the catalogue search returns for some common problems (best match first):
 
 - "Our invoices take weeks to get paid": `makigami`, `value-stream-map`, `eight-wastes-worksheet`
-- "Too many handoffs between teams": `makigami`, `go-see-protocol`
+- "Too many handoffs between teams": `makigami`, `shift-handover`, `go-see-protocol`
 - "Defects keep coming back": `pareto-chart`, `five-whys`, `first-pass-yield-tracker`
-- "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-aging-report`, `deal-a3`
+- "Sales deals stall in the pipeline": `sales-funnel-map`, `qualification-standard-work`, `deal-aging-report`
 - "A change is about to go live and might fail": `fmea`, `implementation-plan`
 - "Customers keep complaining": `customer-journey-map`, `voc-evidence-log`, `customer-interview-guide`
-- "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `improvement-kata-storyboard`
+- "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `lean-maturity-scorecard`
 
 ## Catalogue
 
@@ -44,6 +44,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 
 ### Orient
 
+- `lean-maturity-scorecard` -- Lean maturity scorecard (Foundations)
 - `eight-wastes-worksheet` -- Eight wastes (DOWNTIME) worksheet (Foundations)
 
 ### Understand the customer
@@ -77,7 +78,9 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 
 - `hoshin-kanri` -- Hoshin kanri X-matrix (Hoshin Kanri)
 - `swot-analysis` -- SWOT (strengths, weaknesses, opportunities, threats) analysis (Hoshin Kanri)
+- `true-north-statement` -- True north statement (Hoshin Kanri)
 - `revenue-hoshin-kanri` -- Revenue hoshin kanri X-matrix (Hoshin Kanri)
+- `cascade-map` -- Cascade map (Hoshin Kanri)
 
 ### Solve problems
 
@@ -96,6 +99,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `discovery-standard-work` -- Discovery call standard work (Standard work)
 - `performance-board` -- Performance board (Daily management)
 - `visibility-board` -- Visibility board (Daily management)
+- `qualification-standard-work` -- Qualification standard work (Standard work)
 - `performance-grid` -- Performance grid (Daily management)
 - `sqdip-board` -- SQDIP (safety, quality, delivery, inventory, productivity) shift board (Daily management)
 - `daily-huddle` -- Daily management huddle (Daily management)
@@ -105,9 +109,11 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `kpi-tree` -- Key performance indicator (KPI) tree (Daily management)
 - `leader-standard-work` -- Leader standard work (Daily management)
 - `escalation-matrix` -- Escalation matrix (Daily management)
+- `shift-handover` -- Shift handover (Daily management)
 - `visual-board-design-guide` -- Visual board design guide (Visual management)
 - `tiered-huddle-board` -- Tiered huddle board (Daily management)
 - `go-see-protocol` -- Go-see protocol (Daily management)
+- `andon-signal-definition` -- Andon signal definition (Visual management)
 - `standard-work-audit` -- Standard work audit (Standard work)
 - `visual-management-audit` -- Visual management audit (Visual management)
 

@@ -57,7 +57,7 @@ Upstream:
 
 Downstream:
 
-- **Qualification standard work** (not in the catalogue yet) — This canvas's firmographic ranges and trigger signals are exactly what a qualification standard work checks a lead against — the canvas defines the target, the standard work operationalizes checking against it.
+- **Qualification standard work** (`qualification-standard-work`) — This canvas's firmographic ranges and trigger signals are exactly what a qualification standard work checks a lead against — the canvas defines the target, the standard work operationalizes checking against it.
 - **Total addressable market (TAM) coverage map** (not in the catalogue yet) — Once the ICP is defined here, a TAM coverage map is where you'd measure how much of the addressable market matching it is actually on the radar as a named target.
 - **Anti-ideal customer profile (anti-ICP)** (`anti-icp`) — This canvas defines who to pursue; an anti-ICP is the separate list of who not to, or who to pursue only with a specific countermeasure — deliberately not a mirrored version of this canvas with the polarity flipped.
 

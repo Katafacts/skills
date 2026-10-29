@@ -66,7 +66,7 @@ Downstream:
 
 - **Daily management huddle** (`daily-huddle`) — The handover conversation this board exists for. On a shift pattern the huddle is where the outgoing crew tells the incoming one what went red and what has been done about it.
 - **Countermeasure log** (`countermeasure-log`) — Where a repeat cause goes to be removed, and where you find out whether overtime containment ever turned into a permanent fix.
-- **Shift handover** (not in the catalogue yet) — What travels with the board between crews. A red marked at handover and not explained to the incoming shift is a red that gets re-discovered rather than worked.
+- **Shift handover** (`shift-handover`) — What travels with the board between crews. A red marked at handover and not explained to the incoming shift is a red that gets re-discovered rather than worked.
 - **Pareto chart** (`pareto-chart`) — Which reason keeps repeating across a longer window than one week of shifts, and across several cells at once.
 - **A3 problem solving** (`a3`) — The cycle a repeating cause has earned — a changeover that needs trained setters and revised standard work is not something a shift can contain its way out of.
 
