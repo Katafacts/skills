@@ -51,6 +51,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
+- **RACI (responsible, accountable, consulted, informed) chart** (`raci-chart`) — The same one-owner-per-step discipline, for work inside your own team.
 - **Business case builder** (`business-case-builder`) — The case that earns a champion's real commitment is what this plan turns into a dated, checkable sequence.
 - **Value hypothesis** (`value-hypothesis`) — A proof point already validated in a value hypothesis is exactly the kind of evidence a milestone's own risk can point back to.
 

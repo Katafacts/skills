@@ -58,6 +58,8 @@ Upstream:
 
 Downstream:
 
+- **SIPOC (suppliers, inputs, process, outputs, customers)** (`sipoc`) — Turns the agreed scope into a process boundary, the handful of main steps, and the customers and suppliers on either side.
+- **SWOT (strengths, weaknesses, opportunities, threats) analysis** (`swot-analysis`) — Once the scope and goal are set, a SWOT scored against that goal shows what you're building on and exposed to.
 - **Improvement event charter** (`improvement-event-charter`) — Once an initiative is scoped and worth a dedicated event, the charter is where it gets resourced, dated, and given a roster — heavier commitment than a canvas alone implies.
 - **Business case** (`business-case`) — An initiative whose value needs to be argued for, not just scoped, is where a business case's investment/value-driver discipline takes over.
 

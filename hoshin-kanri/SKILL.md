@@ -55,6 +55,10 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 ## What it connects to
 
+Upstream:
+
+- **SWOT (strengths, weaknesses, opportunities, threats) analysis** (`swot-analysis`) — An evidenced look at where you stand before setting the year's objectives; its paired actions are candidate strategies.
+
 Downstream:
 
 - **A3 problem solving** (`a3`) — When a strategy on the X-Matrix isn't moving its metric, an A3 is the right tool to find out why and close the gap — Hoshin sets the direction, A3 closes the specific gaps along the way.

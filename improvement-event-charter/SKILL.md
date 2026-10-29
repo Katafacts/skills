@@ -54,10 +54,13 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
+- **Spaghetti diagram: walking and carrying paths** (`spaghetti-diagram`) — A spaghetti diagram gives a layout event its baseline (metres a shift today) and a target for the proposed layout.
+- **Impact/effort matrix: sort ideas fast** (`impact-effort-matrix`) — A Plan it idea that needs a team and a few focused days often becomes an event.
 - **Voice of the customer (VOC) evidence log** (`voc-evidence-log`) — A real opportunity statement is often grounded in something the evidence log already surfaced — this charter's worked example charters an event against exactly that kind of finding.
 
 Downstream:
 
+- **RACI (responsible, accountable, consulted, informed) chart** (`raci-chart`) — The charter names one accountable owner for the event; the chart does the same for every task and decision in the process the event changes.
 - **Sustainment audit** (not in the catalogue yet) — Once the event closes, the sustainment audit checks whether this charter's commitments actually held.
 
 ## Where AI helps

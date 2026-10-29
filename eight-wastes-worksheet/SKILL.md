@@ -51,6 +51,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Downstream:
 
+- **Spaghetti diagram: walking and carrying paths** (`spaghetti-diagram`) — Motion and transport waste found on the walk can be measured: follow one person or part for a full cycle and the diagram shows how far they travel and which legs cost the most.
 - **Makigami process map** (`makigami`) — Once waste is identified by category, a Makigami follows one real case step by step and shows exactly where — and in whose lane — each waste lives, with the waits and handoffs timed.
 - **Value stream map — current and future state** (`value-stream-map`) — A waste walk's findings are often the raw material a value stream map's current-state analysis draws on to compute where the flow is actually choked.
 - **Improvement event charter** (`improvement-event-charter`) — A concentrated cluster of high-impact waste in one category is exactly the kind of finding that justifies chartering a real improvement event, not just a next-steps list.

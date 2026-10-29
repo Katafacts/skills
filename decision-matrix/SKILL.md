@@ -51,6 +51,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
+- **SWOT (strengths, weaknesses, opportunities, threats) analysis** (`swot-analysis`) — When a SWOT produces several competing actions, score them here before committing.
+- **Impact/effort matrix: sort ideas fast** (`impact-effort-matrix`) — Sorts a long list fast; the big or close calls it flags come here for a weighted comparison.
 - **Countermeasure matrix** (not in the catalogue yet) — When a countermeasure matrix's fast impact/effort filter narrows a long list down to a genuine handful of finalists, a weighted decision matrix is where those finalists get compared in depth on the criteria that actually matter.
 - **Failure mode and effects analysis (FMEA)** (`fmea`) — When an FMEA's recommended actions produce more than one real candidate fix for the same risk, a weighted decision matrix is where you choose between them on more than just risk priority number alone.
 

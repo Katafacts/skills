@@ -51,6 +51,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
+- **RACI (responsible, accountable, consulted, informed) chart** (`raci-chart`) — Agree who owns each task and decision first; the A on a row is usually the right owner for the action that changes it.
 - **A3 problem solving** (`a3`) — A countermeasure an A3 identifies is exactly the kind of commitment that needs a real, dated, cross-functional plan to actually happen.
 - **Improvement event charter** (`improvement-event-charter`) — Once an improvement event's plan is set, rolling out what it produced across a wider area is what this tool sequences.
 

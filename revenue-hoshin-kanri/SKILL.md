@@ -56,6 +56,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
+- **SWOT (strengths, weaknesses, opportunities, threats) analysis** (`swot-analysis`) — Where the revenue team really stands, with evidence, before choosing the year's revenue objectives.
 - **Deal A3 — win-rate root cause analysis** (`deal-a3`) — A deal A3's root cause is exactly the kind of specific finding an annual objective should trace to — the worked example here sets its win-rate target directly from the deal A3's finding, not independently of it.
 - **Sales funnel value stream map** (`sales-funnel-map`) — A funnel map's capacity constraint or largest wait contributor is the other natural input to an annual objective — this worked example's proposal-wait target comes straight from the funnel map's finding.
 

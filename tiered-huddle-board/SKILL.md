@@ -48,6 +48,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
+- **RACI (responsible, accountable, consulted, informed) chart** (`raci-chart`) — Says whose decision an escalated problem is, so it goes to the right tier first time.
 - **Escalation matrix** (not in the catalogue yet) — A tier's escalation condition often traces to the same severity/trigger thinking an escalation matrix already made explicit for a specific process.
 - **Key performance indicator (KPI) tree** (not in the catalogue yet) — What a given tier reviews is frequently a subset of an existing KPI tree's driver metrics, scoped to that tier's altitude.
 

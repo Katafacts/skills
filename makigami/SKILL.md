@@ -55,12 +55,15 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
+- **SIPOC (suppliers, inputs, process, outputs, customers)** (`sipoc`) — A one-page outline agreed first: where the process starts and ends, who it serves and what they need. The map then follows one real case inside that boundary.
+- **Customer journey map** (`customer-journey-map`) — A journey stage that feels bad points at the internal process to map step by step.
 - **Value stream map — current and future state** (`value-stream-map`) — Zoom into one process box whose waits or quality are poor — open a Makigami from that step, and send its work time and first-pass yield back to the value stream map when you're done.
 - **Go-see protocol** (not in the catalogue yet) — How to follow the real case in person, rather than mapping from memory.
 - **Eight wastes (DOWNTIME) worksheet** (`eight-wastes-worksheet`) — A waste walk on the same process often shows which part is worth mapping step by step.
 
 Downstream:
 
+- **Spaghetti diagram: walking and carrying paths** (`spaghetti-diagram`) — Where handoffs mean carrying paper or walking to ask someone, draw the office floor and measure the walking.
 - **A3 problem solving** (`a3`) — A problem cluster that doesn't have an obvious fix is a bounded, evidenced problem an A3 can take to root cause.
 - **Improvement event charter** (`improvement-event-charter`) — Ideas that need another department (B) usually need a chartered improvement event with those people in the room.
 - **Implementation plan** (`implementation-plan`) — Where the larger project-sized actions from the 100-day plan get tracked through to done.

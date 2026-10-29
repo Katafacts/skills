@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 50 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 56 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -35,8 +35,8 @@ What the catalogue search returns for some common problems (best match first):
 - "Defects keep coming back": `pareto-chart`, `five-whys`, `first-pass-yield-tracker`
 - "Sales deals stall in the pipeline": `sales-funnel-map`, `wip-aging-report`, `deal-a3`
 - "A change is about to go live and might fail": `fmea`
-- "Customers keep complaining": `voc-evidence-log`, `customer-interview-guide`, `voc-collection-plan`
-- "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `business-case`
+- "Customers keep complaining": `customer-journey-map`, `voc-evidence-log`, `customer-interview-guide`
+- "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `raci-chart`
 
 ## Catalogue
 
@@ -49,6 +49,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 ### Understand the customer
 
 - `voc-evidence-log` -- Voice of the customer (VOC) evidence log (Voice of the customer)
+- `customer-journey-map` -- Customer journey map (Voice of the customer)
 - `ctq-tree` -- Critical-to-quality (CTQ) tree (Voice of the customer)
 - `customer-interview-guide` -- Customer interview guide (Voice of the customer)
 - `win-loss-interview-guide` -- Win-loss interview guide (Voice of the customer)
@@ -61,15 +62,18 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `value-stream-map` -- Value stream map — current and future state (Value stream mapping)
 - `wip-aging-report` -- Work-in-progress (WIP) aging report (Flow and pull)
 - `scoping-canvas` -- Scoping canvas (Problem definition)
+- `sipoc` -- SIPOC (suppliers, inputs, process, outputs, customers) (Problem definition)
 - `icp-canvas` -- Ideal customer profile (ICP) canvas (Problem definition)
 - `anti-icp` -- Anti-ideal customer profile (anti-ICP) (Problem definition)
 - `sales-funnel-map` -- Sales funnel value stream map (Value stream mapping)
 - `makigami` -- Makigami process map (Value stream mapping)
+- `spaghetti-diagram` -- Spaghetti diagram: walking and carrying paths (Value stream mapping)
 - `stage-conversion-analysis` -- Stage conversion analysis (Value stream mapping)
 
 ### Set direction
 
 - `hoshin-kanri` -- Hoshin kanri X-matrix (Hoshin Kanri)
+- `swot-analysis` -- SWOT (strengths, weaknesses, opportunities, threats) analysis (Hoshin Kanri)
 - `revenue-hoshin-kanri` -- Revenue hoshin kanri X-matrix (Hoshin Kanri)
 
 ### Solve problems
@@ -81,6 +85,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `fishbone` -- Fishbone diagram (Problem solving / root cause analysis)
 - `five-whys` -- 5-Whys (Problem solving / root cause analysis)
 - `decision-matrix` -- Weighted decision matrix (Problem solving / root cause analysis)
+- `impact-effort-matrix` -- Impact/effort matrix: sort ideas fast (Problem solving / root cause analysis)
 - `fit-criteria-scorecard` -- Fit-criteria scorecard (Problem solving / root cause analysis)
 - `evidence-register` -- Evidence register (Problem solving / root cause analysis)
 - `proof-point-inventory` -- Proof point inventory (Problem solving / root cause analysis)
@@ -111,6 +116,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `marketing-attribution-reality-check` -- Marketing attribution reality check (Measurement)
 - `improvement-idea-funnel` -- Improvement idea funnel (Improvement events)
 - `improvement-event-charter` -- Improvement event charter (Improvement events)
+- `raci-chart` -- RACI (responsible, accountable, consulted, informed) chart (Improvement events)
 
 ### Sustain
 
@@ -123,7 +129,10 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - FMEA: failure mode and effects analysis
 - ICP: ideal customer profile
 - ILUO: a four-step skill scale, from I (learning) through L and U to O (can train others)
+- RACI: responsible, accountable, consulted, informed
+- SIPOC: suppliers, inputs, process, outputs, customers
 - SQDIP: safety, quality, delivery, inventory, productivity — one common set of rows for a daily management grid, and not the only one
+- SWOT: strengths, weaknesses, opportunities, threats
 - VOC: voice of the customer
 - WIP: work in progress
 

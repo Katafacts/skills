@@ -59,6 +59,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
+- **Impact/effort matrix: sort ideas fast** (`impact-effort-matrix`) — Sorts candidate countermeasures; the Do now ones go on the log with an owner and date.
 - **Performance grid** (`performance-grid`) — Where the causes come from. The grid's Pareto says which reason keeps repeating; this log is what happens to it next, and whether that worked.
 - **Daily management huddle** (`daily-huddle`) — Where entries are opened, re-dated and closed out loud — and where a returning cause gets its date added. A log nobody reads at a huddle stops being true within a fortnight. The huddle's own list tracks who committed to what by when, with no claim about causes; this log is for when you need to know whether the cause is actually gone.
 

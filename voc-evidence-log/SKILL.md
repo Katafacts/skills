@@ -56,6 +56,7 @@ Upstream:
 
 Downstream:
 
+- **Customer journey map** (`customer-journey-map`) — Place each logged quote at the stage where it happened to see where the themes hurt most.
 - **Ideal customer profile (ICP) canvas** (`icp-canvas`) — A named theme pattern — which customers say what, and why — is direct input to who an ICP should target or exclude.
 
 ## Where AI helps

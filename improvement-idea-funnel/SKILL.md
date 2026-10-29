@@ -52,6 +52,7 @@ Upstream:
 
 Downstream:
 
+- **Impact/effort matrix: sort ideas fast** (`impact-effort-matrix`) — Screens a batch of captured ideas: what to do now, plan, keep for later or drop.
 - **Improvement event charter** (`improvement-event-charter`) — An idea reaching the Chartered/Scheduled stage here is exactly where a real event charter begins.
 
 ## Where AI helps

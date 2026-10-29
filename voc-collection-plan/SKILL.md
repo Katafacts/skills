@@ -50,8 +50,13 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 ## What it connects to
 
+Upstream:
+
+- **SIPOC (suppliers, inputs, process, outputs, customers)** (`sipoc`) — Shows which customers the process serves and where their stated need is still a guess, so you know whom to go and ask.
+
 Downstream:
 
+- **Customer journey map** (`customer-journey-map`) — Lay the evidence you collect out in the order customers live it; pain points the map marks as assumptions become goals for the next collection round.
 - **Customer interview guide** (`customer-interview-guide`) — An activity that names 'customer interviews' as its method is exactly what the interview guide exists to support — build the actual guide once the plan names the need for it.
 - **Voice of the customer (VOC) evidence log** (`voc-evidence-log`) — Every activity's 'evidence flow' field describes exactly how its output should land in the evidence log — the plan and the log are meant to work together continuously, not as separate one-off exercises.
 

@@ -54,6 +54,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
+- **SWOT (strengths, weaknesses, opportunities, threats) analysis** (`swot-analysis`) — The SWOT's evidence and the action being funded are the starting point for the case.
 - **A3 problem solving** (`a3`) — A countermeasure identified in an A3 that needs real resourcing is exactly what turns into a business case — the A3 finds the fix, this justifies committing to it.
 
 Downstream:

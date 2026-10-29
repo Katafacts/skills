@@ -50,6 +50,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
+- **RACI (responsible, accountable, consulted, informed) chart** (`raci-chart`) — Says which role does each task; the work instruction then says how that role does it.
+- **Spaghetti diagram: walking and carrying paths** (`spaghetti-diagram`) — After a layout change, the new shorter path and where things are kept go into the work instruction so it holds.
 - **Improvement event charter** (`improvement-event-charter`) — A new process or routing rule set up by an improvement event often needs a work instruction to actually stick once the event team moves on.
 
 Downstream:
