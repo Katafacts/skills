@@ -12,7 +12,7 @@ Family: Value stream mapping · Format: .xlsx · Domain: core
 
 ## What it is
 
-A Makigami (Japanese for "roll of paper") maps an office or information process on one long sheet. Lanes run across for every role, department and system that touches the work, and the steps of one real case sit in those lanes in the order they happened. Underneath every step it captures four things a standard flowchart doesn't: tools (the documents and IT systems used), time (active processing time against wait time), quality (how often the work handed on is complete and accurate — its percent complete and accurate, or %C&A) and friction (errors, rework and bottlenecks). It grew out of office improvement practice in Japan; its closest equivalent is metrics-based process mapping. Where a value stream map reveals where a flow is blocked, a Makigami shows why — the hidden delays, handoffs and rework that drain an office process.
+A Makigami (Japanese for "roll of paper") maps an office or information process on one long sheet. Lanes run across for every role, department and system that touches the work, and the steps of one real case sit in those lanes in the order they happened. Underneath every step it captures four things a standard flowchart doesn't: tools (the documents and IT systems used), time (active processing time against wait time), quality (how often the work handed on is complete and accurate — its percent complete and accurate, or %C&A) and friction (errors, rework and bottlenecks). It grew out of office improvement practice in Japan, and is a close cousin of other measured process maps. Where a value stream map reveals where a flow is blocked, a Makigami shows why — the hidden delays, handoffs and rework that drain an office process.
 
 ## When to use it
 

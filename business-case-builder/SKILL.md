@@ -8,7 +8,7 @@ description: "Help a champion sell your deal internally: the cost of the status 
 
 Help a champion sell your deal internally: the cost of the status quo, what the deal costs and the value it returns, with payback period and 3-year return on investment (ROI) computed, and every value driver's basis and confidence shown.
 
-Family: Kaizen events · Format: .xlsx · Domain: commercial
+Family: Problem solving / root cause analysis · Format: .xlsx · Domain: commercial
 
 ## What it is
 

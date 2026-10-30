@@ -63,7 +63,7 @@ Upstream:
 - **Go-see protocol** (`go-see-protocol`) — How to watch the work first-hand when grasping the current condition, rather than writing it from memory.
 - **Makigami process map** (`makigami`) — For an office or information process, a Makigami of a real case is a strong way to grasp the current condition's operating pattern.
 - **Metric definition sheet** (`metric-definition-sheet`) — Pin down exactly how the outcome metric is measured before plotting it, so the run chart compares like with like.
-- **Coaching Kata** (not in the catalogue yet) — The coach's own practice routine: how to run the five-question coaching cycle without handing over solutions.
+- **Coaching routine for the coach** (not in the catalogue yet) — The coach's own practice routine: how to run the five-question coaching cycle without handing over solutions.
 
 Downstream:
 

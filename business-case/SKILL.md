@@ -8,7 +8,7 @@ description: "The cost of the status quo, what the fix actually costs, and the q
 
 The cost of the status quo, what the fix actually costs, and the quantified value it returns — with payback period and 3-year return on investment (ROI) computed from those numbers, not asserted, and every value driver's basis and confidence named plainly.
 
-Family: Kaizen events · Format: .xlsx · Domain: core
+Family: Deal execution · Format: .xlsx · Domain: core
 
 ## What it is
 

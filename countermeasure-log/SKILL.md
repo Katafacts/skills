@@ -29,7 +29,7 @@ Not when:
 - As an input to appraising individuals. The moment it can reach a review, the honest entries stop and the log fills with things that were already safe to say.
 - For a one-off problem nobody expects to see again. Containment, done, no entry needed.
 - Before anything is surfacing problems at all. A log with nothing in it is not a sign of health; go and build the board and the huddle first.
-- Where a simple commitment list is genuinely all you need — who agreed to what, by when. That is the daily accountability sheet, and it is a lighter tool.
+- Where a simple commitment list is genuinely all you need — who agreed to what, by when. Keep those on the daily huddle's action list, which is a lighter tool.
 
 ## How to fill it in
 

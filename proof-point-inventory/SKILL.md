@@ -36,7 +36,7 @@ Not when:
 
 ## What good looks like
 
-The example below logs five proof points against Beacon Analytics' three message pillars. None is better than moderate: the measured results all come from one customer, Northline Freight, and the $310K figure stays internal until Northline approves it. A rep's note about Meridian Logistics is second-hand and unchecked, a 2024 case study is past its refresh date and should be retired, and the trust-over-spreadsheet pillar has no proof at all.
+The example below logs five proof points against Beacon Analytics' three message pillars. None is better than moderate: the measured results all come from one customer, Northline Freight, and the $310K figure stays internal until Northline approves it. A rep's note about Pembury Logistics is second-hand and unchecked, a 2024 case study is past its refresh date and should be retired, and the trust-over-spreadsheet pillar has no proof at all.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/proof-point-inventory
 
@@ -50,7 +50,12 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Message architecture** (`message-architecture`) — The architecture's own pillars are exactly the categories this inventory checks for real proof — including whether the pillar it deliberately left unproven has earned any proof points yet.
+- **Value proposition map** (`value-proposition-map`) — The map names the buyer needs your offer answers. Those needs are the categories this inventory checks for real proof.
+- **Value hypothesis** (`value-hypothesis`) — Value proven in single deals, in the buyer's own numbers, is where most proof points start. Log each one here and check it at its source.
+
+Downstream:
+
+- **Message architecture** (`message-architecture`) — The architecture takes each pillar's proof, strength and clearance from this inventory. A pillar with no checked proof here stays out of the message until it has some.
 
 ## Where AI helps
 

@@ -64,7 +64,7 @@ Downstream:
 
 - **A3 problem solving** (`a3`) — When a strategy on the X-Matrix isn't moving its metric, an A3 is the right tool to find out why and close the gap — Hoshin sets the direction, A3 closes the specific gaps along the way.
 - **Value stream map — current and future state** (`value-stream-map`) — A strategy aimed at a process (not a single problem) often starts with a value stream map of the current state before committing to what the strategy actually is.
-- **Performance board** (`performance-board`) — This is the bowler chart: tracks the metrics named here over time, cadence by cadence, computed red or green from real numbers — the X-Matrix sets what to watch; a performance board is where you watch it. Its download includes a blank sheet ready to fill in.
+- **Performance board** (`performance-board`) — A chart of each metric against its target, period by period: tracks the metrics named here over time, cadence by cadence, computed red or green from real numbers — the X-Matrix sets what to watch; a performance board is where you watch it. Its download includes a blank sheet ready to fill in.
 - **Cascade map** (`cascade-map`) — Deploys this plan's annual objectives to the units and teams that deliver them, each with a measure, a target and an owner, and checks that their targets add up to the plan's.
 
 ## Where AI helps

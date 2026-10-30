@@ -8,7 +8,7 @@ description: "For one account or deal, a grid of the parts of the account agains
 
 For one account or deal, a grid of the parts of the account against the buying roles the deal needs, with the real person in each cell, where they stand and when someone last spoke with them. The checks are computed: required roles with nobody in them, contacts gone quiet, parts of the account hanging on one thread, and no champion who is for us.
 
-Family: Kaizen events · Format: .xlsx · Domain: commercial
+Family: Deal execution · Format: .xlsx · Domain: commercial
 
 ## What it is
 

@@ -52,7 +52,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Go-see walk observation form** (not in the catalogue yet) — Observations captured on a go-see walk are exactly the kind of raw material this log tallies — feed them in as entries rather than letting them sit in a separate notebook.
+- **Go-see interview protocol** (`go-see-interview-protocol`) — What customers say and do during a go-see interview is exactly the raw material this log tallies — feed it in as entries rather than letting it sit in a separate notebook.
 
 Downstream:
 

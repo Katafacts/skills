@@ -64,6 +64,8 @@ Upstream:
 Downstream:
 
 - **Business case builder** (`business-case-builder`) — A pillar about value in money becomes real deal by deal: the business case puts the buyer's own figures behind it, where a reference figure from another customer can't go.
+- **Consistency audit** (`consistency-audit`) — Once the message is agreed, the audit samples live web pages, ads, deck slides and emails, checks each claim against the pillars and flags where it drifts.
+- **Message testing log** (`message-testing-log`) — Each pillar is a bet that buyers care. The testing log tries its wording with real buyers, a prediction written first, and records what to adopt, keep or drop.
 
 ## Where AI helps
 

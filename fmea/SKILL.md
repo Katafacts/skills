@@ -57,7 +57,7 @@ Upstream:
 
 Downstream:
 
-- **Countermeasure matrix** (not in the catalogue yet) — When an FMEA surfaces more recommended actions than can be tackled at once, a countermeasure matrix is where they'd get ranked by impact and effort before committing.
+- **Impact/effort matrix: sort ideas fast** (`impact-effort-matrix`) — When an FMEA surfaces more recommended actions than can be tackled at once, sort them by impact and effort before committing.
 
 ## Where AI helps
 

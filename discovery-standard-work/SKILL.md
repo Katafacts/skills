@@ -8,7 +8,7 @@ description: "Run every sales discovery call the same proven way: the steps, the
 
 Run every sales discovery call the same proven way: the steps, the technique behind each and why it matters, so the buyer's compelling event and real decision process get found no matter which rep is on the call.
 
-Family: Standard work · Format: .xlsx · Domain: commercial
+Family: Deal execution · Format: .xlsx · Domain: commercial
 
 ## What it is
 

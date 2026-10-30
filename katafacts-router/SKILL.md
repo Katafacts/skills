@@ -33,7 +33,7 @@ What the catalogue search returns for some common problems (best match first):
 - "Our invoices take weeks to get paid": `makigami`, `value-stream-map`, `eight-wastes-worksheet`
 - "Too many handoffs between teams": `makigami`, `marketing-maturity-assessment`, `shift-handover`
 - "Defects keep coming back": `pareto-chart`, `five-whys`, `first-pass-yield-tracker`
-- "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-aging-report`, `qualification-standard-work`
+- "Sales deals stall in the pipeline": `sales-funnel-map`, `qualification-standard-work`, `deal-aging-report`
 - "A change is about to go live and might fail": `fmea`, `implementation-plan`
 - "Customers keep complaining": `customer-journey-map`, `voc-evidence-log`, `customer-interview-guide`
 - "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `lean-maturity-scorecard`
@@ -93,6 +93,11 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 
 - `a3` -- A3 problem solving (Problem solving / root cause analysis)
 - `deal-a3` -- Deal A3 — win-rate root cause analysis (Problem solving / root cause analysis)
+- `discovery-standard-work` -- Discovery call standard work (Deal execution)
+- `business-case` -- Business case (Deal execution)
+- `business-case-builder` -- Business case builder (Problem solving / root cause analysis)
+- `mutual-action-plan` -- Mutual action plan (Problem solving / root cause analysis)
+- `stakeholder-coverage-map` -- Stakeholder coverage map (Deal execution)
 - `fmea` -- Failure mode and effects analysis (FMEA) (Problem solving / root cause analysis)
 - `pareto-chart` -- Pareto chart (Problem solving / root cause analysis)
 - `fishbone` -- Fishbone diagram (Problem solving / root cause analysis)
@@ -103,7 +108,6 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 
 ### Run the day
 
-- `discovery-standard-work` -- Discovery call standard work (Standard work)
 - `performance-board` -- Performance board (Daily management)
 - `visibility-board` -- Visibility board (Daily management)
 - `qualification-standard-work` -- Qualification standard work (Standard work)
@@ -120,7 +124,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `leader-standard-work` -- Leader standard work (Daily management)
 - `escalation-matrix` -- Escalation matrix (Daily management)
 - `shift-handover` -- Shift handover (Daily management)
-- `visual-board-design-guide` -- Visual board design guide (Visual management)
+- `visual-board-design-guide` -- Visual board design (Visual management)
 - `tiered-huddle-board` -- Tiered huddle board (Daily management)
 - `go-see-protocol` -- Go-see protocol (Daily management)
 - `andon-signal-definition` -- Andon signal definition (Visual management)
@@ -130,11 +134,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 
 ### Improve continuously
 
-- `business-case` -- Business case (Kaizen events)
-- `business-case-builder` -- Business case builder (Kaizen events)
 - `implementation-plan` -- Implementation plan (Kaizen events)
-- `mutual-action-plan` -- Mutual action plan (Kaizen events)
-- `stakeholder-coverage-map` -- Stakeholder coverage map (Kaizen events)
 - `learning-log` -- Learning log (Experimentation)
 - `message-testing-log` -- Message testing log (Experimentation)
 - `improvement-kata-storyboard` -- Improvement kata storyboard (Improvement kata)

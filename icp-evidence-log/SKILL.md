@@ -50,6 +50,10 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 ## What it connects to
 
+Upstream:
+
+- **Win-loss interview guide** (`win-loss-interview-guide`) — Interviews with buyers after a deal closes, won or lost, are the richest entries this log gets. Run them with the guide so every deal is asked the same questions.
+
 Downstream:
 
 - **Ideal customer profile (ICP) canvas** (`icp-canvas`) — A theme with real weight behind it — a trigger, a buying-committee pattern — is exactly what should update the ICP canvas's definition, not sit unused in a log.
