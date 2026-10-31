@@ -59,6 +59,7 @@ Upstream:
 Downstream:
 
 - **Escalation matrix** (`escalation-matrix`) — A repeat miss that a quick countermeasure can't resolve is exactly the kind of thing an escalation matrix's trigger condition should be checking for.
+- **Run chart** (`run-chart`) — Where this board says to judge a trend on a run chart, that's the kata: one measure in time order, three rules for a real change, and a countermeasure credited only once the shift is confirmed.
 
 ## Where AI helps
 

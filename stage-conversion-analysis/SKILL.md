@@ -58,6 +58,7 @@ Upstream:
 Downstream:
 
 - **Deal A3 — win-rate root cause analysis** (`deal-a3`) — Once the weakest stage is named, a deal A3 is where you'd run root cause analysis on why that specific stage is losing deals, if it isn't already obvious.
+- **Run chart** (`run-chart`) — Plot each cohort's conversion rate on a run chart before calling a drop, so a change between two or three cohorts is judged against the stage's ordinary variation.
 
 ## Where AI helps
 

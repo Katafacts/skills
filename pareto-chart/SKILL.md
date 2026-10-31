@@ -69,6 +69,7 @@ Downstream:
 - **A3 problem solving** (`a3`) — A Pareto chart is what earns an A3's root cause section the right to chase one category instead of guessing. Take the top level 2 category into the A3's cause analysis.
 - **Fishbone diagram** (`fishbone`) — Lays out the possible causes of the top bar (people, method, equipment, materials, measurement and environment) and checks the likeliest at the work, so the cause analysis doesn't lock on to the first idea.
 - **5-Whys** (`five-whys`) — Follows the strongest cause of the top level 2 category, one "why" at a time, until it reaches something in the process you can act on.
+- **Run chart** (`run-chart`) — When the question is a change over time (is it getting worse? did the fix work?), a run chart answers it; recount the same categories afterwards and chart the top one week by week.
 
 ## Where AI helps
 

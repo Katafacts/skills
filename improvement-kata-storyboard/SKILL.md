@@ -67,6 +67,7 @@ Upstream:
 
 Downstream:
 
+- **Run chart** (`run-chart`) — The storyboard's run chart shows the metric against the target. To tell whether an experiment really moved it, judge it with the run chart kata's rules against a baseline.
 - **A3 problem solving** (`a3`) — When one obstacle turns out to be a bounded problem with a clear gap, take it to root cause on an A3 and bring what you learn back to the storyboard.
 - **Learning log** (`learning-log`) — Keeps track of hypotheses across many efforts; lessons from the storyboard's experiment records can feed it.
 - **Work instruction** (`work-instruction`) — Once a target condition is reached, write the new way of working down as the standard, so the next target condition starts from it.

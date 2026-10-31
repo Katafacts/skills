@@ -53,6 +53,7 @@ Downstream:
 - **Key performance indicator (KPI) tree** (`kpi-tree`) — A driver metric in a KPI tree is only as trustworthy as this sheet's own definition behind it — the tree tracks the number, this sheet is what makes the number mean one specific thing.
 - **Performance board** (`performance-board`) — Every measure on the board should have its definition here first, so a red month is a real miss and not two teams counting differently.
 - **Performance grid** (`performance-grid`) — The grid's rule for each row (red when…) only works if the number behind it is defined here, with its direction and target.
+- **Run chart** (`run-chart`) — Once a metric is defined, a run chart reads its history: whether a change in the number is a real change in the process or the usual up and down.
 
 ## Where AI helps
 

@@ -63,6 +63,7 @@ Downstream:
 
 - **Pipeline management board** (`pipeline-management-board`) — This board tracks the commercial team's measures against plan; the pipeline board is where each sales team reads the deals behind them every week: age against stage limits, coverage and next steps.
 - **Deal A3 — win-rate root cause analysis** (`deal-a3`) — When a repeat-miss KPI's quick countermeasure doesn't hold, a deal A3 is where the root cause gets worked with the full discipline it deserves.
+- **Run chart** (`run-chart`) — Where this board says to judge a trend on a run chart, that's the kata: one measure in time order, three rules for a real change, and a countermeasure credited only once the shift is confirmed.
 
 ## Where AI helps
 

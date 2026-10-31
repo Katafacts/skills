@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 87 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 88 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -141,6 +141,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `improvement-kata-storyboard` -- Improvement kata storyboard (Improvement kata)
 - `metric-definition-sheet` -- Metric definition sheet (Measurement)
 - `marketing-metric-definition-sheet` -- Marketing metric definition sheet (Measurement)
+- `run-chart` -- Run chart (Measurement)
 - `marketing-attribution-reality-check` -- Marketing attribution reality check (Measurement)
 - `stage-conversion-analysis` -- Stage conversion analysis (Measurement)
 - `improvement-idea-funnel` -- Kaizen idea funnel (Kaizen events)

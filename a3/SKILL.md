@@ -68,7 +68,7 @@ Upstream:
 Downstream:
 
 - **Impact/effort matrix: sort ideas fast** (`impact-effort-matrix`) — When the root cause throws up several possible countermeasures, sort them before choosing.
-- **Run / control chart** (not in the catalogue yet) — The TAGS trend chart is a lightweight run chart. Once a countermeasure is live, a full run or control chart tracks whether the new process is actually stable at the new level, not just briefly better.
+- **Run chart** (`run-chart`) — The TAGS trend chart is a lightweight run chart. Once a countermeasure is live, a run chart with natural limits tracks whether the new process is actually stable at the new level, not just briefly better.
 - **PDCA record** (not in the catalogue yet) — An A3's effect-confirmation and follow-up sections are one turn of PDCA. Use a PDCA record to track further cycles if the first countermeasure doesn't fully close the gap.
 
 ## Where AI helps
