@@ -39,7 +39,7 @@ Not when:
 
 ## What good looks like
 
-The example below is Beacon Analytics' profile from 14 March 2026, built from last year's 29 decided deals (won or lost). Four must-haves describe the account, each on a clear win-rate gap: size in the band (65% against 17%), someone owning revenue operations (54% against none), no competing analytics tool (52% against 17%) and a real trigger (63% against 10%). Recurring revenue looked like a signal, 70% against 57%, but on 10 and 7 deals a 13-point gap is no clear gap, so it stays a nice-to-have. Checked against Harbor Line Freight before its first call, three must-haves are met and the trigger is not yet checked, so the result is finish the checks. The profile predicts that accounts meeting all four must-haves win at least half their deals, to be checked on 30 June.
+The example below is Beacon Analytics' profile from 14 March 2026, built from last year's 29 deals that reached a proposal and were decided (won or lost). Four must-haves describe the account, each on a clear win-rate gap: size in the band (65% against 17%), someone owning revenue operations (54% against none), no competing analytics tool (52% against 17%) and a real trigger (63% against 10%). Recurring revenue looked like a signal, 70% against 57%, but on 10 and 7 deals a 13-point gap is no clear gap, so it stays a nice-to-have. Checked against Harbor Line Freight before its first call, three must-haves are met and the trigger is not yet checked, so the result is finish the checks. The profile predicts that accounts meeting all four must-haves win at least half their deals, to be checked on 30 June.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/icp-canvas
 

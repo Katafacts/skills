@@ -58,7 +58,7 @@ Upstream:
 
 - **SWOT (strengths, weaknesses, opportunities, threats) analysis** (`swot-analysis`) — Where the revenue team really stands, with evidence, before choosing the year's revenue objectives.
 - **Deal A3 — win-rate root cause analysis** (`deal-a3`) — A deal A3's root cause is the kind of specific finding an annual objective should trace to; the example's win-rate target comes from one. Later in the year, when a strategy isn't moving its metric, a deal A3 is also how you find out why.
-- **Sales funnel value stream map** (`sales-funnel-map`) — A funnel map's slowest stage or largest wait is the other natural input to an annual objective; the example's proposal-wait target comes from one.
+- **Sales funnel value stream map** (`sales-funnel-map`) — A funnel map's waits, read for the ones the team controls, are the other natural input to an annual objective; the example's proposal-wait target comes from one.
 
 Downstream:
 
