@@ -60,6 +60,7 @@ Upstream:
 
 - **Work instruction** (`work-instruction`) — The instruction's steps and key points are the rows of the audit, as written. When the cause is "standard wrong", the fix goes back into the instruction.
 - **Sustainment audit** (`sustainment-audit`) — A sustainment audit checks whether a whole change held. When one of its practices is drifting, this audit shows which steps slip and why.
+- **Standard work chart** (`standard-work-chart`) — The chart sets the sequence, takt and standard work in progress the audit checks against. This audit has no time column: to check pace too, time a few cycles alongside it and compare them with the chart.
 
 Downstream:
 

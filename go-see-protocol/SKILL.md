@@ -67,6 +67,7 @@ Downstream:
 - **Leader standard work** (`leader-standard-work`) — A regular walk is one of the timed tasks on a leader's routine, and the follow-ups from a walk often become daily checks on it.
 - **Countermeasure log** (`countermeasure-log`) — Follow-ups that take more than a day go on the countermeasure log, so they're reviewed until they're closed with evidence.
 - **Spaghetti diagram: walking and carrying paths** (`spaghetti-diagram`) — When a walk shows people leaving the work to fetch things, follow one person for a shift and draw their path to see what it costs.
+- **Standard work chart** (`standard-work-chart`) — When the question is whether a job keeps pace, go and time it: about ten cycles, step by step, set against takt on a standard work chart.
 - **Daily management huddle** (`daily-huddle`) — Bring what the walk found to the next huddle, so the team hears it and agrees the follow-ups that need more than one person.
 
 ## Where AI helps

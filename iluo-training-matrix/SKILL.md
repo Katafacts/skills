@@ -53,6 +53,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Work instruction** (`work-instruction`) — A skill in this matrix is only trainable against a real work instruction — build that first if it doesn't exist yet.
+- **Standard work chart** (`standard-work-chart`) — For a paced job, the chart says what working it unsupervised (U) looks like: the sequence done unaided, within takt.
 
 ## Where AI helps
 

@@ -69,6 +69,7 @@ Upstream:
 Downstream:
 
 - **Spaghetti diagram: walking and carrying paths** (`spaghetti-diagram`) — When one process box hides a lot of walking or carrying, follow one person or part through it and draw the path on the floor plan, with metres a shift and the costliest legs worked out.
+- **Standard work chart** (`standard-work-chart`) — The map sets takt for the stream and shows which step can't keep pace. A standard work chart times the work at that step against takt and works out how many people it needs.
 - **Makigami process map** (`makigami`) — When one box hides a tangle of handoffs, approvals and rework, explore that step with a Makigami — its work time and first-pass yield flow back into this map's step.
 - **A3 problem solving** (`a3`) — The constraint, a step slower than takt, or the longest wait is exactly the kind of bounded, data-backed problem an A3 exists to close.
 - **Implementation plan** (`implementation-plan`) — Turns the future state's countermeasures into dated, owned milestones so the design actually gets built.

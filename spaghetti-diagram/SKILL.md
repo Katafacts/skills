@@ -71,6 +71,7 @@ Downstream:
 
 - **Kaizen event charter** (`improvement-event-charter`) — A layout change that needs several people and a few days to try (moving benches, re-racking a store) is a good kaizen event. The diagram gives the event its baseline and its target.
 - **Work instruction** (`work-instruction`) — Once a new layout works, write the new sequence into a work instruction, including where everything is kept, so the shorter path becomes the standard and doesn't drift back.
+- **Standard work chart** (`standard-work-chart`) — After the layout changes, time the job again on a standard work chart: the walking saved shows up as shorter walk steps, and the chart sets the new standard against takt.
 
 ## Where AI helps
 
