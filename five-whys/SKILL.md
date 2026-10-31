@@ -66,6 +66,7 @@ Downstream:
 - **A3 problem solving** (`a3`) — The A3's root cause section runs a short 5-Whys inline. When the chain needs more room, run it here and carry the root cause and countermeasure into the A3.
 - **Countermeasure log** (`countermeasure-log`) — Records the countermeasure with its owner and expected result, and whether the root cause comes back after it's closed.
 - **Work instruction** (`work-instruction`) — When the root cause is a missing or unclear standard, the countermeasure is often a written standard. A work instruction makes it the way the job is done.
+- **Error-proofing** (`error-proofing`) — When the chain ends at a person's slip, the countermeasure is a device, not a reminder: make the error impossible, or stop the work at the step until it is put right.
 
 ## Where AI helps
 

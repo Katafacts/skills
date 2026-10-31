@@ -54,6 +54,7 @@ Upstream:
 - **Standard work chart** (`standard-work-chart`) — For a repeating job, the chart sets the steps in order and the time each takes against takt; the work instruction then teaches how to do each step right.
 - **Spaghetti diagram: walking and carrying paths** (`spaghetti-diagram`) — After a layout change, the new shorter path and where things are kept go into the work instruction so it holds.
 - **Kaizen event charter** (`improvement-event-charter`) — A new process or routing rule set up by a kaizen event often needs a work instruction to actually stick once the event team moves on.
+- **Error-proofing** (`error-proofing`) — An error-proofing device and its check (how often someone makes the mistake on purpose to test it) go into the instruction as key points, so the next person keeps them.
 
 Downstream:
 

@@ -58,6 +58,7 @@ Upstream:
 Downstream:
 
 - **A3 problem solving** (`a3`) — Once the weakest stage is named, an A3 is where you'd run root cause analysis in depth if the fix isn't already obvious from the observation notes.
+- **Error-proofing** (`error-proofing`) — When the weakest stage loses units to human errors (wrong part, missed step), error-proof that step rather than adding an inspection after it.
 
 ## Where AI helps
 

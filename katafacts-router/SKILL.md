@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 88 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 89 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -32,7 +32,7 @@ What the catalogue search returns for some common problems (best match first):
 
 - "Our invoices take weeks to get paid": `makigami`, `value-stream-map`, `eight-wastes-worksheet`
 - "Too many handoffs between teams": `makigami`, `marketing-maturity-assessment`, `shift-handover`
-- "Defects keep coming back": `pareto-chart`, `five-whys`, `first-pass-yield-tracker`
+- "Defects keep coming back": `error-proofing`, `pareto-chart`, `five-whys`
 - "Sales deals stall in the pipeline": `sales-funnel-map`, `qualification-standard-work`, `deal-aging-report`
 - "A change is about to go live and might fail": `fmea`, `implementation-plan`
 - "Customers keep complaining": `customer-journey-map`, `voc-evidence-log`, `customer-interview-guide`
@@ -153,6 +153,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 ### Sustain
 
 - `first-pass-yield-tracker` -- First-pass yield tracker (Quality at source)
+- `error-proofing` -- Error-proofing (Quality at source)
 
 ## Abbreviations in kata and family names
 

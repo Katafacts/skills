@@ -61,6 +61,7 @@ Upstream:
 Downstream:
 
 - **Impact/effort matrix: sort ideas fast** (`impact-effort-matrix`) — When an FMEA surfaces more recommended actions than can be tackled at once, sort them by impact and effort before committing.
+- **Error-proofing** (`error-proofing`) — When a high-scoring failure's current control is "operator checks", design a device that makes the error impossible or stops the work at the step, prove it, then re-score detection.
 
 ## Where AI helps
 
