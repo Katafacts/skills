@@ -30,7 +30,7 @@ Not when:
 
 ## How to fill it in
 
-- **scope** — Say which deals or accounts this evidence covers and what prompted collecting it — sharpening the ICP canvas, testing anti-ICP disqualifiers, or something else. A clear boundary keeps unrelated deals out of the themes.
+- **scope** — Say which deals or accounts this evidence covers and what prompted collecting it — sharpening the ICP canvas, testing anti-ICP disqualifiers, or something else. Then give the total behind the sample: how many deals were decided in the period, how many were won, and how many have notes in this log. Five wins and five losses can't carry '3 of 3' until you know how many deals there were and how many were never written up.
 - **entries** — Enter each win or loss note, discovery excerpt or competitor mention you've gathered, with its source, source type and date. Copy the actual words where you can; a summary loses the detail that makes a pattern visible. Mark each entry won or lost by how its deal ended, so every pattern gets a win rate, and log each deal only once per pattern so the win rate counts deals, not repeated quotes.
 - **themeSummary** — Give each entry a theme, then read the themes across all the entries; the tally updates as you reassign them. Name each theme in plain words taken from the evidence, and treat a theme with only one or two entries as a hint, not a pattern.
 - **narrative** — Write a few sentences on what the top themes suggest about who your ideal customer is — and who it isn't. Use only what the entries show.
@@ -38,7 +38,7 @@ Not when:
 
 ## What good looks like
 
-The example below clusters 14 entries from the first quarter of 2026 (10 accounts and a trial group, 7 entries from won deals and 7 from lost) into five patterns: a buying trigger (outgrowing spreadsheet workarounds, 3 of 4 entries won), the strongest fit signal (an exec sponsor engaged early, 3 of 3 won) and its opposite (stalled on a single champion, 0 of 3), a company-size floor (teams under 20 staff never converted), and an unplanned security review that is a gap in the seller's own process rather than a customer trait.
+The example below logs 14 entries from Beacon Analytics' first quarter of 2026, covering 9 of the 11 deals decided by 10 March (won or lost; 5 won) and a trial group. Five patterns: a buying trigger (outgrowing spreadsheet workarounds, 3 of 4 entries won), an exec sponsor engaged early in 3 of the 5 wins and its opposite, stalled on a single champion, in 3 of the 4 noted losses, a company-size floor (teams under 20 staff never converted), and an unplanned security review that is a gap in the seller's own process rather than a customer trait. Because the exec-sponsor pattern shows only in wins, it may be a result of a healthy deal, so it is tested on new deals before it shapes the profile.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/icp-evidence-log
 
@@ -47,12 +47,14 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 - **Clustering win notes only, leaving losses out of the evidence set.** — A pattern that only explains why deals win says nothing about why similar-looking deals lose — the anti-ICP disqualifiers this evidence should feed depend on the loss entries just as much as the wins.
 - **Treating a single memorable deal as a pattern.** — One vivid story isn't a cluster; it needs enough independent entries to mean something beyond one account's specifics.
 - **Pulling quotes from memory instead of the actual call notes or customer relationship management (CRM) system's history.** — A pattern built from what a sales leader remembers inherits every bias in that memory. Work from real notes, not recall.
+- **Building a pattern seen only in wins straight into the profile.** — It may be a result, not a cause: executives join deals that are already going well. Test it as a leading check first. Log it on every new deal from the start and compare win rates with and without it a quarter later.
 
 ## What it connects to
 
 Upstream:
 
 - **Win-loss interview guide** (`win-loss-interview-guide`) — Interviews with buyers after a deal closes, won or lost, are the richest entries this log gets. Run them with the guide so every deal is asked the same questions.
+- **Discovery call standard work** (`discovery-standard-work`) — Discovery calls run the same way every time give this log comparable notes, won and lost, from the start of every deal rather than only at the end.
 
 Downstream:
 

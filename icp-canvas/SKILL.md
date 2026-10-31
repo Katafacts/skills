@@ -35,19 +35,19 @@ Not when:
 - **triggers** — Write the events or symptoms that make an account start looking for something like this — a new leader, a failed audit, a sudden growth spurt. Take them from your own win and loss notes, not from a generic list of pain points.
 - **buying-committee** — Name the roles involved: who signs off on the money, and who realistically champions the purchase inside the account. Use job titles from real deals, and if you can't name the champion's role, say so.
 - **pain-fit** — Write the specific problem this solves for them, in the words customers actually use. Pull phrases from call notes or interviews; if it reads like your own marketing copy, it isn't their words yet.
-- **qualification-checklist** — Turn the canvas into a checklist: one row per criterion, what counts as meeting it, and the evidence behind it (win rate and how many deals). Mark each a must-have or a nice-to-have; a criterion with no evidence is an opinion, and the sheet counts them. To check an account, name it and answer Yes, No or Not checked for every criterion: any must-have missed means not a fit, and any not checked means finish the checks before you decide.
+- **qualification-checklist** — Turn the canvas into a checklist: one row per criterion and what counts as meeting it. Keep must-haves to things true of the account, such as size or who owns revenue operations, not how a deal was run, such as how early the buyer joined: that belongs in qualification. For each criterion, count last year's decided deals on both sides: won and decided where the account met it, and where it didn't. The sheet works out both win rates and says whether the gap is clear or too few to judge; a must-have without a clear gap is an opinion dressed as a rule. To check an account, answer Yes, No or Not checked for every criterion: any must-have missed means not a fit, any not checked means finish the checks. Then write what the profile predicts, in numbers, and a date to check it against the next quarter's deals.
 
 ## What good looks like
 
-The example below is a mid-market software company's ideal customer profile, built from last year's won and lost deals rather than assumption: an account that already patches its reporting with spreadsheets, someone who owns revenue operations, and a senior buyer involved early. Its checklist has five must-haves and two nice-to-haves, each with a win rate and deal count behind it except one nice-to-have, which the sheet flags as having no evidence yet. Checked against a prospect in qualification, all five must-haves are met, so it fits the profile.
+The example below is Beacon Analytics' profile from 14 March 2026, built from last year's 29 decided deals (won or lost). Four must-haves describe the account, each on a clear win-rate gap: size in the band (65% against 17%), someone owning revenue operations (54% against none), no competing analytics tool (52% against 17%) and a real trigger (63% against 10%). Recurring revenue looked like a signal, 70% against 57%, but on 10 and 7 deals a 13-point gap is no clear gap, so it stays a nice-to-have. Checked against Harbor Line Freight before its first call, three must-haves are met and the trigger is not yet checked, so the result is finish the checks. The profile predicts that accounts meeting all four must-haves win at least half their deals, to be checked on 30 June.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/icp-canvas
 
 ## Common mistakes
 
-- **Writing firmographic ranges from a sense of who the company would like to sell to, not who actually buys and stays.** — An aspirational ICP that doesn't match real closed-won evidence sends reps and marketing after accounts that don't actually convert — it describes the customer you hope for, not the one you win.
-- **Naming a trigger so generic it would apply to almost any prospect ('they want to grow').** — A trigger has to be specific enough to qualify on — 'already running a manual spreadsheet workaround' is checkable in a call; 'wants to grow' isn't.
-- **Skipping the buying-committee section because the champion is enthusiastic.** — An enthusiastic champion with no path to the economic buyer is exactly the stalled-single-threaded-champion pattern that kills deals late — the canvas should name what a real path to the buyer looks like, not just note that someone's interested.
+- **Writing firmographic ranges from a sense of who the company would like to sell to, not who actually buys and stays.** — An aspirational profile sends reps and marketing after accounts that don't convert: it describes the customer you hope for, not the one you win.
+- **Making a must-have of how the deal was run, such as the buyer joining early or a fast close.** — That describes your selling, not the account, and it is partly a result: buyers join deals that are already going well, and days to close only counts the deals that closed. Put it in qualification, and keep the profile to what is true of the account before anyone calls.
+- **Citing a win rate without the deals on the other side, or on a handful of deals.** — '9 of 13 wins had it' says nothing until you know how many losses had it too. Count both sides, and treat a gap on a few deals each side as too few to judge.
 
 ## What it connects to
 
@@ -59,6 +59,7 @@ Downstream:
 
 - **Qualification standard work** (`qualification-standard-work`) — This canvas's firmographic ranges and trigger signals are exactly what a qualification standard work checks a lead against — the canvas defines the target, the standard work operationalizes checking against it.
 - **Total addressable market (TAM) coverage map** (`tam-coverage-map`) — Once the ICP is defined here, a TAM coverage map counts how much of the market matching it your team actually reaches: on record, worked, with an open opportunity, already customers.
+- **Fit-criteria scorecard** (`fit-criteria-scorecard`) — The scorecard checks a list of accounts against this canvas's must-haves first, then weights the rest by the win-rate gaps written here.
 - **Anti-ideal customer profile (anti-ICP)** (`anti-icp`) — This canvas defines who to pursue; an anti-ICP is the separate list of who not to, or who to pursue only with a specific countermeasure — deliberately not a mirrored version of this canvas with the polarity flipped.
 
 ## Where AI helps

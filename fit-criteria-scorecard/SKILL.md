@@ -12,7 +12,7 @@ Family: Problem definition · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-A fit-criteria scorecard is the operational, repeatable counterpart to the ICP canvas's definitional, built-once profile — the same weighted decision matrix discipline, pointed at real prospect accounts instead of a generic decision. Score each account 1 to 5 against firmographic fit, technographic fit, trigger strength, and buying-committee access, weighted by how much each one actually predicts a fast, clean win in your own deal history — not split evenly by default. The composite score and priority/consider/deprioritize tier are computed from those weights and scores, so the account worth calling next is a defensible answer, not a hunch.
+A fit-criteria scorecard applies the ICP canvas to a real list of accounts. First it checks each account against the canvas's must-haves, pass or fail. Then it scores the accounts that pass 1 to 5 on firmographic fit, technographic fit, trigger strength and buying-committee access, weighted by the win-rate gap each one shows in your own deals. The score and the priority, consider or deprioritize tier are worked out for you. The tier is a prediction, so a quarter later you check it against what actually happened.
 
 ## When to use it
 
@@ -31,21 +31,21 @@ Not when:
 ## How to fill it in
 
 - **decision** — Say which accounts you're ranking and which list they came from — a territory, a segment, an event list. Rank one comparable list at a time.
-- **criteria** — List your criteria straight from your ICP canvas — company fit, technology fit, trigger strength, access to the buying committee — and weight each by how well it has predicted a win in your own deal history. Don't split the weights evenly by default; that says every criterion matters equally, which is rarely true. Mark each criterion as fit or as timing and access, so a well-fitting account with no trigger yet shows up as a timing gap, not a poor fit.
-- **options** — Score each account from 1 (weakest) to 5 (strongest) against every criterion, using what you actually know — your research, past conversations, your customer records. The composite score and tier are calculated — don't type them; check the top accounts make sense to the person who'd be calling them.
-- **narrative** — Write a few sentences naming which account deserves the next call and why, based on the ranking. Say where an account's score rests on a guess, so someone checks it before acting.
+- **criteria** — List your criteria straight from your ICP canvas — company fit, technology fit, trigger strength, access to the buying committee. Weight each by the win-rate gap behind it in your own deals, and write that evidence beside the weight: the biggest gaps get the biggest weights. If you can't cite a gap, say so and keep the weight modest. Mark each criterion as fit or as timing and access, so a well-fitting account with no trigger yet shows up as a timing gap, not a poor fit.
+- **options** — First copy in the canvas's must-haves that describe the account, such as size and someone owning revenue operations, and mark each Pass or Fail for every account, with the evidence, leaving it blank until it is checked. An account that fails one is out, however it scores: it takes no rank or tier, and its score only shows what it would have been. Then score each account from 1 (weakest) to 5 (strongest) against every criterion, using what you actually know: your research, past conversations, your customer records. The score, rank and tier are calculated; check the top accounts make sense to the person who'd be calling them.
+- **narrative** — Write a few sentences naming which account deserves the next call and why, based on the ranking. Say where an account's score rests on a guess, so someone checks it before acting. Set a review date a quarter out: put each account's outcome (won, lost, churned, still open) beside its tier, and if priority accounts don't win clearly more often than the rest, reset the weights from the result.
 
 ## What good looks like
 
-The example below scores the ten mid-market logistics accounts on a segment's working list, from Harbor Line Freight at 80 down to Apex Distribution at 32, an account with no contact at all. Only Harbor Line and Summit Carriers reach priority, and four points apart they are too close to rank against each other. The score mixes fit with timing and access, so the sheet also scores each on its own: Crestway Transport and Bluewater Shipping fit best (90 each) but have no trigger yet, which is why they sit mid-list today and belong on next quarter's list.
+The example below, from 17 March 2026, checks ten mid-market logistics accounts against three of the ICP canvas's must-haves before anyone has called them, from desk research alone. Summit Carriers would score 76, but its published headcount of about 3,400 is above the size band, and Kingsbridge Couriers' job ads name a pipeline analytics tool it already runs, so both are out. Of the eight left, only Harbor Line Freight reaches priority, at 80, 8 points clear of Crestway Transport; Apex Distribution, with no contact at all, is last at 32. On fit alone Crestway and Bluewater Shipping score 90 each, so Bluewater's 60 is a timing gap, not a poor fit. Each weight cites the win-rate gap behind it, and on 30 June each account's outcome goes beside its tier to test the weights.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/fit-criteria-scorecard
 
 ## Common mistakes
 
-- **Weighting every criterion evenly by default instead of checking which ones actually predict a win.** — Real deal history usually shows one or two signals (an exec sponsor engaged early, a specific trigger) matter far more than the others — an even split throws that evidence away.
-- **Scoring firmographic fit generously just because the account is a named target on a list.** — Being on a target list means an account was addressable, not that it's actually a strong fit — conflating the two defeats the reason to score it at all.
-- **Letting a strong score on one criterion (usually firmographic fit) override a weak trigger or no buying-committee access.** — The exact failure this tool exists to prevent — a composite score should be able to rank a smaller, better-fit account below a larger one with a real trigger and real access, not the other way around.
+- **Weighting every criterion evenly by default instead of checking which ones actually predict a win.** — Your own deals usually show one or two signals (a real trigger, access to the buyer) with a far bigger win-rate gap than the rest. An even split throws that evidence away.
+- **Letting a high total carry an account that fails a must-have.** — A weighted total lets strength on one criterion make up for weakness on another. That is right for criteria that trade off and wrong for a must-have: an account outside the band you win in shouldn't reach the top because it has a strong trigger. Check must-haves first, as pass or fail.
+- **Never checking the tiers against what happened.** — Weights are a prediction about which accounts will win. Without comparing tier with outcome after a quarter, a wrong weight stays wrong for years and the scorecard looks precise while being a guess.
 
 ## What it connects to
 

@@ -38,7 +38,7 @@ Not when:
 
 ## What good looks like
 
-The example below splits three firm disqualifiers from two softer red flags and one process red flag, each with a countermeasure and a count of the lost deals that showed it (a single champion with no route to the buyer was behind 3 of the 5 lost deals in the quarter, and none of the wins). One soft flag has no count yet and is flagged as an opinion. The same single-champion pattern shows up again after the sale, as a churn pattern. Screened against a live deal, no disqualifier is present and one soft flag is, so the verdict is to proceed with its countermeasure.
+The example below splits three firm disqualifiers from two softer red flags and one process red flag, each with a countermeasure and a count of the lost deals that showed it (a single champion with no route to the buyer was behind 3 of the 4 noted losses in the quarter, and none of the wins). One soft flag has no count yet and is flagged as an opinion. The same single-champion pattern shows up again after the sale, as a churn pattern. Screened against a live deal, no disqualifier is present and one soft flag is, so the verdict is to proceed with its countermeasure.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/anti-icp
 

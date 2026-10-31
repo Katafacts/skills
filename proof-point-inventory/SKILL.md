@@ -31,12 +31,12 @@ Not when:
 
 - **scopeNotes** — Say which message pillars this inventory covers, and for which audience or campaign.
 - **categories** — List every pillar of your messaging you want checked for real proof, including ones you suspect are still empty. An empty pillar on the page shows where you're claiming something you can't yet back up.
-- **items** — For each proof point, write the pillar it backs, the type of evidence, where it came from and when, and whether you've confirmed it yourself. Go back to the original — the customer quote, the measured result, the approved case study — and mark it unconfirmed until you have.
+- **items** — For each proof point: the claim with its number, its pillar, the type of evidence, the source and date, and how many customers or deals it rests on. Mark it unconfirmed until you've seen the original. Strength: strong is measured across customers, moderate is measured at one, weak is anecdotal, second-hand or old. Clearance: Approved only once the owner agrees to outside use; until then it stays out of anything a buyer sees. Refresh-by: when to re-check it, about six months out for a measured result.
 - **narrative** — Write a few sentences on which pillars are well proven, which have no proof, and which proof points are still unconfirmed. Use only what's recorded here.
 
 ## What good looks like
 
-The example below logs five proof points against Beacon Analytics' three message pillars. None is better than moderate: the measured results all come from one customer, Northline Freight, and the $310K figure stays internal until Northline approves it. A rep's note about Pembury Logistics is second-hand and unchecked, a 2024 case study is past its refresh date and should be retired, and the trust-over-spreadsheet pillar has no proof at all.
+The example below logs five proof points against Beacon Analytics' three message pillars on 4 May 2026. None is better than moderate: the measured results all come from one customer, Northline Freight. The business-case pillar has three items and none usable with buyers today: the $310K figure stays internal until Northline approves it, the time saving is still awaiting approval, and the only approved item, a 2024 case study, is past its refresh date and should be retired. The visibility pillar rests on the trial result plus a rep's second-hand note about Pembury Logistics, and the trust-over-spreadsheet pillar has no proof at all.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/proof-point-inventory
 
