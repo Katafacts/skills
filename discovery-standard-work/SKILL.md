@@ -36,7 +36,7 @@ Not when:
 
 ## What good looks like
 
-The example below is a 30-minute first call with a mid-market prospect: five stages with time boxes of 3, 10, 8, 7 and 2 minutes, words to use at each, and seven key points with their reasons. Most of the time goes on the compelling event and the cost of doing nothing, the decision stage maps who signs off and who has said no before, and the call must end with a next meeting booked in both diaries.
+The example below is a 30-minute first call with a mid-market prospect: five stages with time boxes of 3, 10, 8, 7 and 2 minutes, words to use at each, and seven key points with their reasons. Most of the time goes on the compelling event and the cost of doing nothing, the decision stage maps who signs off, where this year's money would come from and who has said no before, and the call must end with a next meeting booked in both diaries.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/discovery-standard-work
 
@@ -51,6 +51,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Win-loss interview guide** (`win-loss-interview-guide`) — A pattern of losses traced back to a specific discovery gap (missed compelling event, unsurfaced decision process) is exactly what turns into a new key point here.
+- **Qualification standard work** (`qualification-standard-work`) — Its first gate decides from the records who gets this call; what the buyer says in the compelling-event and decision-process stages answers its second gate: the trigger, the route to the economic buyer and where this year's budget would come from.
 
 Downstream:
 

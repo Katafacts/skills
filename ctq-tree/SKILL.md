@@ -31,14 +31,14 @@ Not when:
 ## How to fill it in
 
 - **scope** — Name the customer group or segment these needs come from, and the period the evidence covers. Different groups often want different things, so keep to one group per tree.
-- **needs** — List each customer need in the customer's terms, traced to a theme in your voice of the customer evidence. Under each need, write the drivers — the specific things that decide whether the need is met — and under each driver a measurable CTQ with a target, like "reply within 4 working hours, 95% of the time". A driver with no number under it is still a wish, not something you can check.
+- **needs** — List each customer need in the customer's terms, traced to a theme in your voice of the customer evidence, and note how many different customers it came from. Under each need, write the drivers — the specific things that decide whether the need is met — and under each driver a measure defined so two people would get the same number: what is counted, from which record. Give it a baseline measured from those records and a limit most cases must meet, like "reply within 4 working hours, 95% of the time". An average or median hides the customers who still wait, and a driver with no number under it is still a wish; both are flagged.
 - **coverage** — Calculated from the tree — don't type it; check the counts match what you wrote, and look hardest at any need shown with no measurable CTQ beneath it.
 - **narrative** — Write a few sentences on which needs are well specified and which still need more customer evidence before you can measure them. Base it on the tree and its gaps, not on what you'd like to be true.
 - **nextSteps** — List what you'll do about a coverage gap or a specific need, ranked by impact and effort, each with an owner and a date. Tie every step to a named need; a step that isn't tied to one rarely gets done.
 
 ## What good looks like
 
-The example below translates two evidence-backed needs from the VOC evidence log's onboarding-friction and pricing-confusion themes into concrete drivers and targets, and honestly leaves a third need with no drivers yet — because the evidence for it doesn't exist yet either, which the coverage check names directly instead of hiding.
+The example below is built from the evidence log's three largest themes and the journey map's two lowest moments, for the 18 accounts that signed between 1 January and 20 February. Getting the team in with their own data has three drivers, sign-on without IT, inviting the team during setup and an import that works first time, and two needs carry six measures, each with a baseline taken from records (median 9 working days from signature to a second user's first login; median 8 from kickoff to the first clean import) and a limit most accounts must meet, such as 95% within 5 working days. The third need, reporting, is evidenced by 3 entries from 3 accounts but has no measure yet, so the coverage check names it and the next step is to watch finance teams build the report before writing a target.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/ctq-tree
 
@@ -46,6 +46,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 - **Writing a driver or measure that's really just a restated aspiration.** — "High quality support" as a measure has no target and can't be built to — "time to first response, under one hour" can. A CTQ that isn't concrete enough to fail against isn't actually a CTQ.
 - **Treating a coverage gap (a need with no measurable CTQ) as good enough to ship.** — A need with no driver or measure beneath it is still just an intention, not a specification — the whole point of this tool is surfacing that gap honestly rather than letting a vague need pass as done.
+- **Setting the target before measuring the baseline.** — "About 2 days" from memory can be off by a week. Pull the baseline from records first: the size of the gap decides which driver gets worked first, and without it nobody can show the change worked.
 - **Writing needs that aren't traced to any real VOC evidence.** — A CTQ tree translates real customer needs into specifications — starting from an assumed need rather than evidence risks specifying something with real precision that nobody actually asked for.
 
 ## What it connects to
@@ -54,11 +55,12 @@ Upstream:
 
 - **SIPOC (suppliers, inputs, process, outputs, customers)** (`sipoc`) — Its requirements table names each customer's key need; the tree breaks one of those needs into measurable features.
 - **Customer journey map** (`customer-journey-map`) — The moments that matter that feel worst are the needs to turn into measurable requirements.
+- **Voice of the customer (VOC) evidence log** (`voc-evidence-log`) — Each need traces to one of the log's themes; the log's count of entries and customers behind it says how much weight the need can bear.
 - **Affinity diagram** (`affinity-diagram`) — A theme with real weight behind it from an affinity-diagramming session is exactly the kind of need this tree exists to translate into something measurable.
 
 Downstream:
 
-- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — Once a CTQ has a concrete target and the team isn't meeting it, an A3 is where you'd run root cause analysis on the gap.
+- **A3 problem solving** (`a3`) — Once a CTQ has a limit and the baseline misses it, the gap is a problem statement: an A3 is where you go and see why, and test a countermeasure.
 
 ## Where AI helps
 

@@ -30,14 +30,14 @@ Not when:
 
 ## How to fill it in
 
-- **observations** — Walk the process and write one line for each thing you actually saw: what happened, at which step, how often, which of the eight wastes it is, and how big its impact is. Describe the work, never the person, and leave out any waste you assume is there until someone has watched it happen.
+- **observations** — Walk the process and write one line for each thing you actually saw: what happened, at which step, how often, which of the eight wastes it is, and how big its impact is. Describe the work, never the person, and leave out any waste you assume is there until someone has watched it happen. Keep two kinds of waiting apart: work sitting in a queue (invoices in an inbox, parts on a rack) is inventory; waiting is people waiting, for an answer, a signature, a machine or a system.
 - **coverage** — Calculated from your observations — don't type it; check the tallies match what you saw, and treat a waste with no observations as a place you may not have looked yet, not proof it's absent.
 - **narrative** — Write a few sentences on what the walk showed: the waste that dominates, the high-impact observations, and anything that surprised you. Use only what's on the worksheet.
-- **nextSteps** — List what you'll do about the top waste or a high-impact observation, ranked by impact and effort, each with an owner and a date. Tie each step to a named observation, so you can go back later and check it's gone.
+- **nextSteps** — Before you write a step, ask why the waste is there: a waste is a symptom, and a step aimed at the symptom brings it back. Ask the people who do the work. Then list what you'll do about the top waste or a high-impact observation, ranked by impact and effort, each with an owner and a date. Tie each step to a named observation and its cause, so you can go back later and check it's gone.
 
 ## What good looks like
 
-The example below walks a business services firm's invoice approval process: eight observations across seven of the eight wastes, worth about 96 staff hours a month by the team's own estimates. Two findings lead on hours: re-typing data that is already available as a download (27 hours, extra-processing) and a supervisor with improvement experience doing manual matching (25 hours, non-utilized talent). Waiting is the most frequent waste, and transportation turns up even in a digital process, as each item is forwarded three times between inboxes. Overproduction was looked for and not found, and is marked as checked. Each next step names the observation it removes.
+The example below walks a business services firm's invoice approval process: nine observations across seven of the eight wastes, worth about 98 staff hours a month by the team's own estimates. Two findings lead on hours, both extra-processing: re-typing invoice lines the supplier portal already holds and matching every invoice by hand, about 27 hours each. Those are about 4 minutes a typical invoice, which agrees with the Makigami of the same process, whose long $14,200 invoice took 18 and 24 minutes. Invoices queuing in the inbox are tagged inventory, not waiting, and transportation turns up even in a digital process. Each waste was asked why before acting: the inbox has no owner, and the clerk had already suggested the fix for re-typing. Overproduction was looked for and not found, and is marked as checked. Each next step names the observation it removes.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/eight-wastes-worksheet
 
@@ -45,6 +45,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 - **Padding the worksheet to fill every category.** — A waste walk that finds real waste in three categories and honestly nothing in the other five is more useful than one that manufactures a plausible-sounding entry for every category — the empty categories are real information.
 - **Logging a generic complaint instead of a specific observation.** — "The process is slow" isn't a DOWNTIME observation — "invoices sit in the inbox for 2-3 days before anyone picks them up" is. A vague entry can't actually be acted on.
+- **Fixing the waste without asking why it's there.** — A waste is a symptom. Chase the inbox and the queue comes back next month; find out that nobody owns the inbox and it stays gone. Ask why at the work, with the people who do it, before you write a next step.
+- **Calling every delay "waiting".** — Work sitting in a queue is inventory, and it's fixed by limiting the queue. People waiting is waiting, and it's fixed by removing what they wait for. Tagging both as waiting hides which fix you need.
 - **Underusing Non-utilized talent.** — It's the easiest of the eight to skip — skilled people doing routine work below their capability rarely gets logged as "waste" the way a literal delay does, even though it's often the most expensive one.
 
 ## What it connects to
@@ -65,7 +67,7 @@ Judgement — stays with you:
 
 Analysis — AI helps:
 
-- Drafting a first-pass set of tagged observations from a description of the process and what was seen
+- Tagging the observations you recorded on the walk to one of the eight wastes, for you to check
 - Drafting the narrative from the worksheet actually built
 
 Drudgery — automated:

@@ -30,16 +30,16 @@ Not when:
 
 ## How to fill it in
 
-- **researchGoal** — Write what you want to understand about this decision, naming the specific deal and outcome — that sharpens your questions more than "understand win-loss patterns." Book the interview soon after the decision, while memories are fresh.
-- **deal** — Record the same details for every interview: the account, won or lost, the deal value, the main competitor (or 'did nothing'), the decision date and the sales rep. The days from decision to interview are worked out for you and flagged past two weeks.
+- **researchGoal** — Write what you want to learn about this decision and the decision it feeds, naming the deal and outcome — that sharpens your questions more than "understand win-loss patterns." Book the interview soon after the decision, while memories are fresh.
+- **deal** — Record the same details for every interview: the account, won or lost, the deal value, who won it (a competitor, or 'did nothing'), the decision date and the sales rep. The days from decision to interview are worked out for you and flagged past two weeks.
 - **session** — Set the session length and write the opening and close with minutes for each. Open by saying who you are, that this isn't a sales call and you won't reopen the decision, and ask permission to take notes. Close by asking what you should have asked and who else was involved.
-- **topics** — Use the same topics and questions for every deal, with minutes for each so the plan fits the session: how they decided, their criteria, what tipped it, price, the sales experience, the alternative they weighed (including doing nothing) and what would have changed the outcome. Ask what happened, in order, rather than what they think of you. Write what they said beside each question, then straight after the call code each answer with one reason (product, price, sales experience, relationship, timing, competitor) so the tally adds up across deals.
+- **topics** — Use the same topics and questions for every deal, with minutes for each so the plan fits the session: how they decided, their criteria, what tipped it, price, the sales experience, the alternative they weighed (including doing nothing) and what would have changed the outcome. Ask what happened, in order, rather than what they think of you. Write what they said beside each question, and after the call tag the answers that point to a reason. Then pick the one reason that decided the deal (product, price, proof or references, sales experience, relationship, timing) and the reason they gave at the time. One reason per deal, not one per answer: counting answers gives more weight to whichever topic had the most questions. The competitor is who won, not why; if they won on a reference customer, the reason is proof. The check flags a reason no answer backs. Log the deal once in your evidence log with its reason and outcome, so reasons are counted across deals.
 - **reminders** — Write a few reminders to read before the call: interview promptly, don't defend or sell — especially on a loss — and ask "what else?" to get past the polite version of the story.
 - **narrative** — Write a short note on how to run this conversation: how to open, which topic matters most if time runs short, and how you'll get past the polite version of the story.
 
 ## What good looks like
 
-The example below is a 45-minute win-loss interview about a lost deal, held a week after the decision: seven topics from the decision process through to what would have changed the outcome, with a 3-minute opening and a 4-minute close so the plan fits the session exactly. Four of the buyer's answers are captured and coded, and the tally shows price was the reason given but not the real one: two answers point to a missing product link, one to the sales experience and one to the competitor.
+The example below is a 45-minute win-loss interview about a lost deal, held ten days after the decision: seven topics from the decision process through to what would have changed the outcome, with a 3-minute opening and a 4-minute close so the plan fits the session exactly. Four of the buyer's answers are captured. The buyer told the rep it was price; the primary reason is product, a missing link to their dispatch system, backed by two answers, so the check reads "not the reason given at the time". The competitor won the proof argument with a freight customer live for a year: proof is a reason, the competitor is only who won.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/win-loss-interview-guide
 
@@ -47,17 +47,15 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 - **Waiting too long after the decision to run the interview.** — The real reasoning behind a decision fades fast — what's left after a few weeks tends toward the simplified, face-saving version rather than what actually happened.
 - **Getting defensive or arguing the point on a loss.** — The goal is understanding the buyer's real reasoning, not correcting their account of it — defensiveness ends the honest part of the conversation immediately.
+- **Coding every answer and adding the codes up.** — A topic with more questions collects more codes, so the tally measures the guide, not the deal. One primary reason per deal, backed by what they said, is what adds up across deals.
 - **Only running win-loss interviews on losses, never wins.** — Knowing exactly what got beaten on a win is as valuable as knowing why something was lost — skipping wins loses half the competitive picture.
 
 ## What it connects to
 
-Upstream:
-
-- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — A deal that's already been through root-cause analysis on a stalled or lost pattern is exactly the kind of deal worth a deeper win-loss follow-up.
-
 Downstream:
 
-- **Voice of the customer (VOC) evidence log** (`voc-evidence-log`) — Win-loss quotes are exactly the kind of raw material the evidence log tallies — log them as entries, source type 'win-loss.'
+- **Voice of the customer (VOC) evidence log** (`voc-evidence-log`) — Log each deal once, source type 'win-loss', with its primary reason as the theme and won or lost as the outcome: the log then counts reasons across deals and shows a win rate for each.
+- **Deal A3 — win-rate root cause analysis** (`deal-a3`) — When one reason keeps deciding lost deals across the log, it is a problem worth an A3: the interviews are its evidence.
 
 ## Where AI helps
 
@@ -73,7 +71,7 @@ Analysis — AI helps:
 
 Drudgery — automated:
 
-- Counting topics and questions
+- Counting topics, questions and the answers that back the primary reason
 - Exporting to xlsx in the house format
 
 ---

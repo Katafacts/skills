@@ -31,14 +31,14 @@ Not when:
 ## How to fill it in
 
 - **scope** — Name the customer group or journey this plan covers. Keep it to one group, so the evidence you collect can be compared.
-- **goals** — List the questions you want customer evidence to answer — "why do new customers stop using it in month two?", not "understand customers". Each goal should be something a decision is waiting on.
-- **activities** — For each goal, write how you'll collect the evidence: the method, a named owner, how often, and exactly how what you collect gets into the evidence log. Choose methods that capture what customers do and say in their own words; an activity with no route into the log gets done once and lost.
-- **coverage** — Calculated from your goals and activities — don't type it; check every goal you care about has at least one activity, and treat a goal with none as an open gap.
+- **goals** — List the questions you want customer evidence to answer — "why do new customers stop using it in month two?", not "understand customers". Beside each, name the decision waiting on the answer and a date to review it: keep collecting, or retire the goal. A goal no decision is waiting on is curiosity; cut it. Write goals before you've heard the themes, so don't name a theme you haven't found yet.
+- **activities** — For each goal, write how you'll collect the evidence: the method, a named owner, which customers and how many, how often, and exactly how what you collect gets into the evidence log. Hear each goal at least two ways, and make one of them watching rather than asking: what customers say and what they do often differ. Tag tickets by where in the journey they came from, not by a theme you expect; an activity with no route into the log gets done once and lost.
+- **coverage** — Calculated from your goals and activities — don't type it. A goal with no activity is a gap, and a goal heard one way only rests on one kind of evidence; give each a next step with an owner and a date.
 - **narrative** — Write a few sentences on which goals are well covered and which still have no collection activity. Use only what the plan shows.
 
 ## What good looks like
 
-The example below plans six months of standing collection for one group, small-business accounts in their first year, against four goals. Four activities feed the evidence log: monthly customer interviews, weekly support ticket tagging, a quarterly survey question, and a weekly go-see shift on the support desk with an extra shift after any spike. Each sample carries its unit and samples are only added up within a kind of method. The fourth goal, why first-year accounts cancel before renewal, honestly has no activity yet, so it gets a next step with an owner and a date rather than a weak activity forced onto it.
+The example below, written on 15 January before any evidence came in, plans six months of standing collection for one group, small-business accounts in their first year, against four goals. Each goal is a question with the decision waiting on it and a review date, such as which onboarding step the next quarter's product work fixes first. Five activities feed the evidence log: five interviews a month, weekly ticket tagging by journey stage, a quarterly survey question, a weekly go-see shift on the support desk and a monthly check of each first invoice against its quote. Only the first-invoice goal is heard more than one way, and the invoice check is its watching source, since tickets and the survey both ask. Two goals are heard one way only, so each gets a second, different source, and the fourth goal, why first-year accounts cancel, has no activity yet, so it gets a next step with an owner and a date rather than a weak activity forced onto it.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/voc-collection-plan
 
@@ -46,7 +46,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 - **Writing an activity that's really just 'gather more feedback' restated.** — A real method with a real cadence and a real evidence-flow step is what actually keeps the evidence log fed — a vague activity produces nothing to log.
 - **Treating a coverage gap (a goal with no activity) as good enough to ship.** — A goal with no real collection activity behind it is still just a question, not a plan to answer it — the whole point of this tool is surfacing that gap honestly.
-- **Building the plan once and never revisiting it as goals change.** — A collection plan is a standing practice, not a one-time document — re-run it as new goals emerge or old ones get answered.
+- **Building the plan once and never revisiting it as goals change.** — A collection plan is a standing practice, not a one-time document. The review date on each goal is when you decide to keep collecting or retire it, so effort moves to the questions still open.
+- **Writing goals as "understand why X happens".** — Understanding is never finished, so nothing tells you when you have enough. Name the decision the answer feeds and you know which evidence matters and when to stop.
 
 ## What it connects to
 

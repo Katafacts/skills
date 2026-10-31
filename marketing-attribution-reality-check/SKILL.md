@@ -12,7 +12,7 @@ Family: Measurement · Format: .xlsx · Domain: commercial
 
 ## What it is
 
-A marketing attribution reality check runs the same real buyer journeys through four simple rules for giving channels credit: first touch, last touch, an even split, and position-based (40% to the first touch, 40% to the last, 20% shared across the middle). It shows which channels hold steady whichever rule you pick and which swing, so a number from the CRM's default rule isn't treated as settled when nobody has checked it. Touches that only show how a buyer came back, such as branded search or typing in your address, are listed separately rather than credited, because they end nearly every journey by definition.
+A marketing attribution reality check runs the same real buyer journeys through four simple rules for giving channels credit: first touch, last touch, an even split, and position-based (40% to the first touch, 40% to the last, 20% shared across the middle). It shows which channels hold steady whichever rule you pick and which swing, so a number from the CRM's default rule isn't treated as settled when nobody has checked it. Touches that only show how a buyer came back, such as branded search or typing in your address, are listed separately rather than credited, because they end nearly every journey by definition. Every rule has one blind spot: it only looks at journeys that converted. A channel that turns up in nearly every journey, won or not, collects credit under every rule while making no difference. So the check also sets the converted journeys beside a sample of ones that went nowhere, and shows which channels appear more often when the buyer comes through.
 
 ## When to use it
 
@@ -31,12 +31,12 @@ Not when:
 
 - **scopeArea** — Say which opportunities and which period this check covers. Use a period that has ended, so every journey is complete and judged the same way.
 - **currentModel** — Write how channel credit is actually assigned today, including a CRM default nobody chose on purpose. Ask whoever builds the reports, and describe the convention actually in use, not the one you wish you had.
-- **cases** — For each opportunity, enter its pipeline value and every touch in the order it happened, from the CRM and your campaign records. Mark branded search and direct visits as navigational: they show a buyer coming back, not what brought them, and left in they take last-touch credit for almost everything. Credit under each rule and the swing between rules are calculated; check the channels with the biggest swing against what the sales team remembers about those deals.
+- **cases** — For each opportunity, enter its pipeline value and every touch in the order it happened, from the CRM and your campaign records. Mark branded search and direct visits as navigational: they show a buyer coming back, not what brought them, and left in they take last-touch credit for almost everything. Then add a sample of journeys that went nowhere (leads from the same period that never became an opportunity), about as many as the converted ones, marked as not converted: they earn no credit, but a channel that is in them as often as in the converted ones isn't making the difference its credit suggests. Credit under each rule, the swing between rules and each channel's share of converted against unconverted journeys are calculated; check the channels with the biggest swing against what the sales team remembers about those deals.
 - **narrative** — Write a few sentences naming the channels whose credit holds up whichever way credit is assigned, and the ones whose credit depends on which attribution model is chosen. Use only what the cases show.
 
 ## What good looks like
 
-The example below checks twelve opportunities ($376,000 of pipeline) from the first quarter of 2026 against the CRM's first-touch default. Branded search and direct visits end all twelve journeys, so they are marked navigational and left out. Of the five real channels, the case study download swings most: none of the credit under first touch, 42% under last touch and about 22% under an even split or position-based. The trade show is the reverse, 19% under first touch and nothing under last, and the webinar moves 12 points. Only paid search holds steady whatever the rule.
+The example below, dated 1 June 2026, checks twelve opportunities ($376,000 of pipeline) from the first quarter of 2026 against the CRM's first-touch default, beside a random sample of twelve leads from the same quarter that never became an opportunity. Branded search and direct visits end all twelve converted journeys, so they are marked navigational and left out. Of the five real channels, the case study download swings most: none of the credit under first touch, 42% under last touch and about 22% under an even split or position-based. The trade show is the reverse, 19% under first touch and nothing under last, and the webinar moves 12 points, from 19% to 31%. Only paid search holds steady whatever the rule. The journeys that went nowhere change the reading: the webinar is in 7 of the 12 that converted and 7 of the 12 that didn't, and organic search is in more of the ones that didn't (6 against 5). The case study is the only gap large enough to be worth testing, in 6 converted journeys against 1, and converted journeys carry more touches, so every channel shows up in them a little more often. Paid social links carried no channel tag, so webinar touches were matched from registration records and paid social is undercounted.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/marketing-attribution-reality-check
 
@@ -45,7 +45,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 - **Treating a CRM's default attribution field as though it were a deliberately chosen, validated model.** — A default is not a decision — this tool exists specifically to check whether that default actually holds up against an equally simple alternative.
 - **Using this tool to pick a new 'correct' attribution model and rolling it out as the new default.** — Simple rules agreeing or disagreeing isn't the same as a controlled experiment — treat a large swing as a reason to investigate further, not as license to declare a new winner.
 - **Leaving branded search and direct visits in as channels.** — A buyer who already knows you searches your name or types your address before booking a call, so these touches end almost every journey. Credited, they top the last-touch view by definition and push every real channel's swing out of sight.
-- **Ignoring a channel that scores zero under every model without asking why.** — A channel that's genuinely never present isn't the same as a channel that's present but always in a position (like the very middle of a journey) that every simple model happens to undercount.
+- **Dismissing a mid-journey channel because first and last touch give it nothing.** — A channel that sits in the middle of journeys is never first or last, so those two rules give it nothing however often it is there. Even split and position-based are where it shows.
+- **Crediting only the journeys that converted.** — Every rule here shares out credit among journeys that ended in an opportunity. A channel in nearly every journey, won or not, collects credit while causing nothing. Where you can, count how often each channel appears in journeys that went nowhere too.
 
 ## What it connects to
 
@@ -68,7 +69,7 @@ Analysis — AI helps:
 
 Drudgery — automated:
 
-- Computing credit under all four rules and the swing between them
+- Computing credit under all four rules, the swing between them, and how often each channel appears in journeys that converted and in ones that didn't
 - Exporting to xlsx in the house format
 
 ---
