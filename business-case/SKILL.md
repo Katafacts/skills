@@ -12,7 +12,7 @@ Family: Deal execution · Format: .xlsx · Domain: core
 
 ## What it is
 
-A business case puts a real number on why an investment is worth making — the cost of the status quo, what the fix actually costs, and the quantified value it returns, with payback period and 3-year ROI computed from those numbers rather than asserted. Every value driver carries how the number was derived and how confident you actually are in it — a driver with no real basis is named as a gap, not hidden behind a confident-sounding total. It's the resourcing step that naturally comes before a kaizen event charter: before committing a team's time to an improvement, this is what earns that commitment.
+A business case puts a real number on why an investment is worth making — the cost of the status quo, what the fix actually costs, and the quantified value it returns, with payback period and 3-year ROI computed from those numbers rather than asserted. Every value driver carries how the number was derived and how confident you actually are in it — a driver with no real basis is named as a gap, not hidden behind a confident-sounding total. Use it when a fix needs money or a long commitment. Most kaizen events don't: they work within what's on hand, so they need a charter, not a business case.
 
 ## When to use it
 
@@ -27,6 +27,7 @@ Not when:
 - The investment is trivial enough that building a formal case costs more time than the decision itself is worth — use judgement, not process, for a small call.
 - You don't have any real data yet, just a hunch that something would help — go gather evidence first (a go-see walk, a VOC pass), or every driver in this case will be a guess dressed up as a number.
 - You're building the countermeasure itself, not funding it — that's an A3's job; a business case exists to justify committing resources, not to solve the problem directly.
+- The fix is a few days' work with what's already on hand. Charter a kaizen event instead.
 
 ## How to fill it in
 
@@ -40,12 +41,13 @@ Not when:
 
 ## What good looks like
 
-The example below justifies an automated inspection station for a solder-defect problem — two of three value drivers are grounded in real quality-log and time-study data, and the third, a faster product-launch estimate, is honestly left at low confidence rather than padded to make the total look stronger.
+The example below funds the countermeasure from a solder-defect A3: new stencils and a stencil life limit at the paste printer, $10,800 once and $7,200 a year. It buys prevention at the verified cause, not another inspection station, and nothing the A3 and trial didn't support: the cause is worn stencils and the trial tested a new stencil, so no stencil cleaner. The warranty driver doesn't assume every claim disappears: of 3.5 claims a month, the A3 traced 3 in 4 to worn stencils and the trial cut print defects by 80%, so it counts 2.1 claims a month ($25,200 a year, medium confidence). Rework borrows that 60% share without its own trace ($13,500), and a faster product-launch estimate is unchecked ($10,000), so both are low confidence. Together that's $48,700 a year: payback in 3.1 months, or 7.2 months on the warranty claims alone.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/business-case
 
 ## Common mistakes
 
+- **Funding more inspection when the cause is known.** — Inspection finds defects after they're made and never finds all of them, so its value rests on a catch rate. Fund the fix at the verified cause first; if you must contain, state the catch rate you're assuming.
 - **Writing a value driver with no real basis behind it.** — A number with nothing behind it gets challenged the moment someone asks how you got it — and once one number falls apart, the reader stops trusting the rest of the case too.
 - **Padding the case with low-confidence drivers to inflate the total.** — The honest total, with its weak points named, survives scrutiny. A total padded with shaky numbers just gives a skeptical reviewer a reason to distrust the whole case.
 - **Skipping the cost of inaction and only presenting the upside.** — A case that only shows what you gain, never what continuing to wait already costs, is missing half the argument for acting now instead of later.
@@ -54,12 +56,11 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **SWOT (strengths, weaknesses, opportunities, threats) analysis** (`swot-analysis`) — The SWOT's evidence and the action being funded are the starting point for the case.
-- **A3 problem solving** (`a3`) — A countermeasure identified in an A3 that needs real resourcing is exactly what turns into a business case — the A3 finds the fix, this justifies committing to it.
+- **A3 problem solving** (`a3`) — The A3 verifies the root cause and the countermeasure; the business case funds it when it needs money. The worked example funds an A3's countermeasure.
 
 Downstream:
 
-- **Kaizen event charter** (`improvement-event-charter`) — Once a business case earns the investment, a kaizen event charter is where the actual work gets planned and resourced day to day.
+- **Implementation plan** (`implementation-plan`) — Once the case is approved, the plan sequences the work with one owner and a date for each step.
 
 ## Where AI helps
 
