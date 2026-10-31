@@ -69,6 +69,7 @@ Downstream:
 - **Spaghetti diagram: walking and carrying paths** (`spaghetti-diagram`) — When a walk shows people leaving the work to fetch things, follow one person for a shift and draw their path to see what it costs.
 - **Standard work chart** (`standard-work-chart`) — When the question is whether a job keeps pace, go and time it: about ten cycles, step by step, set against takt on a standard work chart.
 - **Daily management huddle** (`daily-huddle`) — Bring what the walk found to the next huddle, so the team hears it and agrees the follow-ups that need more than one person.
+- **Quick changeover** (`quick-changeover`) — Filming a changeover is a go-see with a camera: watch the real changeover with the people who do it, then take the film apart element by element.
 
 ## Where AI helps
 

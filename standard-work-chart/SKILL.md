@@ -66,6 +66,7 @@ Upstream:
 - **Go-see protocol** (`go-see-protocol`) — Timing a job is a go-see with a stopwatch: plan where to stand and what to watch for, and watch a few cycles before timing any. Go and see first, then chart.
 - **Spaghetti diagram: walking and carrying paths** (`spaghetti-diagram`) — A spaghetti diagram shows the walking a layout causes; after the layout changes, the standard work chart times what's left and sets the new standard. A walk share over 10% on the chart is the cue to draw one.
 - **Value stream map — current and future state** (`value-stream-map`) — The value stream map sets takt for the whole stream and shows which step can't keep pace. The standard work chart works out, step by step, how the work there fits takt and how many people it needs.
+- **Quick changeover** (`quick-changeover`) — A changeover is a job of its own: once it is streamlined and split between two people, chart each person's sequence so they finish together.
 
 Downstream:
 

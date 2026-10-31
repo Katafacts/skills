@@ -61,6 +61,7 @@ Upstream:
 - **A3 problem solving** (`a3`) — The A3's countermeasures, follow-up actions and target are the practices and results this audit checks.
 - **Kaizen event charter** (`improvement-event-charter`) — The charter's metrics (baseline, target, how measured) are the results to re-measure here, and its follow-up checks say when to audit.
 - **Run chart** (`run-chart`) — A run chart with the change marked shows whether a result has held: still shifted against the old baseline, or drifting back. Bring it to the audit as the evidence for each result.
+- **Quick changeover** (`quick-changeover`) — After a changeover event, watch a changeover on each shift against the new card: a change that never reached the card is the usual reason the time slips back.
 
 Downstream:
 

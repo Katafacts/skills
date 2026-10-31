@@ -66,6 +66,7 @@ Downstream:
 
 - **RACI (responsible, accountable, consulted, informed) chart** (`raci-chart`) — The charter names one accountable owner for the event; the chart does the same for every task and decision in the process the event changes.
 - **Sustainment audit** (`sustainment-audit`) — At the follow-up checks, the audit re-measures the charter's metrics the same way and checks that the event's changes are still how the work is done.
+- **Quick changeover** (`quick-changeover`) — For a changeover event, the team films a real changeover and fills in the quick changeover worksheet: internal and external, converted, streamlined and written into the standard.
 
 ## Where AI helps
 

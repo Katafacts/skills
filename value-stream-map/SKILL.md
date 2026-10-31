@@ -73,6 +73,7 @@ Downstream:
 - **Makigami process map** (`makigami`) — When one box hides a tangle of handoffs, approvals and rework, explore that step with a Makigami — its work time and first-pass yield flow back into this map's step.
 - **A3 problem solving** (`a3`) — The constraint, a step slower than takt, or the longest wait is exactly the kind of bounded, data-backed problem an A3 exists to close.
 - **Implementation plan** (`implementation-plan`) — Turns the future state's countermeasures into dated, owned milestones so the design actually gets built.
+- **Quick changeover** (`quick-changeover`) — When a step's changeover time forces big batches or stops it keeping pace, film that changeover and take it apart: move what can be done while the step runs out of the stop, then streamline the rest.
 
 ## Where AI helps
 
