@@ -34,14 +34,15 @@ Not when:
 - **goal** — Write what this initiative needs to achieve, specifically enough that you'd know whether it succeeded — ideally a number and a date.
 - **in-scope** — List what's genuinely in scope: the processes, teams, systems or customers this will touch. Be specific enough that two people would agree on whether something is in or out.
 - **out-of-scope** — List what's deliberately excluded, and why. If you can't name anything, the scope isn't settled yet — an empty list is a finding, not a section to skip.
-- **team** — List who's involved and their role: who leads, who does the work, who decides, and who needs to be kept informed.
+- **team** — List who's involved and their role: who leads, who does the work, who decides, and who needs to be kept informed. The people who do the work go on by name, from every shift the change touches: a procedure redesigned without the operators is one they'll quietly work around.
 - **timeline** — List the key milestones or phases with dates. Check them with the people doing the work, not just the sponsor.
 - **assumptions** — List what has to be true for this to work, and any constraint you're working within — budget, people, systems, deadlines. Write each so it can be checked; these are the first things to revisit when the plan slips.
-- **success-measure** — Name the one number that will show the work succeeded: what is measured and where, its unit, today's baseline, the target and the date. The change needed and the change as a share of the baseline are worked out for you; if you can't give a baseline yet, measuring it is the first milestone.
+- **success-measure** — First name the result this work serves, the business number it is meant to move, so a faster process nobody needed can't count as success. Then name the one number that will show the work succeeded: what is measured and where, its unit, today's baseline, the target and the date. The change needed and the change as a share of the baseline are worked out for you; if you can't give a baseline yet, measuring it is the first milestone.
+- **guard-measure** — Name what must not get worse while you make the change, today's value and the limit it must not cross: quality when you speed something up, safety when you remove a step, cost when you add capacity. Set the limit just outside normal day-to-day variation, so one ordinary bad day doesn't stop the work. Crossing the limit means stop and look before going on. The scope check flags a canvas with no guard, no limit, no measurable change or no result it serves.
 
 ## What good looks like
 
-The example below scopes a kaizen event that picks up where a problem-solving A3's countermeasures left off: tightly bounded to one paint booth and one procedure, explicitly deferring the other line and any capital spend rather than letting scope creep in by default. Its timeline is dated from the baseline study in early March to the check on 5 June, and its success measure is changeover time from 45 to 25 minutes, a cut of 20 minutes or 44%.
+The example below scopes a kaizen event that picks up where a problem-solving A3's countermeasures left off. It serves the A3's result, Line 2 on-time shipments from 81% toward 97%, and is bounded to one paint booth and one procedure: Line 1 waits for the A3's own rollout decision, and capital spend is out. The booth operators of both shifts are on the team, because they do the changeovers. Its success measure is changeover time from 45 to 25 minutes, a cut of 20 minutes or 44%, by 5 June, and its guard is first pass yield at final inspection, which must not fall below 93%, a point under today's 94% so one ordinary day doesn't stop the trial. The scope check finds nothing missing.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/scoping-canvas
 
@@ -49,6 +50,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 - **Leaving out-of-scope empty because nothing's been explicitly excluded yet.** — An empty out-of-scope section almost never means nothing's excluded — it usually means the boundary hasn't been thought through yet, which is exactly the ambiguity this canvas exists to catch before it causes a real disagreement.
 - **Writing a goal statement vague enough that almost any outcome would count as success.** — A goal that can't fail isn't a real goal — the same discipline an A3's problem statement or a business case's cost-of-inaction section already holds itself to.
+- **Setting a target with nothing to stop it being hit the wrong way.** — A changeover cut to 25 minutes by skipping the gun flush is a faster way to make rework. Name the measure that must not get worse, with a limit, before the work starts, while nobody has a stake in the answer.
 - **Treating the canvas as a one-time exercise nobody revisits once the initiative starts.** — Scope drifts in real work — a canvas that's never checked against again is ceremony, not a working document.
 
 ## What it connects to
