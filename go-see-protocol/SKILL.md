@@ -28,7 +28,7 @@ Not when:
 
 - You want to check whether people are following the rules so you can correct them. That turns the walk into an inspection and people will show you what you want to see.
 - You need to measure how far people walk or how long each step takes. Follow one person with a spaghetti diagram or time the steps instead.
-- You already know what the problem is and where. Go straight to finding its cause with a fishbone diagram or 5-Whys, and walk to check the causes.
+- You've already seen it and recorded the facts. Analyse the cause with a fishbone diagram or 5-Whys, then walk again to check it.
 - Nobody can act on what you find. Settle who owns the area first; a record with no possible owner changes nothing.
 
 ## How to fill it in
@@ -42,7 +42,7 @@ Not when:
 
 ## What good looks like
 
-The example below is Line 2's line supervisor walking the paint booth on 15 July 2026, during the 10:00 changeover slot, to see whether the changeover routine card put back after the 5-Whys (nozzle off, a timed 90-second flush, a clean white test card before the first part) is how changeovers are really done. Four stops, all observed; eight facts recorded: four meet the standard, three are gaps and one has no standard to see against. All four of those have a follow-up with one owner and a due date, and the record has nothing for the checks to flag. The gaps share a pattern the walk was planned to find: they sit at the edges of the day shift. A cover operator from another line was trained on the old card and stopped the flush at 41 seconds, the last changeover of the night went unsigned, and second shift's test cards had nowhere to go once the bench was locked. The routine card itself held up: the test card caught the short flush and a second flush cleared it.
+The example below is Line 2's line supervisor walking the paint booth on 15 July 2026, during the 10:00 changeover slot, to see whether the changeover routine card put back after the 5-Whys (nozzle off, a timed 90-second flush, a clean white test card before the first part) is how changeovers are really done. Four stops, all observed; nine facts recorded: five meet the standard, three are gaps and one has no standard to see against. All four of those have a follow-up with one owner and a due date. The checks flag one note left as first written, "seems well organised", and the takeaway rewrites it as the fact to count: the flush cart staged before the last part of the old colour. The gaps share a pattern the walk was planned to find: they sit at the edges of the day shift. A cover operator from another line was trained on the old card and stopped the flush at 41 seconds, the last changeover of the night went unsigned, and second shift's test cards had nowhere to go once the bench was locked. The routine card itself held up: the test card caught the short flush and a second flush cleared it.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/go-see-protocol
 

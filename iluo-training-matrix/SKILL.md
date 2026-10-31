@@ -31,8 +31,8 @@ Not when:
 ## How to fill it in
 
 - **team** — List everyone on the team who does this work, including part-timers and cover staff — they're often the people a gap depends on.
-- **matrix** — List the specific, trainable skills the work needs — "restore deleted dashboards from backup", not "good product knowledge". For each skill, set the level that counts as covered (usually U) and how many people need it (usually 2, so one absence doesn't stop the work; more if a rota needs it). Then record each person's level from what you've seen them do, not what they've been signed off for.
-- **trainingPlan** — For each short skill, add one line per person you'll train: the target level, the trainer and a date. The trainer should be at O on that skill; if nobody on the team is, name someone from outside it. A line that only gets someone to L is a fine first step, but it doesn't close the gap.
+- **matrix** — List the specific, trainable skills the work needs — "restore deleted dashboards from backup", not "good product knowledge". For each skill, set the level that counts as covered (usually U) and how many people need it (usually 2, so one absence doesn't stop the work; more if a rota needs it). Then record each person's level from what you've seen them do, not what they've been signed off for. U means done to the instruction's quality and in its time, unaided, confirmed by watching it, which is what a standard work audit does; O means they can also teach it.
+- **trainingPlan** — For each short skill, add one line per person you'll train: the target level, the trainer and a date. The trainer should be at O on that skill; if nobody on the team is, name someone from outside it. Train in four moves: prepare the person, show and explain each step and its key points, have them do it while explaining it back, then follow up, checking often at first and less as it holds. A line that only gets someone to L is a fine first step, but it doesn't close the gap.
 - **narrative** — Write a few sentences on where the team is exposed (skills with nobody, or too few people, at the level needed) and what the plan does about it. Use only what the matrix shows.
 
 ## What good looks like
@@ -54,6 +54,10 @@ Upstream:
 
 - **Work instruction** (`work-instruction`) — A skill in this matrix is only trainable against a real work instruction — build that first if it doesn't exist yet.
 - **Standard work chart** (`standard-work-chart`) — For a paced job, the chart says what working it unsupervised (U) looks like: the sequence done unaided, within takt.
+
+Downstream:
+
+- **Standard work audit** (`standard-work-audit`) — Watching someone do the job against the instruction is how a level gets confirmed: a step they can't yet do as written, through no fault of the standard, means they aren't at U on it yet.
 
 ## Where AI helps
 

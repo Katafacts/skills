@@ -12,7 +12,7 @@ Family: Flow and pull · Format: .xlsx · Domain: core
 
 ## What it is
 
-A WIP aging report looks at work that is still open and asks which pieces have been stuck too long. Every item gets one number: days in its current stage. Each stage gets one line: an age limit, the most days an item should sit there. Set it from a service target you already promise, or from how long most finished items spent in that stage (the 85th percentile is a good default: 85 in 100 finished items took no longer). Any open item older than its stage's limit is flagged; one on its limit today is marked at limit, because it goes over tomorrow if nothing moves. The limit is a fixed line, so it catches items while they are still recoverable, and it shows which stage the age piles up in, which is usually a wait nobody owns rather than the work itself.
+A WIP aging report looks at work that is still open and asks which pieces have been stuck too long. Every item gets one number: days in its current stage. Each stage gets one line: an age limit, the most days an item should sit there. Set it from a service target you already promise, or from how long most finished items spent in that stage (the 85th percentile is a good default: 85 in 100 finished items took no longer). Any open item older than its stage's limit is flagged; one on its limit today is marked at limit, because it goes over tomorrow if nothing moves. Ages count calendar days. The limit is a fixed line, so it catches items while they are still recoverable, and it shows which stage the age piles up in, which is usually a wait nobody owns rather than the work itself. One rule of flow sits underneath it: items open in a stage are roughly items finished per day times days in the stage. Ten requests in a stage that finishes two a day means about five days' wait for the next one in. So the fastest way to cut age is usually to start less, not to work faster.
 
 ## When to use it
 
@@ -30,7 +30,7 @@ Not when:
 ## How to fill it in
 
 - **scope** — Name the queue or workflow and the date you are measuring on. Keep one queue per report: blending two gives limits and ages that describe neither.
-- **items** — List every open item with its current stage and the date it entered that stage, not the date it was first created. Take the dates from the system of record; a guessed date defeats the point of measuring age.
+- **items** — List every open item with its current stage and the date it entered that stage, not the date it was first created. Take the dates from the system of record; a guessed date defeats the point of measuring age. Ages count calendar days, weekends included, so set the limits in calendar days too.
 - **stages** — Give each stage an age limit in days. If you already promise a time for that stage, use it. If not, take the items that finished in the last quarter, list how many days each spent in the stage, sort them, and read off the value 85% of the way up the list; round to whole days. Set limits per stage, never one for the whole queue: a three-day triage and a ten-day build step need different lines. Revisit the limits each quarter from fresh finished items. The ages, averages and over- and at-limit counts are calculated; a stage with no limit flags nothing and says so.
 - **summary** — Calculated from the items and limits: how many items are over their limit, how many are at it today (over tomorrow if nothing moves), and the oldest item. Check the oldest item really is still open, and look at which stage holds most of the over-limit items: that is usually where to act first.
 - **narrative** — Write a few sentences on why the over-limit items are stuck, from what you have seen or heard: go and ask whoever holds each one. Name the stage where age piles up and the items at their limit today, which go over tomorrow if nothing moves.
@@ -47,13 +47,14 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 - **Flagging items against twice their stage's average age** — The average includes the stuck items themselves, so the line rises as they get older, and a stage full of slow items never flags any of them. A fixed limit per stage does not move with the items it is measuring.
 - **One age limit for the whole queue** — Stages differ: a quick triage step and a long build step need different lines. A single limit flags everything in the slow stage and nothing in the fast one, which is the opposite of useful.
 - **Measuring age from when the item was created, not when it entered its stage** — An item that moved on yesterday after a long first stage looks stuck when it is not, and one stuck in its third stage looks fine because its total age is shared out. Age in the current stage is what tells you where it is stuck.
+- **Chasing old items while still starting new ones** — Open items are roughly finishing rate times time in stage. If new work keeps being pulled in while the team chases the old, the stage stays as full and the next items age just as badly. Stop starting until the stage is back under its limit, then finish what is there.
 - **Leaving waiting stages without an owner** — Age usually piles up where the item waits on someone outside the team: a vendor, an approver, the requester. If nobody owns chasing that stage, every item there waits for the other side to reply.
 
 ## What it connects to
 
 Upstream:
 
-- **Kanban sizing calculator** (not in the catalogue yet) — A WIP limit sized too high is exactly what produces a queue with room for items to quietly stall — this report is where that shows up after the fact.
+- **Visual board design** (`visual-board-design-guide`) — Put a work-in-progress limit on each stage column of the board, so the team stops pulling new work when a stage is full. Items stall where there is room to start more than can be finished; this report is where that shows up.
 
 Downstream:
 

@@ -32,13 +32,13 @@ Not when:
 
 - **scope** — Name the customer group this evidence covers and the period. A log with no stated boundary blends customers who don't belong in the same analysis into themes that describe neither group well.
 - **entries** — Enter each quote or observation with its source, source type and date. Use the customer's own words or a close paraphrase — a general summary defeats the point of evidence — and leave the theme for the next step.
-- **themeSummary** — Give each entry a theme, then read the themes across all the entries; the tally updates as you reassign them. Assigning themes is the real judgement call here, so name each one in plain words taken from the evidence, and treat a theme with only one or two entries as a hint, not a pattern.
+- **themeSummary** — Give each entry a theme, then read the themes across all the entries; the tally updates as you reassign them. Name each theme as a sentence a customer could have said ("too many manual steps before we see any value"), not a filing label ("onboarding"); for a feature request, name the need behind it. The tally counts entries and different customers per theme: six entries from one customer are one customer's view, so a theme resting on one customer is flagged, and one heard only one way (only interviews, only a survey) is a lead to confirm another way, not yet a finding.
 - **narrative** — Write a few sentences on what the top themes, taken together, suggest. Use only what the entries say, and quote a customer where it makes the point.
 - **nextSteps** — List what you'll do with this evidence, ranked by impact and effort, each with an owner and a date. Tie each step to a named theme, so you can check later whether it was dealt with.
 
 ## What good looks like
 
-The example below is a B2B software team's evidence on new accounts' first 30 days: 14 quotes from 11 accounts across four themes, a tally showing onboarding friction as the dominant cluster (6 of 14 entries, about 43%, heard in interviews, a ticket, the survey and a go-see), and next steps that trace directly to specific themes rather than a generic 'listen to customers more' resolution.
+The example below is a B2B software team's evidence on new accounts' first 30 days: 14 quotes from 11 accounts across four themes, each named the way a customer would say it. The dominant theme is "too many manual steps before we see any value": 6 of 14 entries (about 43%) from 6 different accounts, heard in interviews, a ticket, the survey and a go-see. A reporting request is logged as the need behind it, reports finance can use without exporting. No theme rests on a single customer, and the next steps each trace to a named theme.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/voc-evidence-log
 
@@ -46,6 +46,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 - **Summarizing or paraphrasing away the customer's actual words before logging the entry.** — The point of an evidence log is that every theme traces back to something a real customer actually said — a summarized entry can't be checked against the source anymore, which is exactly what makes evidence more trustworthy than an impression.
 - **Treating every theme with any entries as worth acting on.** — The top few themes with real weight beat a flat list of everything anyone ever said once.
+- **Counting entries instead of customers.** — One unhappy customer who writes in five times is one customer. Read the customers column before the entries column; a theme resting on one customer needs hearing from another before you act.
 - **Splitting near-duplicate themes ("onboarding is slow" and "setup takes too long") instead of merging them.** — Inconsistent theme labels understate how big a real cluster actually is — two 3-entry themes that are really the same issue look like two minor patterns instead of one major one.
 
 ## What it connects to
@@ -53,10 +54,14 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Go-see interview protocol** (`go-see-interview-protocol`) — What customers say and do during a go-see interview is exactly the raw material this log tallies — feed it in as entries rather than letting it sit in a separate notebook.
+- **Voice of the customer (VOC) collection plan** (`voc-collection-plan`) — Says which decision the evidence is for, who to hear from and how, so the log fills with what the decision needs.
+- **Customer interview guide** (`customer-interview-guide`) — Interview notes come in as entries, one quote or observation per row, in the customer's own words.
 
 Downstream:
 
 - **Customer journey map** (`customer-journey-map`) — Place each logged quote at the stage where it happened to see where the themes hurt most.
+- **Affinity diagram** (`affinity-diagram`) — When the themes are unclear, sort the entries bottom-up on an affinity diagram first, then bring its headers back here as themes.
+- **Critical-to-quality (CTQ) tree** (`ctq-tree`) — The top themes become the customer needs a CTQ tree turns into measurable requirements.
 - **Ideal customer profile (ICP) canvas** (`icp-canvas`) — A named theme pattern — which customers say what, and why — is direct input to who an ICP should target or exclude.
 
 ## Where AI helps

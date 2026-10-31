@@ -32,8 +32,8 @@ What the catalogue search returns for some common problems (best match first):
 
 - "Our invoices take weeks to get paid": `makigami`, `kaizen-event-report-out`, `value-stream-map`
 - "Too many handoffs between teams": `makigami`, `marketing-maturity-assessment`, `shift-handover`
-- "Defects keep coming back": `error-proofing`, `pareto-chart`, `five-whys`
-- "Sales deals stall in the pipeline": `sales-funnel-map`, `qualification-standard-work`, `deal-aging-report`
+- "Defects keep coming back": `pareto-chart`, `error-proofing`, `five-whys`
+- "Sales deals stall in the pipeline": `sales-funnel-map`, `deal-aging-report`, `qualification-standard-work`
 - "A change is about to go live and might fail": `fmea`, `implementation-plan`
 - "Customers keep complaining": `customer-journey-map`, `voc-evidence-log`, `customer-interview-guide`
 - "Improvements don't stick after the event": `improvement-event-charter`, `improvement-idea-funnel`, `lean-maturity-scorecard`
@@ -77,7 +77,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `sales-funnel-map` -- Sales funnel value stream map (Value stream mapping)
 - `makigami` -- Makigami process map (Value stream mapping)
 - `spaghetti-diagram` -- Spaghetti diagram: walking and carrying paths (Value stream mapping)
-- `deal-aging-report` -- Deal aging report (Value stream mapping)
+- `deal-aging-report` -- Deal aging report (Flow and pull)
 - `quick-changeover` -- Quick changeover (Flow and pull)
 
 ### Set direction
@@ -95,9 +95,8 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `a3` -- A3 problem solving (Problem solving / root cause analysis)
 - `deal-a3` -- Deal A3 — win-rate root cause analysis (Problem solving / root cause analysis)
 - `discovery-standard-work` -- Discovery call standard work (Deal execution)
-- `business-case` -- Business case (Deal execution)
-- `business-case-builder` -- Business case builder (Problem solving / root cause analysis)
-- `mutual-action-plan` -- Mutual action plan (Problem solving / root cause analysis)
+- `business-case-builder` -- Business case builder (Deal execution)
+- `mutual-action-plan` -- Mutual action plan (Deal execution)
 - `stakeholder-coverage-map` -- Stakeholder coverage map (Deal execution)
 - `fmea` -- Failure mode and effects analysis (FMEA) (Problem solving / root cause analysis)
 - `pareto-chart` -- Pareto chart (Problem solving / root cause analysis)
@@ -136,6 +135,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 
 ### Improve continuously
 
+- `business-case` -- Business case (Kaizen events)
 - `implementation-plan` -- Implementation plan (Kaizen events)
 - `learning-log` -- Learning log (Experimentation)
 - `message-testing-log` -- Message testing log (Experimentation)

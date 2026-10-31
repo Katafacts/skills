@@ -31,14 +31,14 @@ Not when:
 ## How to fill it in
 
 - **scope** — Say which process this covers — which product line, where it starts and where it ends. Without a stated boundary, the tracker blends processes that don't belong together into a number that describes neither.
-- **stages** — List each stage in order with three counts: units that entered it, units that passed on to the next stage (count reworked ones too, since they did pass on), and how many of those passed only after rework. Units entered minus units passed on is what was scrapped or lost. Take the counts from a tally sheet, defect log or system of record; a guessed count defeats the point of measuring.
+- **stages** — List each stage in order with three counts: units that entered it, units that passed on to the next stage (count reworked ones too, since they did pass on), and how many of those passed only after rework. Units entered minus units passed on is what was scrapped or lost. Take the counts from a tally sheet, defect log or system of record; a guessed count defeats the point of measuring. An inspection or test stage finds defects; it doesn't make them. Read its rejects by where they were made (the reject tag or defect log says) and charge them to that stage when you decide where to act: otherwise inspection looks like the problem and the stage that caused it looks better than it is.
 - **rolledYield** — Calculated from the stage counts — don't type it. Check each stage's first-pass yield against your counts, and that the weakest stage is one the people doing the work would expect. Then compare the rolled throughput yield with the final yield: a wide gap means a lot of units are being fixed along the way, which costs time and capacity even when the output count looks healthy.
-- **narrative** — Write a few sentences on why the weakest stage loses units, from what you've seen or heard there. Go and watch that stage before you write it; a reason taken only from a report is still a guess.
-- **countermeasures** — List what you'll do about the weakest stage, ranked by impact and effort, each with an owner and a date. Aim every countermeasure at the stage the numbers name as weakest, not the one that's easiest to fix.
+- **narrative** — Write a few sentences on why the weakest stage loses units, from what you've seen or heard there. Go and watch that stage before you write it; a reason taken only from a report is still a guess. Say whether the cause is verified or still a lead.
+- **countermeasures** — List what you'll do about the weakest stage, ranked by impact and effort, each with an owner and a date. Aim every countermeasure at the stage the numbers name as weakest, not the one that's easiest to fix. Name containment as containment: a check that catches the defect protects the customer today but leaves the cause in place. Pair it with a step that finds and verifies the cause (go and see, then a 5-Whys), and only then choose the permanent fix.
 
 ## What good looks like
 
-The example below is a four-stage bracket assembly line over four weeks. Sub-assembly is the weakest stage: only 412 of 480 units passed right first time (85.83%), with 30 scrapped and 38 reworked, down from 88.5% the period before, and the operators point to a fixture that drifts out of calibration mid-shift. The line's final yield looks healthy at 82.00%, 410 good brackets from 500 started, but the rolled throughput yield is 69.61%: about three units in ten are fixed or lost somewhere on the way. The countermeasures aim at sub-assembly's fixture first, then check the whole line's number moved.
+The example below is a four-stage bracket assembly line over four weeks. Sub-assembly is the weakest stage: only 412 of 480 units passed right first time (85.83%), with 30 scrapped and 38 reworked, down from 88.5% the period before. Inspection's 20 rejects were made upstream, and the reject tags put 12 of them at sub-assembly too. The line's final yield looks healthy at 82.00%, 410 good brackets from 500 started, but the rolled throughput yield is 69.61%: about three units in ten are fixed or lost somewhere on the way. The operators point to a fixture that drifts mid-shift, but nobody has verified why. So a mid-shift recalibration check goes in tomorrow as containment, the quality lead watches the fixture for two shifts and runs a 5-Whys on what is seen, and the weekly count checks that the permanent fix moved the whole line's number.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/first-pass-yield-tracker
 
@@ -47,6 +47,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 - **Counting reworked units as passes** — A unit that was fixed and sent on still shows up in the output count, so final yield looks healthy while the stage spends a big share of its time on rework. Count rework separately; the gap between final yield and rolled throughput yield is the hidden rework.
 - **Averaging each stage's conversion rate instead of computing the rolled (compounding) yield.** — Losses compound multiplicatively, not additively — four stages each at 95% conversion roll to about 81%, not 95%. Averaging overstates the real end-to-end yield every time there's more than one stage.
 - **Treating every stage below 100% as equally worth fixing.** — Name the one weakest stage with conviction and work on that; a list of every stage with some loss spreads effort until nothing moves.
+- **Blaming the inspection stage for what it rejects.** — Inspection finds defects other stages made. Charge each reject to the stage that caused it, or the fix goes to the wrong place.
+- **Stopping at a check that catches the defect.** — A recalibration check or an extra inspection is containment: it protects the customer while the cause stays in the process. Find and verify why the defect happens, then fix that.
 - **Counting units at the start and end of the process only, skipping intermediate stages.** — That gives an overall pass rate but destroys the one thing this tool is for: naming which specific stage is where the loss actually happens.
 
 ## What it connects to
@@ -54,11 +56,15 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 Upstream:
 
 - **Defect log** (not in the catalogue yet) — The per-stage entered/advanced counts this tracker needs are exactly what a defect log already records — this tool turns that log into a stage-by-stage yield finding.
+- **Value stream map — current and future state** (`value-stream-map`) — The map's rolled first-pass yield across the whole stream points at the stretch worth tracking stage by stage here.
+- **Makigami process map** (`makigami`) — The office version: each step's percent complete and accurate multiplies into the same rolled yield.
 
 Downstream:
 
 - **A3 problem solving** (`a3`) — Once the weakest stage is named, an A3 is where you'd run root cause analysis in depth if the fix isn't already obvious from the observation notes.
 - **Error-proofing** (`error-proofing`) — When the weakest stage loses units to human errors (wrong part, missed step), error-proof that step rather than adding an inspection after it.
+- **Pareto chart** (`pareto-chart`) — Splits the weakest stage's rejects and rework by defect type, so you work on the biggest one.
+- **Fishbone diagram** (`fishbone`) — Lays out the possible causes of the weakest stage's top defect and checks the likeliest at the work.
 
 ## Where AI helps
 

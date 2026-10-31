@@ -30,18 +30,19 @@ Not when:
 ## How to fill it in
 
 - **scopeArea** — Say which part of the commercial function these definitions cover — campaigns, pipeline, retention.
-- **metrics** — For each metric, write what it means in plain words, the formula, the data source, the owner, how often it's refreshed and the unit, as they're actually used today. Then which way is good (higher, lower, or on a target), the target as the team states it, and what is deliberately left out of the count (duplicates, existing customers, salaries in a cost figure). Get them from whoever builds the report, and leave a field blank if it isn't agreed yet — including an attribution model that's really just an unchecked default.
-- **narrative** — Write a few sentences naming which metrics are fully defined and which still have a gap — no owner, no agreed formula, or a source nobody trusts.
+- **metrics** — For each metric, write what it means in plain words, the formula, the data source, the owner, how often it's refreshed and the unit, as they're actually used today. Then which way is good (higher, lower, or on a target), the target as the team states it, and what is deliberately left out of the count (duplicates, existing customers, salaries in a cost figure). Get them from whoever builds the report, and leave a field blank if it isn't agreed yet — including an attribution model that's really just an unchecked default. Pair every volume metric with a quality one owned by the same person (marketing qualified leads with the share Sales accepts), and in "refreshed and reviewed" say how each is read: on a run chart, what counts as a real change, and who responds.
+- **narrative** — Write a few sentences naming which metrics are fully defined and which still have a gap: no agreed formula, no data source, no owner, no direction or no target, each counted for you.
 
 ## What good looks like
 
-The example below is a software company's four pipeline metrics. Marketing qualified lead (MQL), sales qualified lead (SQL) and cost per SQL are fully defined: each lead is counted once, on the date it first reaches the stage, and cost per SQL states what spend is in (paid media and programme costs) and what is out (salaries). Channel attribution is the gap: it has a data source but no agreed formula and no owner, because first-touch was never chosen, it is the CRM's default. The sheet names that rather than letting the first-touch number pass as a tested model.
+The example below is a software company's pipeline metrics. Marketing qualified lead (MQL), sales qualified lead (SQL) and cost per SQL are fully defined: each lead is counted once, on the date it first reaches the stage, and cost per SQL states what spend is in (paid media and programme costs) and what is out (salaries). The MQL count, higher is better, is paired with the share of MQLs Sales accepts within 30 days, so the count can't be lifted by loosening the fit check without the pair showing it. The channel credit rule is the gap: it has a data source but no agreed formula, owner, direction or target, because first-touch was never chosen, it is the CRM's default. The sheet names that rather than letting the first-touch number pass as a tested model.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/marketing-metric-definition-sheet
 
 ## Common mistakes
 
 - **Not writing down what is left out of the count** — Marketing and Sales can share a formula and still disagree because one drops duplicates or existing customers and the other does not, or one puts salaries into cost per lead. Write the exclusions next to the formula.
+- **A volume metric with no paired quality metric.** — A count with a higher-is-better target gets gamed, usually without anyone meaning to: the fit check loosens, leads are counted twice. Pair it with a quality rate owned by the same person, such as the share of MQLs Sales accepts.
 - **Treating a CRM's default field (like first-touch attribution) as though it were a deliberately chosen model.** — A default is not a decision — naming it as unvalidated is what stops a budget conversation from quietly trusting a number nobody actually chose.
 - **Leaving a metric unowned because 'marketing and sales both kind of own it.'** — A definition nobody owns is a definition everyone quietly forks — a real owner is what keeps the formula from silently drifting as campaigns and systems change.
 - **Resolving a genuine Marketing-vs-Sales conflict unilaterally just to make the sheet look complete.** — Picking a winner without the other team's buy-in doesn't resolve the conflict, it just hides it — naming the conflict plainly is what actually gets it fixed.
@@ -50,7 +51,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
-- **Marketing key performance indicator (KPI) tree** (`marketing-kpi-tree`) — A driver metric named there — like channel attribution, left without one — is exactly what this sheet formally names as a gap, even when it can't resolve it.
+- **Marketing key performance indicator (KPI) tree** (`marketing-kpi-tree`) — Every driver on the tree needs a definition here. A driver the tree relies on with no agreed rule, such as channel credit, is named here as a gap even when the sheet can't resolve it yet.
 
 Downstream:
 
@@ -71,7 +72,7 @@ Analysis — AI helps:
 
 Drudgery — automated:
 
-- Identifying which metrics are missing a formula or an owner
+- Identifying which metrics are missing a formula, data source, owner, direction or target
 - Exporting to xlsx in the house format
 
 ---

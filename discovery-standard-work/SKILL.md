@@ -26,7 +26,6 @@ Not when:
 
 - The sales motion is genuinely transactional with no real discovery conversation (e.g. self-serve, low-touch) — forcing a discovery script onto a motion that doesn't have one adds process without adding signal.
 - You're still figuring out what actually separates a won deal from a lost one — go run the win-loss interview guide first, then write the standard work once you know what to listen for.
-- The 'key point' would just restate the step ('ask about budget') — a real key point adds a specific technique a step alone doesn't convey.
 
 ## How to fill it in
 
@@ -42,6 +41,8 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 ## Common mistakes
 
+- **The rep talks more than the buyer.** — The compelling-event, cost and decision stages are for listening. If the buyer hasn't given the number or the names in their own words, the stage isn't done, however well the rep explained the product. Listen to a recording and time who talks.
+- **A key point that just restates the step ('ask about budget').** — It names the topic, not the technique. A real key point says how: ask where this year's money would come from, not whether there is a budget.
 - **Writing a key point that's really just a question to ask, with no technique behind it.** — 'Ask about their timeline' isn't a technique — it's the topic. The technique is how to ask it so the answer is real instead of a polite deflection.
 - **Treating every discovery call as needing the exact same script regardless of deal size or segment.** — A rigid script that ignores what's actually different about an enterprise vs. a mid-market conversation produces steps a rep follows without judgement, which is exactly what standard work is meant to prevent.
 - **Skipping the cost-of-inaction step because it feels pushy.** — Without a number the buyer calculates and defends themselves, the eventual business case has nothing real to stand on — this step isn't optional, it's where that evidence gets created.
@@ -56,6 +57,7 @@ Upstream:
 Downstream:
 
 - **Deal A3 — win-rate root cause analysis** (`deal-a3`) — When a discovery gap shows up as a recurring loss pattern rather than a one-off, that's the Pareto category a deal A3 chases to root cause.
+- **Standard work audit** (`standard-work-audit`) — Listen to a few recorded calls against the stages, with each stage's time box as its standard minutes, and find out why a stage was skipped or rushed: a stage nobody can run as written is a standard to fix, not a rep to blame.
 
 ## Where AI helps
 

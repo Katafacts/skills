@@ -8,7 +8,7 @@ description: "Help a champion sell your deal internally: the cost of the status 
 
 Help a champion sell your deal internally: the cost of the status quo, what the deal costs and the value it returns, with payback period and 3-year return on investment (ROI) computed, and every value driver's basis and confidence shown.
 
-Family: Problem solving / root cause analysis · Format: .xlsx · Domain: commercial
+Family: Deal execution · Format: .xlsx · Domain: commercial
 
 ## What it is
 
@@ -40,7 +40,7 @@ Not when:
 
 ## What good looks like
 
-The example below is Northline Freight's business case, built on the value hypothesis for the same deal. The pipeline driver takes the buyer's own $310K of pipeline lost to late discovery, counts only the quarter their head of revenue operations judged winnable ($77,500 of sales), and then only Northline's 30% gross margin on it: $23,250 a year. Forecast misses are left out, because the deals behind them are already in the $310K. Once margin is applied the case is thin, and it says so: a first draft at 20 seats never paid back, so the case is scoped to the 10 people who run pipeline review. At $24,000 a year plus $21,900 to set up, including the buyer's own staff time, it pays back in about 12 months. Neither driver carries it alone, which is why checking the RevOps hours is the first next step.
+The example below is Northline Freight's business case, built on the value hypothesis for the same deal. The pipeline driver takes the buyer's own $310K of pipeline lost to late discovery, counts only the quarter their head of revenue operations judged winnable ($77,500 of sales), and then only Northline's 30% gross margin on it: $23,250 a year. Forecast misses are left out, because the deals behind them are already in the $310K. Once margin is applied the case is thin, and it says so: a first draft at 20 seats never paid back, so the case is scoped to the 10 people who run pipeline review. At $24,000 a year plus $21,900 to set up, including the buyer's own staff time, it pays back in about 12 months. The RevOps hours are one person's estimate, so that driver is rated low confidence: without it the case never pays back. That is why checking the hours with the whole team is the first next step.
 
 Full worked example, on-screen and as a downloadable .xlsx: https://www.katafacts.com/katas/business-case-builder
 
