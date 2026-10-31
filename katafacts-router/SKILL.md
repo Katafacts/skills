@@ -6,7 +6,7 @@ description: "Pick the right Katafacts continuous-improvement method (a kata) fo
 
 # Katafacts router: pick the right kata
 
-Katafacts is a free catalogue of 90 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
+Katafacts is a free catalogue of 91 continuous-improvement methods ("katas"), each with a guide, a worked example and a file template, licensed CC BY 4.0. Use this skill to match a person's problem to the right kata, then follow that kata's guide.
 
 ## How to pick a kata
 
@@ -30,8 +30,8 @@ Katafacts is a free catalogue of 90 continuous-improvement methods ("katas"), ea
 
 What the catalogue search returns for some common problems (best match first):
 
-- "Our invoices take weeks to get paid": `makigami`, `value-stream-map`, `eight-wastes-worksheet`
-- "Too many handoffs between teams": `makigami`, `marketing-maturity-assessment`, `go-see-protocol`
+- "Our invoices take weeks to get paid": `makigami`, `kaizen-event-report-out`, `value-stream-map`
+- "Too many handoffs between teams": `makigami`, `marketing-maturity-assessment`, `shift-handover`
 - "Defects keep coming back": `error-proofing`, `pareto-chart`, `five-whys`
 - "Sales deals stall in the pipeline": `sales-funnel-map`, `qualification-standard-work`, `deal-aging-report`
 - "A change is about to go live and might fail": `fmea`, `implementation-plan`
@@ -147,6 +147,7 @@ Grouped by where each kata sits in the improvement loop. Format: `slug` -- name 
 - `stage-conversion-analysis` -- Stage conversion analysis (Measurement)
 - `improvement-idea-funnel` -- Kaizen idea funnel (Kaizen events)
 - `improvement-event-charter` -- Kaizen event charter (Kaizen events)
+- `kaizen-event-report-out` -- Kaizen event report-out (Kaizen events)
 - `raci-chart` -- RACI (responsible, accountable, consulted, informed) chart (Kaizen events)
 - `sustainment-audit` -- Sustainment audit (Kaizen events)
 - `marketing-go-see-protocol` -- Marketing go-see protocol (Measurement)

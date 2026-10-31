@@ -60,6 +60,7 @@ Full worked example, on-screen and as a downloadable .xlsx: https://www.katafact
 
 Upstream:
 
+- **Kaizen event report-out** (`kaizen-event-report-out`) — An event's report-out reads each measure at three follow-up checks. A run chart with the event marked shows whether that result really held between the checks, not just on the days someone looked.
 - **Metric definition sheet** (`metric-definition-sheet`) — Define the measure first: formula, source, what is left out, who owns it. A run chart of a number two people count differently shows the counting, not the process.
 - **5-Whys** (`five-whys`) — A 5-Whys ends with a countermeasure and a check. The run chart is how the check is read: the countermeasure is the change, and the points after it are judged against the baseline.
 - **A3 problem solving** (`a3`) — The A3's effect confirmation says how the metric will be checked after the countermeasure. Read that check on a run chart, so the A3 closes on a confirmed shift rather than one good week.
